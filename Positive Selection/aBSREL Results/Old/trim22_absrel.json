@@ -1,0 +1,3375 @@
+{
+  "analysis": {
+    "authors": "Sergei L Kosakovsky Pond, Ben Murrell, Steven Weaver and Temple iGEM / UCSD viral evolution group",
+    "citation": "Less Is More: An Adaptive Branch-Site Random Effects Model for Efficient Detection of Episodic Diversifying Selection (2015). Mol Biol Evol 32 (5): 1342-1353. v2.2 adds support for multiple-hit models. v2.3 adds support for SRV",
+    "contact": "spond@temple.edu",
+    "info": "aBSREL (Adaptive branch-site random effects likelihood)\n                            uses an adaptive random effects branch-site model framework\n                            to test whether each branch has evolved under positive selection,\n                            using a procedure which infers an optimal number of rate categories per branch.",
+    "requirements": "in-frame codon alignment and a phylogenetic tree",
+    "version": "2.3"
+  },
+  "branch attributes": {
+    "0": {
+      "NM_001113359_1_MACACA_MULATTA": {
+        "Baseline MG94xREV": 0.005924390758048031,
+        "Baseline MG94xREV omega ratio": 0.2907007706558477,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.005922705697043015,
+        "Full adaptive model (non-synonymous subs/site)": 0.002553867634045275,
+        "Full adaptive model (synonymous subs/site)": 0.003368838062997741,
+        "LRT": 0,
+        "Nucleotide GTR": 0.005469618130000966,
+        "Rate Distributions": [
+          [
+            0.2980307567216882,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1,
+        "original name": "NM_001113359_1_MACACA_MULATTA"
+      },
+      "NM_001113396_1_PAN_TROGLODYTES": {
+        "Baseline MG94xREV": 0.003360155948482233,
+        "Baseline MG94xREV omega ratio": 1.564628280755904,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.003360925070407946,
+        "Full adaptive model (non-synonymous subs/site)": 0.002698490329238996,
+        "Full adaptive model (synonymous subs/site)": 0.0006624347411689511,
+        "LRT": 0.1934033381294284,
+        "Nucleotide GTR": 0.003363602782638441,
+        "Rate Distributions": [
+          [
+            1.601476616552922,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 0.4043678427267923,
+        "original name": "NM_001113396_1_PAN_TROGLODYTES"
+      },
+      "NM_001159808_1_PONGO_ABELII": {
+        "Baseline MG94xREV": 0.002019678803819856,
+        "Baseline MG94xREV omega ratio": 0.1925190368318321,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.00201986636956003,
+        "Full adaptive model (non-synonymous subs/site)": 0.0006744082450752665,
+        "Full adaptive model (synonymous subs/site)": 0.001345458124484761,
+        "LRT": 0,
+        "Nucleotide GTR": 0.002016310192765528,
+        "Rate Distributions": [
+          [
+            0.1970586586690137,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1,
+        "original name": "NM_001159808_1_PONGO_ABELII"
+      },
+      "NM_001168862_1_PAPIO_ANUBIS": {
+        "Baseline MG94xREV": 0.002150405416698364,
+        "Baseline MG94xREV omega ratio": 10000000000,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.002151621153657309,
+        "Full adaptive model (non-synonymous subs/site)": 0.002151621153657309,
+        "Full adaptive model (synonymous subs/site)": 1e-10,
+        "LRT": 1.515517827083386,
+        "Nucleotide GTR": 0.002594512431470748,
+        "Rate Distributions": [
+          [
+            10000000000,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 0.1842745133110543,
+        "original name": "NM_001168862_1_PAPIO_ANUBIS"
+      },
+      "NM_001280099_1_NOMASCUS_LEUCOGENYS": {
+        "Baseline MG94xREV": 0.007624309502594031,
+        "Baseline MG94xREV omega ratio": 0.1580474243609834,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.007657972279842907,
+        "Full adaptive model (non-synonymous subs/site)": 0.002261025213504349,
+        "Full adaptive model (synonymous subs/site)": 0.005396947066338561,
+        "LRT": 0,
+        "Nucleotide GTR": 0.007874796765062314,
+        "Rate Distributions": [
+          [
+            0.1647024591071605,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1,
+        "original name": "NM_001280099_1_NOMASCUS_LEUCOGENYS"
+      },
+      "NM_006074_5_HOMO_SAPIENS": {
+        "Baseline MG94xREV": 0.0006683911715352841,
+        "Baseline MG94xREV omega ratio": 10000000000,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.0006682820689650801,
+        "Full adaptive model (non-synonymous subs/site)": 0.0006682820689650801,
+        "Full adaptive model (synonymous subs/site)": 1e-10,
+        "LRT": 0.6625604479158937,
+        "Nucleotide GTR": 0.0006613940039407706,
+        "Rate Distributions": [
+          [
+            10000000000,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 0.2985326740084968,
+        "original name": "NM_006074_5_HOMO_SAPIENS"
+      },
+      "Node1": {
+        "Baseline MG94xREV": 0.006633850609351893,
+        "Baseline MG94xREV omega ratio": 0.8670447630504174,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.006638329988467935,
+        "Full adaptive model (non-synonymous subs/site)": 0.004601920910796932,
+        "Full adaptive model (synonymous subs/site)": 0.002036409077671008,
+        "LRT": 0,
+        "Nucleotide GTR": 0.007002552312930017,
+        "Rate Distributions": [
+          [
+            0.8884172099513856,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1
+      },
+      "Node11": {
+        "Baseline MG94xREV": 0.008857132979315558,
+        "Baseline MG94xREV omega ratio": 0.7330636959458465,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.008797002481828648,
+        "Full adaptive model (non-synonymous subs/site)": 0.005705852458787635,
+        "Full adaptive model (synonymous subs/site)": 0.003091150023041006,
+        "LRT": 0,
+        "Nucleotide GTR": 0.009101001342668339,
+        "Rate Distributions": [
+          [
+            0.7256768870757562,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1
+      },
+      "Node12": {
+        "Baseline MG94xREV": 0.003828238341138151,
+        "Baseline MG94xREV omega ratio": 10000000000,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.003400831616292445,
+        "Full adaptive model (non-synonymous subs/site)": 0.003400831616292445,
+        "Full adaptive model (synonymous subs/site)": 1e-10,
+        "LRT": 1.769464434066322,
+        "Nucleotide GTR": 0.003671364392494041,
+        "Rate Distributions": [
+          [
+            10000000000,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 0.1605370864604739
+      },
+      "Node14": {
+        "Baseline MG94xREV": 0.01707543355740521,
+        "Baseline MG94xREV omega ratio": 0.5425567146012625,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.01672132691779713,
+        "Full adaptive model (non-synonymous subs/site)": 0.00948533381506274,
+        "Full adaptive model (synonymous subs/site)": 0.00723599310273441,
+        "LRT": 0,
+        "Nucleotide GTR": 0.01726936158821643,
+        "Rate Distributions": [
+          [
+            0.5153441042896981,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1
+      },
+      "Node16": {
+        "Baseline MG94xREV": 0.02482795975047514,
+        "Baseline MG94xREV omega ratio": 1.322038641206937,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.02387892120130004,
+        "Full adaptive model (non-synonymous subs/site)": 0.01822849123639591,
+        "Full adaptive model (synonymous subs/site)": 0.005650429964904113,
+        "LRT": 0.3310538215155248,
+        "Nucleotide GTR": 0.02466803483681029,
+        "Rate Distributions": [
+          [
+            1.268271005801694,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 0.3672419607810648
+      },
+      "Node2": {
+        "Baseline MG94xREV": 0.0222417787508686,
+        "Baseline MG94xREV omega ratio": 0.5396362230423559,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.02230635777752447,
+        "Full adaptive model (non-synonymous subs/site)": 0.01306076211349818,
+        "Full adaptive model (synonymous subs/site)": 0.009245595664026308,
+        "LRT": 0,
+        "Nucleotide GTR": 0.02184523056538469,
+        "Rate Distributions": [
+          [
+            0.5553623824478445,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1
+      },
+      "Node20": {
+        "Baseline MG94xREV": 0.009580887701286482,
+        "Baseline MG94xREV omega ratio": 1.309306833983779,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.008200243592709149,
+        "Full adaptive model (non-synonymous subs/site)": 0.007280903706242563,
+        "Full adaptive model (synonymous subs/site)": 0.0009193398864665919,
+        "LRT": 0.6486063831653155,
+        "Nucleotide GTR": 0.0104445107798004,
+        "Rate Distributions": [
+          [
+            3.113522590523981,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 0.3010315726699229
+      },
+      "Node22": {
+        "Baseline MG94xREV": 0.007487559857970867,
+        "Baseline MG94xREV omega ratio": 0.9247424886382434,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.007278658817487808,
+        "Full adaptive model (non-synonymous subs/site)": 0.005307549582976229,
+        "Full adaptive model (synonymous subs/site)": 0.001971109234511579,
+        "LRT": 0.002277278606925393,
+        "Nucleotide GTR": 0.007016365626204241,
+        "Rate Distributions": [
+          [
+            1.058586141412421,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 0.4920463475704076
+      },
+      "Node23": {
+        "Baseline MG94xREV": 0.0772263880316195,
+        "Baseline MG94xREV omega ratio": 0.947271759936763,
+        "Corrected P-value": 0.1814447882498396,
+        "Full adaptive model": 0.2348169728361887,
+        "Full adaptive model (non-synonymous subs/site)": 0.2159117354967426,
+        "Full adaptive model (synonymous subs/site)": 0.01890523733944604,
+        "LRT": 8.784200949965452,
+        "Nucleotide GTR": 0.07713126584637658,
+        "Rate Distributions": [
+          [
+            0.879211440812306,
+            0.9723127027447159
+          ],
+          [
+            131.2888880237153,
+            0.02768729725528407
+          ]
+        ],
+        "Rate classes": 2,
+        "Uncorrected P-value": 0.004320114005948561
+      },
+      "Node26": {
+        "Baseline MG94xREV": 0.02686739823014796,
+        "Baseline MG94xREV omega ratio": 1.785828011292524,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.02448275196984412,
+        "Full adaptive model (non-synonymous subs/site)": 0.01944243736183116,
+        "Full adaptive model (synonymous subs/site)": 0.005040314608012983,
+        "LRT": 0.4880642451171298,
+        "Nucleotide GTR": 0.02686442888305737,
+        "Rate Distributions": [
+          [
+            1.516477251413133,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 0.3319971547845254
+      },
+      "Node27": {
+        "Baseline MG94xREV": 0.03393961135634703,
+        "Baseline MG94xREV omega ratio": 3.560583229634434,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.03126093938383922,
+        "Full adaptive model (non-synonymous subs/site)": 0.02839243682206568,
+        "Full adaptive model (synonymous subs/site)": 0.002868502561773525,
+        "LRT": 4.849186714738607,
+        "Nucleotide GTR": 0.03397146808493708,
+        "Rate Distributions": [
+          [
+            3.891260115409662,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 0.03208606573285366
+      },
+      "Node28": {
+        "Baseline MG94xREV": 0.04744446158926696,
+        "Baseline MG94xREV omega ratio": 1.503619793800002,
+        "Corrected P-value": 0.004512311117154555,
+        "Full adaptive model": 0.0822221535732822,
+        "Full adaptive model (non-synonymous subs/site)": 0.07441732140978306,
+        "Full adaptive model (synonymous subs/site)": 0.007804832163498628,
+        "LRT": 16.19821682246402,
+        "Nucleotide GTR": 0.04622800058235393,
+        "Rate Distributions": [
+          [
+            1,
+            0.9599939398669729
+          ],
+          [
+            69.70118246218453,
+            0.0400060601330271
+          ]
+        ],
+        "Rate classes": 2,
+        "Uncorrected P-value": 0.0001025525253898762
+      },
+      "Node3": {
+        "Baseline MG94xREV": 0.0151490950002116,
+        "Baseline MG94xREV omega ratio": 1.053272494451707,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.01482207699976273,
+        "Full adaptive model (non-synonymous subs/site)": 0.01080995309642868,
+        "Full adaptive model (synonymous subs/site)": 0.004012123903334074,
+        "LRT": 0.00787464154927875,
+        "Nucleotide GTR": 0.01515925832373427,
+        "Rate Distributions": [
+          [
+            1.05923496851632,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 0.4846789653995199
+      },
+      "Node31": {
+        "Baseline MG94xREV": 0.0553287796821005,
+        "Baseline MG94xREV omega ratio": 0.5975193601015218,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.0628184363721265,
+        "Full adaptive model (non-synonymous subs/site)": 0.04188380958886113,
+        "Full adaptive model (synonymous subs/site)": 0.02093462678326536,
+        "LRT": 4.904165218595153,
+        "Nucleotide GTR": 0.05440568391949784,
+        "Rate Distributions": [
+          [
+            0,
+            0.7952710261032282
+          ],
+          [
+            3.841886059224092,
+            0.2047289738967718
+          ]
+        ],
+        "Rate classes": 2,
+        "Uncorrected P-value": 0.03119261701277515
+      },
+      "Node36": {
+        "Baseline MG94xREV": 0.007601416758807032,
+        "Baseline MG94xREV omega ratio": 1.202203325570882,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.00869411535393206,
+        "Full adaptive model (non-synonymous subs/site)": 0.006858217612326252,
+        "Full adaptive model (synonymous subs/site)": 0.001835897741605784,
+        "LRT": 4.704199204526958,
+        "Nucleotide GTR": 0.007793202981248444,
+        "Rate Distributions": [
+          [
+            0,
+            0.9618375666799438
+          ],
+          [
+            38.48305591609068,
+            0.0381624333200562
+          ]
+        ],
+        "Rate classes": 2,
+        "Uncorrected P-value": 0.03456854378374274
+      },
+      "Node37": {
+        "Baseline MG94xREV": 0.004512501918293615,
+        "Baseline MG94xREV omega ratio": 2.255381070166298,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.004476841905949091,
+        "Full adaptive model (non-synonymous subs/site)": 0.00381948228364397,
+        "Full adaptive model (synonymous subs/site)": 0.0006573596223051234,
+        "LRT": 0.6260512790722714,
+        "Nucleotide GTR": 0.00426460471509272,
+        "Rate Distributions": [
+          [
+            2.284253568976619,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 0.3051308373658275
+      },
+      "Node38": {
+        "Baseline MG94xREV": 0.004691935993298898,
+        "Baseline MG94xREV omega ratio": 0.1547581323979571,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.004689570902947179,
+        "Full adaptive model (non-synonymous subs/site)": 0.00134703981088851,
+        "Full adaptive model (synonymous subs/site)": 0.003342531092058669,
+        "LRT": 0,
+        "Nucleotide GTR": 0.004711372187073681,
+        "Rate Distributions": [
+          [
+            0.1584337902665804,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1
+      },
+      "Node43": {
+        "Baseline MG94xREV": 0.006725596493593867,
+        "Baseline MG94xREV omega ratio": 0.8981316609210512,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.006723678995673207,
+        "Full adaptive model (non-synonymous subs/site)": 0.004709822894491484,
+        "Full adaptive model (synonymous subs/site)": 0.002013856101181721,
+        "LRT": 0,
+        "Nucleotide GTR": 0.006738928705284173,
+        "Rate Distributions": [
+          [
+            0.9194306516908426,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1
+      },
+      "Node46": {
+        "Baseline MG94xREV": 0.002683668638044141,
+        "Baseline MG94xREV omega ratio": 1.162094577708778,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.002684124986920342,
+        "Full adaptive model (non-synonymous subs/site)": 0.002017969646569769,
+        "Full adaptive model (synonymous subs/site)": 0.0006661553403505757,
+        "LRT": 0.02306032289561699,
+        "Nucleotide GTR": 0.002684418930759787,
+        "Rate Distributions": [
+          [
+            1.190918254685965,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 0.4724208787689929
+      },
+      "Node5": {
+        "Baseline MG94xREV": 0.07878877172566316,
+        "Baseline MG94xREV omega ratio": 0.3893549757293859,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.08543106765919378,
+        "Full adaptive model (non-synonymous subs/site)": 0.04736431750950426,
+        "Full adaptive model (synonymous subs/site)": 0.03806675014968956,
+        "LRT": 1.961127393609786,
+        "Nucleotide GTR": 0.0773166270760151,
+        "Rate Distributions": [
+          [
+            0,
+            0.7656004273050886
+          ],
+          [
+            2.086851294847774,
+            0.2343995726949114
+          ]
+        ],
+        "Rate classes": 2,
+        "Uncorrected P-value": 0.1448084384574088
+      },
+      "Node6": {
+        "Baseline MG94xREV": 0.02466749819386452,
+        "Baseline MG94xREV omega ratio": 1.08973690603487,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.02837076858130282,
+        "Full adaptive model (non-synonymous subs/site)": 0.02071860787504822,
+        "Full adaptive model (synonymous subs/site)": 0.007652160706254589,
+        "LRT": 0.01405194557446521,
+        "Nucleotide GTR": 0.02422088471718483,
+        "Rate Distributions": [
+          [
+            1.064435438834061,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 0.4790274130995553
+      },
+      "Node7": {
+        "Baseline MG94xREV": 0.09574292736867039,
+        "Baseline MG94xREV omega ratio": 1.010402109762597,
+        "Corrected P-value": 0.1593152631037684,
+        "Full adaptive model": 7.166945818892769,
+        "Full adaptive model (non-synonymous subs/site)": 7.144596390462423,
+        "Full adaptive model (synonymous subs/site)": 0.02234942843034868,
+        "LRT": 9.08736976901855,
+        "Nucleotide GTR": 0.09271904170715863,
+        "Rate Distributions": [
+          [
+            0.9129516838529568,
+            0.9675534608279358
+          ],
+          [
+            3846.116864262084,
+            0.03244653917206419
+          ]
+        ],
+        "Rate classes": 2,
+        "Uncorrected P-value": 0.003705006118692289
+      },
+      "Node8": {
+        "Baseline MG94xREV": 0.04377654224977886,
+        "Baseline MG94xREV omega ratio": 0.3183509874781956,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.04353151368389399,
+        "Full adaptive model (non-synonymous subs/site)": 0.01991355534479048,
+        "Full adaptive model (synonymous subs/site)": 0.02361795833910349,
+        "LRT": 0,
+        "Nucleotide GTR": 0.04223956998770175,
+        "Rate Distributions": [
+          [
+            0.3314738632091604,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1
+      },
+      "XM_004389072_2_TRICHECHUS_MANATUS_LATIROSTRIS": {
+        "Baseline MG94xREV": 0.142569835255072,
+        "Baseline MG94xREV omega ratio": 1.090989438902674,
+        "Corrected P-value": 0.002957500783653533,
+        "Full adaptive model": 0.1699543446459134,
+        "Full adaptive model (non-synonymous subs/site)": 0.1356867862244404,
+        "Full adaptive model (synonymous subs/site)": 0.03426755842147326,
+        "LRT": 17.08279323325769,
+        "Nucleotide GTR": 0.1413185223198,
+        "Rate Distributions": [
+          [
+            0.6611486374552034,
+            0.8651265532033572
+          ],
+          [
+            7.300882431811347,
+            0.1348734467966428
+          ]
+        ],
+        "Rate classes": 2,
+        "Uncorrected P-value": 0.00006572223963674517,
+        "original name": "XM_004389072_2_TRICHECHUS_MANATUS_LATIROSTRIS"
+      },
+      "XM_005612111_3_EQUUS_CABALLUS": {
+        "Baseline MG94xREV": 0.1030999707443031,
+        "Baseline MG94xREV omega ratio": 0.7238071376271366,
+        "Corrected P-value": 1,
+        "Full adaptive model": 1.796034435945497,
+        "Full adaptive model (non-synonymous subs/site)": 1.76252099057535,
+        "Full adaptive model (synonymous subs/site)": 0.0335134453701172,
+        "LRT": 3.444101219454751,
+        "Nucleotide GTR": 0.1007705305889306,
+        "Rate Distributions": [
+          [
+            0.7060572830702638,
+            0.9871742946292578
+          ],
+          [
+            1557.699535943612,
+            0.01282570537074224
+          ]
+        ],
+        "Rate classes": 2,
+        "Uncorrected P-value": 0.06630538635953512,
+        "original name": "XM_005612111_3_EQUUS_CABALLUS"
+      },
+      "XM_010364545_2_RHINOPITHECUS_ROXELLANA": {
+        "Baseline MG94xREV": 0.00267575364025677,
+        "Baseline MG94xREV omega ratio": 0.3866308425369417,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.002674690341692244,
+        "Full adaptive model (non-synonymous subs/site)": 0.001342212412869115,
+        "Full adaptive model (synonymous subs/site)": 0.001332477928823127,
+        "LRT": 0,
+        "Nucleotide GTR": 0.002673497188463127,
+        "Rate Distributions": [
+          [
+            0.3960080947987065,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1,
+        "original name": "XM_010364545_2_RHINOPITHECUS_ROXELLANA"
+      },
+      "XM_016150064_2_ROUSETTUS_AEGYPTIACUS": {
+        "Baseline MG94xREV": 0.117862201406337,
+        "Baseline MG94xREV omega ratio": 0.5453290112011939,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.1325563864287096,
+        "Full adaptive model (non-synonymous subs/site)": 0.08568485857960974,
+        "Full adaptive model (synonymous subs/site)": 0.04687152784909986,
+        "LRT": 3.307886693339242,
+        "Nucleotide GTR": 0.1167718406280901,
+        "Rate Distributions": [
+          [
+            0.3359219103576538,
+            0.9198212798765288
+          ],
+          [
+            5.109779798952589,
+            0.08017872012347116
+          ]
+        ],
+        "Rate classes": 2,
+        "Uncorrected P-value": 0.07117784525260842,
+        "original name": "XM_016150064_2_ROUSETTUS_AEGYPTIACUS"
+      },
+      "XM_021685294_1_NEOMONACHUS_SCHAUINSLANDI": {
+        "Baseline MG94xREV": 0.01432304917250752,
+        "Baseline MG94xREV omega ratio": 0.787303332292147,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.01423959708824515,
+        "Full adaptive model (non-synonymous subs/site)": 0.009670259808662998,
+        "Full adaptive model (synonymous subs/site)": 0.004569337279582167,
+        "LRT": 0,
+        "Nucleotide GTR": 0.01428290299791078,
+        "Rate Distributions": [
+          [
+            0.8320084994111909,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1,
+        "original name": "XM_021685294_1_NEOMONACHUS_SCHAUINSLANDI"
+      },
+      "XM_023209627_1_PILIOCOLOBUS_TEPHROSCELES": {
+        "Baseline MG94xREV": 0.005392454235629503,
+        "Baseline MG94xREV omega ratio": 0.2298030028838345,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.005391625964046957,
+        "Full adaptive model (non-synonymous subs/site)": 0.002018586759305034,
+        "Full adaptive model (synonymous subs/site)": 0.003373039204741919,
+        "LRT": 0,
+        "Nucleotide GTR": 0.005391747970308418,
+        "Rate Distributions": [
+          [
+            0.2352712543065085,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1,
+        "original name": "XM_023209627_1_PILIOCOLOBUS_TEPHROSCELES"
+      },
+      "XM_023645865_1_EQUUS_CABALLUS": {
+        "Baseline MG94xREV": 0.1609614612373606,
+        "Baseline MG94xREV omega ratio": 1.377939437589317,
+        "Corrected P-value": 1.52743822645629e-7,
+        "Full adaptive model": 0.209822194578006,
+        "Full adaptive model (non-synonymous subs/site)": 0.1779571363840869,
+        "Full adaptive model (synonymous subs/site)": 0.03186505819391913,
+        "LRT": 36.92847499139316,
+        "Nucleotide GTR": 0.1590994168511338,
+        "Rate Distributions": [
+          [
+            0.2926309855109959,
+            0.7215841319432927
+          ],
+          [
+            7.127442614340342,
+            0.2784158680567073
+          ]
+        ],
+        "Rate classes": 2,
+        "Uncorrected P-value": 3.11722087031896e-9,
+        "original name": "XM_023645865_1_EQUUS_CABALLUS"
+      },
+      "XM_025355628_1_THEROPITHECUS_GELADA": {
+        "Baseline MG94xREV": 0.002830030080002639,
+        "Baseline MG94xREV omega ratio": 0.4217689664660866,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.00282847781631581,
+        "Full adaptive model (non-synonymous subs/site)": 0.001480916212860787,
+        "Full adaptive model (synonymous subs/site)": 0.001347561603455022,
+        "LRT": 0,
+        "Nucleotide GTR": 0.002449930625715025,
+        "Rate Distributions": [
+          [
+            0.4320407351662497,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1,
+        "original name": "XM_025355628_1_THEROPITHECUS_GELADA"
+      },
+      "XM_027580389_2_ZALOPHUS_CALIFORNIANUS": {
+        "Baseline MG94xREV": 0.00592944265684196,
+        "Baseline MG94xREV omega ratio": 0.2172948624750255,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.006062213595434958,
+        "Full adaptive model (non-synonymous subs/site)": 0.002269619350651739,
+        "Full adaptive model (synonymous subs/site)": 0.003792594244783225,
+        "LRT": 0,
+        "Nucleotide GTR": 0.005873024269654856,
+        "Rate Distributions": [
+          [
+            0.2352661689548519,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1,
+        "original name": "XM_027580389_2_ZALOPHUS_CALIFORNIANUS"
+      },
+      "XM_028516503_2_PHYLLOSTOMUS_DISCOLOR": {
+        "Baseline MG94xREV": 0.06344573965669055,
+        "Baseline MG94xREV omega ratio": 0.7532130410910625,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.06332546573669003,
+        "Full adaptive model (non-synonymous subs/site)": 0.04171452112507545,
+        "Full adaptive model (synonymous subs/site)": 0.02161094461161464,
+        "LRT": 0,
+        "Nucleotide GTR": 0.06200157920092082,
+        "Rate Distributions": [
+          [
+            0.7588507168448576,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1,
+        "original name": "XM_028516503_2_PHYLLOSTOMUS_DISCOLOR"
+      },
+      "XM_032360381_1_MUSTELA_ERMINEA": {
+        "Baseline MG94xREV": 0.04840470553149792,
+        "Baseline MG94xREV omega ratio": 0.5151126884410544,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.04836334391915414,
+        "Full adaptive model (non-synonymous subs/site)": 0.02781390672371065,
+        "Full adaptive model (synonymous subs/site)": 0.02054943719544347,
+        "LRT": 0,
+        "Nucleotide GTR": 0.04740467644285733,
+        "Rate Distributions": [
+          [
+            0.5321142611001591,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1,
+        "original name": "XM_032360381_1_MUSTELA_ERMINEA"
+      },
+      "XM_035265602_1_CALLITHRIX_JACCHUS": {
+        "Baseline MG94xREV": 0.04446530787625918,
+        "Baseline MG94xREV omega ratio": 0.6399765268543696,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.04472585870808074,
+        "Full adaptive model (non-synonymous subs/site)": 0.02803800572100451,
+        "Full adaptive model (synonymous subs/site)": 0.01668785298707624,
+        "LRT": 0,
+        "Nucleotide GTR": 0.0444020874855811,
+        "Rate Distributions": [
+          [
+            0.6605253525237907,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1,
+        "original name": "XM_035265602_1_CALLITHRIX_JACCHUS"
+      },
+      "XM_035722823_1_ZALOPHUS_CALIFORNIANUS": {
+        "Baseline MG94xREV": 0.003615186065587354,
+        "Baseline MG94xREV omega ratio": 1.528939731163376,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.003474098851545745,
+        "Full adaptive model (non-synonymous subs/site)": 0.002753499193188711,
+        "Full adaptive model (synonymous subs/site)": 0.0007205996583570402,
+        "LRT": 0.1314466881594853,
+        "Nucleotide GTR": 0.003581285260784072,
+        "Rate Distributions": [
+          [
+            1.502220686974668,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 0.4243043166347262,
+        "original name": "XM_035722823_1_ZALOPHUS_CALIFORNIANUS"
+      },
+      "XM_036030174_1_PHYLLOSTOMUS_DISCOLOR": {
+        "Baseline MG94xREV": 0.05200547304640635,
+        "Baseline MG94xREV omega ratio": 1.042515026140187,
+        "Corrected P-value": 0.00006182431586509995,
+        "Full adaptive model": 0.1176911007883052,
+        "Full adaptive model (non-synonymous subs/site)": 0.1052937268688809,
+        "Full adaptive model (synonymous subs/site)": 0.01239737391942405,
+        "LRT": 24.8276335001392,
+        "Nucleotide GTR": 0.05210696666284433,
+        "Rate Distributions": [
+          [
+            0.8325209988192271,
+            0.9783549411992112
+          ],
+          [
+            116.63137329604,
+            0.02164505880078882
+          ]
+        ],
+        "Rate classes": 2,
+        "Uncorrected P-value": 0.000001344006866632608,
+        "original name": "XM_036030174_1_PHYLLOSTOMUS_DISCOLOR"
+      },
+      "XM_036221643_1_ROUSETTUS_AEGYPTIACUS": {
+        "Baseline MG94xREV": 0.1364840389427064,
+        "Baseline MG94xREV omega ratio": 0.7451124374447854,
+        "Corrected P-value": 0.00005162482311382721,
+        "Full adaptive model": 8.276752813725816,
+        "Full adaptive model (non-synonymous subs/site)": 8.24171177762643,
+        "Full adaptive model (synonymous subs/site)": 0.03504103609936507,
+        "LRT": 25.22984075683053,
+        "Nucleotide GTR": 0.1362984482261877,
+        "Rate Distributions": [
+          [
+            0.6313783297456851,
+            0.9410206372444846
+          ],
+          [
+            1557.699535943612,
+            0.05897936275551541
+          ]
+        ],
+        "Rate classes": 2,
+        "Uncorrected P-value": 0.000001098400491783558,
+        "original name": "XM_036221643_1_ROUSETTUS_AEGYPTIACUS"
+      },
+      "XM_036325201_1_MYOTIS_MYOTIS": {
+        "Baseline MG94xREV": 0.04789063721180686,
+        "Baseline MG94xREV omega ratio": 0.4487132389898906,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.05464501624547564,
+        "Full adaptive model (non-synonymous subs/site)": 0.03314916733966088,
+        "Full adaptive model (synonymous subs/site)": 0.02149584890581473,
+        "LRT": 5.074383277435118,
+        "Nucleotide GTR": 0.04643895945415377,
+        "Rate Distributions": [
+          [
+            0,
+            0.8452233643355759
+          ],
+          [
+            3.917017010615915,
+            0.1547766356644241
+          ]
+        ],
+        "Rate classes": 2,
+        "Uncorrected P-value": 0.02858284065036781,
+        "original name": "XM_036325201_1_MYOTIS_MYOTIS"
+      },
+      "XM_036325211_1_MYOTIS_MYOTIS": {
+        "Baseline MG94xREV": 0.06174775761922741,
+        "Baseline MG94xREV omega ratio": 0.5426712747677318,
+        "Corrected P-value": 0.000008454060654194961,
+        "Full adaptive model": 0.1365421226113168,
+        "Full adaptive model (non-synonymous subs/site)": 0.1155879762244487,
+        "Full adaptive model (synonymous subs/site)": 0.02095414638686783,
+        "LRT": 28.8792633548328,
+        "Nucleotide GTR": 0.06039405157746459,
+        "Rate Distributions": [
+          [
+            0.3172738599438748,
+            0.9620707190966367
+          ],
+          [
+            49.12801858835076,
+            0.03792928090336334
+          ]
+        ],
+        "Rate classes": 2,
+        "Uncorrected P-value": 1.761262636290617e-7,
+        "original name": "XM_036325211_1_MYOTIS_MYOTIS"
+      },
+      "XM_038430319_1_CANIS_LUPUS_FAMILIARIS": {
+        "Baseline MG94xREV": 0.01848725430660479,
+        "Baseline MG94xREV omega ratio": 0.6780439740338217,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.01848964286400218,
+        "Full adaptive model (non-synonymous subs/site)": 0.01180894261378895,
+        "Full adaptive model (synonymous subs/site)": 0.006680700250213201,
+        "LRT": 0,
+        "Nucleotide GTR": 0.01873744284042121,
+        "Rate Distributions": [
+          [
+            0.6949152821418504,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1,
+        "original name": "XM_038430319_1_CANIS_LUPUS_FAMILIARIS"
+      },
+      "XM_041730637_1_VULPES_LAGOPUS": {
+        "Baseline MG94xREV": 0.01704196988983821,
+        "Baseline MG94xREV omega ratio": 3.157924581935831,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.01708021647131673,
+        "Full adaptive model (non-synonymous subs/site)": 0.01523393562772686,
+        "Full adaptive model (synonymous subs/site)": 0.001846280843589888,
+        "LRT": 3.783344276154821,
+        "Nucleotide GTR": 0.01664078569412067,
+        "Rate Distributions": [
+          [
+            3.243823301320797,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 0.05559884228030459,
+        "original name": "XM_041730637_1_VULPES_LAGOPUS"
+      },
+      "XM_044380476_2_URSUS_ARCTOS_HORRIBILIS": {
+        "Baseline MG94xREV": 0.03607043667410991,
+        "Baseline MG94xREV omega ratio": 0.441987007275613,
+        "Corrected P-value": 1,
+        "Full adaptive model": 0.03623446620401547,
+        "Full adaptive model (non-synonymous subs/site)": 0.01954723923728901,
+        "Full adaptive model (synonymous subs/site)": 0.01668722696672644,
+        "LRT": 0,
+        "Nucleotide GTR": 0.03580153838780088,
+        "Rate Distributions": [
+          [
+            0.4605153301110636,
+            1
+          ]
+        ],
+        "Rate classes": 1,
+        "Uncorrected P-value": 1,
+        "original name": "XM_044380476_2_URSUS_ARCTOS_HORRIBILIS"
+      }
+    },
+    "attributes": {
+      "Baseline MG94xREV": {
+        "attribute type": "branch length",
+        "display order": 1
+      },
+      "Baseline MG94xREV omega ratio": {
+        "attribute type": "branch label",
+        "display order": 1
+      },
+      "Corrected P-value": {
+        "attribute type": "branch label",
+        "display order": 6
+      },
+      "Full adaptive model": {
+        "attribute type": "branch length",
+        "display order": 2
+      },
+      "Full adaptive model (non-synonymous subs/site)": {
+        "attribute type": "branch label",
+        "display order": 10
+      },
+      "Full adaptive model (synonymous subs/site)": {
+        "attribute type": "branch label",
+        "display order": 9
+      },
+      "LRT": {
+        "attribute type": "branch label",
+        "display order": 4
+      },
+      "Nucleotide GTR": {
+        "attribute type": "branch length",
+        "display order": 0
+      },
+      "Rate Distributions": {
+        "attribute type": "branch label",
+        "display order": 3
+      },
+      "Rate classes": {
+        "attribute type": "branch label",
+        "display order": 2
+      },
+      "Uncorrected P-value": {
+        "attribute type": "branch label",
+        "display order": 5
+      },
+      "original name": {
+        "attribute type": "node label",
+        "display order": -1
+      }
+    }
+  },
+  "data partitions": {
+    "0": {
+      "coverage": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177,
+          178,
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          192,
+          193,
+          194,
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          209,
+          210,
+          211,
+          212,
+          213,
+          214,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          235,
+          236,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          243,
+          244,
+          245,
+          246,
+          247,
+          248,
+          249,
+          250,
+          251,
+          252,
+          253,
+          254,
+          255,
+          256,
+          257,
+          258,
+          259,
+          260,
+          261,
+          262,
+          263,
+          264,
+          265,
+          266,
+          267,
+          268,
+          269,
+          270,
+          271,
+          272,
+          273,
+          274,
+          275,
+          276,
+          277,
+          278,
+          279,
+          280,
+          281,
+          282,
+          283,
+          284,
+          285,
+          286,
+          287,
+          288,
+          289,
+          290,
+          291,
+          292,
+          293,
+          294,
+          295,
+          296,
+          297,
+          298,
+          299,
+          300,
+          301,
+          302,
+          303,
+          304,
+          305,
+          306,
+          307,
+          308,
+          309,
+          310,
+          311,
+          312,
+          313,
+          314,
+          315,
+          316,
+          317,
+          318,
+          319,
+          320,
+          321,
+          322,
+          323,
+          324,
+          325,
+          326,
+          327,
+          328,
+          329,
+          330,
+          331,
+          332,
+          333,
+          334,
+          335,
+          336,
+          337,
+          338,
+          339,
+          340,
+          341,
+          342,
+          343,
+          344,
+          345,
+          346,
+          347,
+          348,
+          349,
+          350,
+          351,
+          352,
+          353,
+          354,
+          355,
+          356,
+          357,
+          358,
+          359,
+          360,
+          361,
+          362,
+          363,
+          364,
+          365,
+          366,
+          367,
+          368,
+          369,
+          370,
+          371,
+          372,
+          373,
+          374,
+          375,
+          376,
+          377,
+          378,
+          379,
+          380,
+          381,
+          382,
+          383,
+          384,
+          385,
+          386,
+          387,
+          388,
+          389,
+          390,
+          391,
+          392,
+          393,
+          394,
+          395,
+          396,
+          397,
+          398,
+          399,
+          400,
+          401,
+          402,
+          403,
+          404,
+          405,
+          406,
+          407,
+          408,
+          409,
+          410,
+          411,
+          412,
+          413,
+          414,
+          415,
+          416,
+          417,
+          418,
+          419,
+          420,
+          421,
+          422,
+          423,
+          424,
+          425,
+          426,
+          427,
+          428,
+          429,
+          430,
+          431,
+          432,
+          433,
+          434,
+          435,
+          436,
+          437,
+          438,
+          439,
+          440,
+          441,
+          442,
+          443,
+          444,
+          445,
+          446,
+          447,
+          448,
+          449,
+          450,
+          451,
+          452,
+          453,
+          454,
+          455,
+          456,
+          457,
+          458,
+          459,
+          460,
+          461,
+          462,
+          463,
+          464,
+          465,
+          466,
+          467,
+          468,
+          469,
+          470,
+          471,
+          472,
+          473,
+          474,
+          475,
+          476,
+          477,
+          478,
+          479,
+          480,
+          481,
+          482,
+          483,
+          484,
+          485,
+          486,
+          487,
+          488,
+          489,
+          490,
+          491,
+          492,
+          493,
+          494,
+          495,
+          496,
+          497,
+          498,
+          499,
+          500,
+          501,
+          502,
+          503,
+          504,
+          505,
+          506,
+          507,
+          508,
+          509,
+          510,
+          511,
+          512,
+          513,
+          514,
+          515,
+          516,
+          517,
+          518,
+          519,
+          520,
+          521,
+          522,
+          523,
+          524,
+          525,
+          526,
+          527,
+          528,
+          529,
+          530,
+          531,
+          532,
+          533,
+          534,
+          535,
+          536,
+          537,
+          538,
+          539,
+          540,
+          541,
+          542,
+          543,
+          544,
+          545,
+          546,
+          547,
+          548,
+          549,
+          550,
+          551,
+          552,
+          553,
+          554,
+          555,
+          556,
+          557,
+          558,
+          559,
+          560,
+          561,
+          562,
+          563,
+          564,
+          565,
+          566,
+          567,
+          568,
+          569,
+          570,
+          571,
+          572,
+          573,
+          574,
+          575,
+          576,
+          577,
+          578,
+          579,
+          580,
+          581,
+          582,
+          583,
+          584,
+          585,
+          586,
+          587,
+          588,
+          589,
+          590,
+          591,
+          592,
+          593,
+          594,
+          595,
+          596,
+          597,
+          598,
+          599,
+          600,
+          601,
+          602,
+          603,
+          604,
+          605,
+          606,
+          607,
+          608,
+          609,
+          610,
+          611,
+          612,
+          613,
+          614,
+          615,
+          616,
+          617,
+          618,
+          619,
+          620,
+          621,
+          622,
+          623,
+          624,
+          625,
+          626,
+          627,
+          628,
+          629,
+          630,
+          631,
+          632,
+          633,
+          634,
+          635,
+          636,
+          637,
+          638,
+          639,
+          640,
+          641,
+          642,
+          643,
+          644,
+          645,
+          646,
+          647,
+          648,
+          649,
+          650,
+          651,
+          652,
+          653,
+          654,
+          655,
+          656,
+          657,
+          658,
+          659,
+          660,
+          661,
+          662,
+          663,
+          664,
+          665,
+          666,
+          667,
+          668,
+          669,
+          670,
+          671,
+          672,
+          673,
+          674,
+          675,
+          676,
+          677,
+          678,
+          679,
+          680
+        ]
+      ],
+      "name": "absrel.filter.default"
+    }
+  },
+  "fits": {
+    "Baseline MG94xREV": {
+      "AIC-c": 27316.48416900863,
+      "Equilibrium frequencies": [
+        [
+          0.02566524176064901
+        ],
+        [
+          0.02506168012194999
+        ],
+        [
+          0.03592710392086119
+        ],
+        [
+          0.0279451953327703
+        ],
+        [
+          0.01079483499920448
+        ],
+        [
+          0.01054097616699995
+        ],
+        [
+          0.0151109879439983
+        ],
+        [
+          0.01175378651995859
+        ],
+        [
+          0.01180144667045514
+        ],
+        [
+          0.01152391565953125
+        ],
+        [
+          0.01652007820148512
+        ],
+        [
+          0.01284981982600272
+        ],
+        [
+          0.01722876763296968
+        ],
+        [
+          0.0168236039753546
+        ],
+        [
+          0.02411743208774742
+        ],
+        [
+          0.01875927300184035
+        ],
+        [
+          0.01894845455744838
+        ],
+        [
+          0.01850284954853542
+        ],
+        [
+          0.02652471004847254
+        ],
+        [
+          0.02063172709613418
+        ],
+        [
+          0.007969745321129089
+        ],
+        [
+          0.007782323258602107
+        ],
+        [
+          0.01115632851018044
+        ],
+        [
+          0.008677732001451938
+        ],
+        [
+          0.008712919131357327
+        ],
+        [
+          0.008508020077694915
+        ],
+        [
+          0.01219664922721611
+        ],
+        [
+          0.009486925130692974
+        ],
+        [
+          0.01271986929321285
+        ],
+        [
+          0.01242074001844327
+        ],
+        [
+          0.01780571834151595
+        ],
+        [
+          0.01384982987189876
+        ],
+        [
+          0.02546754453190318
+        ],
+        [
+          0.02486863207845092
+        ],
+        [
+          0.03565036041895864
+        ],
+        [
+          0.02772993581074545
+        ],
+        [
+          0.01071168328047088
+        ],
+        [
+          0.01045977990179714
+        ],
+        [
+          0.01499458925708936
+        ],
+        [
+          0.01166324807719088
+        ],
+        [
+          0.01171054110550084
+        ],
+        [
+          0.01143514789293717
+        ],
+        [
+          0.01639282540918508
+        ],
+        [
+          0.01275083872957764
+        ],
+        [
+          0.01709605586475379
+        ],
+        [
+          0.01669401314919124
+        ],
+        [
+          0.02393165750854498
+        ],
+        [
+          0.01861477187769989
+        ],
+        [
+          0.02305694783672965
+        ],
+        [
+          0.02570980508647446
+        ],
+        [
+          0.009931335260510666
+        ],
+        [
+          0.00969778308748989
+        ],
+        [
+          0.01390223077985364
+        ],
+        [
+          0.01081357839362826
+        ],
+        [
+          0.01060209534810749
+        ],
+        [
+          0.0151986051811717
+        ],
+        [
+          0.01182193787478868
+        ],
+        [
+          0.01585060517377673
+        ],
+        [
+          0.01547785134109225
+        ],
+        [
+          0.02218823202982431
+        ],
+        [
+          0.0172586824567909
+        ]
+      ],
+      "Log Likelihood": -13545.52270747936,
+      "display order": 1,
+      "estimated parameters": 112,
+      "branch-annotations": {
+        "NM_001113359_1_MACACA_MULATTA": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.2907007706558477,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "NM_001113396_1_PAN_TROGLODYTES": {
+          "LRT": 0.1934033381294284,
+          "omegas": [
+            {
+              "omega": 1.564628280755904,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.4043678427267923,
+          "tested": true
+        },
+        "NM_001159808_1_PONGO_ABELII": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.1925190368318321,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "NM_001168862_1_PAPIO_ANUBIS": {
+          "LRT": 1.515517827083386,
+          "omegas": [
+            {
+              "omega": 10000000000,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.1842745133110543,
+          "tested": true
+        },
+        "NM_001280099_1_NOMASCUS_LEUCOGENYS": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.1580474243609834,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "NM_006074_5_HOMO_SAPIENS": {
+          "LRT": 0.6625604479158937,
+          "omegas": [
+            {
+              "omega": 10000000000,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.2985326740084968,
+          "tested": true
+        },
+        "Node1": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.8670447630504174,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "Node11": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.7330636959458465,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "Node12": {
+          "LRT": 1.769464434066322,
+          "omegas": [
+            {
+              "omega": 10000000000,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.1605370864604739,
+          "tested": true
+        },
+        "Node14": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.5425567146012625,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "Node16": {
+          "LRT": 0.3310538215155248,
+          "omegas": [
+            {
+              "omega": 1.322038641206937,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.3672419607810648,
+          "tested": true
+        },
+        "Node2": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.5396362230423559,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "Node20": {
+          "LRT": 0.6486063831653155,
+          "omegas": [
+            {
+              "omega": 1.309306833983779,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.3010315726699229,
+          "tested": true
+        },
+        "Node22": {
+          "LRT": 0.002277278606925393,
+          "omegas": [
+            {
+              "omega": 0.9247424886382434,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.4920463475704076,
+          "tested": true
+        },
+        "Node23": {
+          "LRT": 8.784200949965452,
+          "omegas": [
+            {
+              "omega": 0.947271759936763,
+              "prop": 1
+            }
+          ],
+          "p": 0.1814447882498396,
+          "uncorrected p": 0.004320114005948561,
+          "tested": true
+        },
+        "Node26": {
+          "LRT": 0.4880642451171298,
+          "omegas": [
+            {
+              "omega": 1.785828011292524,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.3319971547845254,
+          "tested": true
+        },
+        "Node27": {
+          "LRT": 4.849186714738607,
+          "omegas": [
+            {
+              "omega": 3.560583229634434,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.03208606573285366,
+          "tested": true
+        },
+        "Node28": {
+          "LRT": 16.19821682246402,
+          "omegas": [
+            {
+              "omega": 1.503619793800002,
+              "prop": 1
+            }
+          ],
+          "p": 0.004512311117154555,
+          "uncorrected p": 0.0001025525253898762,
+          "tested": true
+        },
+        "Node3": {
+          "LRT": 0.00787464154927875,
+          "omegas": [
+            {
+              "omega": 1.053272494451707,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.4846789653995199,
+          "tested": true
+        },
+        "Node31": {
+          "LRT": 4.904165218595153,
+          "omegas": [
+            {
+              "omega": 0.5975193601015218,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.03119261701277515,
+          "tested": true
+        },
+        "Node36": {
+          "LRT": 4.704199204526958,
+          "omegas": [
+            {
+              "omega": 1.202203325570882,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.03456854378374274,
+          "tested": true
+        },
+        "Node37": {
+          "LRT": 0.6260512790722714,
+          "omegas": [
+            {
+              "omega": 2.255381070166298,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.3051308373658275,
+          "tested": true
+        },
+        "Node38": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.1547581323979571,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "Node43": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.8981316609210512,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "Node46": {
+          "LRT": 0.02306032289561699,
+          "omegas": [
+            {
+              "omega": 1.162094577708778,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.4724208787689929,
+          "tested": true
+        },
+        "Node5": {
+          "LRT": 1.961127393609786,
+          "omegas": [
+            {
+              "omega": 0.3893549757293859,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.1448084384574088,
+          "tested": true
+        },
+        "Node6": {
+          "LRT": 0.01405194557446521,
+          "omegas": [
+            {
+              "omega": 1.08973690603487,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.4790274130995553,
+          "tested": true
+        },
+        "Node7": {
+          "LRT": 9.08736976901855,
+          "omegas": [
+            {
+              "omega": 1.010402109762597,
+              "prop": 1
+            }
+          ],
+          "p": 0.1593152631037684,
+          "uncorrected p": 0.003705006118692289,
+          "tested": true
+        },
+        "Node8": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.3183509874781956,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_004389072_2_TRICHECHUS_MANATUS_LATIROSTRIS": {
+          "LRT": 17.08279323325769,
+          "omegas": [
+            {
+              "omega": 1.090989438902674,
+              "prop": 1
+            }
+          ],
+          "p": 0.002957500783653533,
+          "uncorrected p": 0.00006572223963674517,
+          "tested": true
+        },
+        "XM_005612111_3_EQUUS_CABALLUS": {
+          "LRT": 3.444101219454751,
+          "omegas": [
+            {
+              "omega": 0.7238071376271366,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.06630538635953512,
+          "tested": true
+        },
+        "XM_010364545_2_RHINOPITHECUS_ROXELLANA": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.3866308425369417,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_016150064_2_ROUSETTUS_AEGYPTIACUS": {
+          "LRT": 3.307886693339242,
+          "omegas": [
+            {
+              "omega": 0.5453290112011939,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.07117784525260842,
+          "tested": true
+        },
+        "XM_021685294_1_NEOMONACHUS_SCHAUINSLANDI": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.787303332292147,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_023209627_1_PILIOCOLOBUS_TEPHROSCELES": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.2298030028838345,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_023645865_1_EQUUS_CABALLUS": {
+          "LRT": 36.92847499139316,
+          "omegas": [
+            {
+              "omega": 1.377939437589317,
+              "prop": 1
+            }
+          ],
+          "p": 1.52743822645629e-7,
+          "uncorrected p": 3.11722087031896e-9,
+          "tested": true
+        },
+        "XM_025355628_1_THEROPITHECUS_GELADA": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.4217689664660866,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_027580389_2_ZALOPHUS_CALIFORNIANUS": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.2172948624750255,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_028516503_2_PHYLLOSTOMUS_DISCOLOR": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.7532130410910625,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_032360381_1_MUSTELA_ERMINEA": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.5151126884410544,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_035265602_1_CALLITHRIX_JACCHUS": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.6399765268543696,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_035722823_1_ZALOPHUS_CALIFORNIANUS": {
+          "LRT": 0.1314466881594853,
+          "omegas": [
+            {
+              "omega": 1.528939731163376,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.4243043166347262,
+          "tested": true
+        },
+        "XM_036030174_1_PHYLLOSTOMUS_DISCOLOR": {
+          "LRT": 24.8276335001392,
+          "omegas": [
+            {
+              "omega": 1.042515026140187,
+              "prop": 1
+            }
+          ],
+          "p": 0.00006182431586509995,
+          "uncorrected p": 0.000001344006866632608,
+          "tested": true
+        },
+        "XM_036221643_1_ROUSETTUS_AEGYPTIACUS": {
+          "LRT": 25.22984075683053,
+          "omegas": [
+            {
+              "omega": 0.7451124374447854,
+              "prop": 1
+            }
+          ],
+          "p": 0.00005162482311382721,
+          "uncorrected p": 0.000001098400491783558,
+          "tested": true
+        },
+        "XM_036325201_1_MYOTIS_MYOTIS": {
+          "LRT": 5.074383277435118,
+          "omegas": [
+            {
+              "omega": 0.4487132389898906,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.02858284065036781,
+          "tested": true
+        },
+        "XM_036325211_1_MYOTIS_MYOTIS": {
+          "LRT": 28.8792633548328,
+          "omegas": [
+            {
+              "omega": 0.5426712747677318,
+              "prop": 1
+            }
+          ],
+          "p": 0.000008454060654194961,
+          "uncorrected p": 1.761262636290617e-7,
+          "tested": true
+        },
+        "XM_038430319_1_CANIS_LUPUS_FAMILIARIS": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.6780439740338217,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_041730637_1_VULPES_LAGOPUS": {
+          "LRT": 3.783344276154821,
+          "omegas": [
+            {
+              "omega": 3.157924581935831,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.05559884228030459,
+          "tested": true
+        },
+        "XM_044380476_2_URSUS_ARCTOS_HORRIBILIS": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.441987007275613,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        }
+      },
+      "annotation-tag": "ω"
+    },
+    "Full adaptive model": {
+      "AIC-c": 27116.41982236402,
+      "Log Likelihood": -13417.08608539209,
+      "display order": 2,
+      "estimated parameters": 140,
+      "branch-annotations": {
+        "NM_001113359_1_MACACA_MULATTA": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.2980307567216882,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "NM_001113396_1_PAN_TROGLODYTES": {
+          "LRT": 0.1934033381294284,
+          "omegas": [
+            {
+              "omega": 1.601476616552922,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.4043678427267923,
+          "tested": true
+        },
+        "NM_001159808_1_PONGO_ABELII": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.1970586586690137,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "NM_001168862_1_PAPIO_ANUBIS": {
+          "LRT": 1.515517827083386,
+          "omegas": [
+            {
+              "omega": 10000000000,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.1842745133110543,
+          "tested": true
+        },
+        "NM_001280099_1_NOMASCUS_LEUCOGENYS": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.1647024591071605,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "NM_006074_5_HOMO_SAPIENS": {
+          "LRT": 0.6625604479158937,
+          "omegas": [
+            {
+              "omega": 10000000000,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.2985326740084968,
+          "tested": true
+        },
+        "Node1": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.8884172099513856,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "Node11": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.7256768870757562,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "Node12": {
+          "LRT": 1.769464434066322,
+          "omegas": [
+            {
+              "omega": 10000000000,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.1605370864604739,
+          "tested": true
+        },
+        "Node14": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.5153441042896981,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "Node16": {
+          "LRT": 0.3310538215155248,
+          "omegas": [
+            {
+              "omega": 1.268271005801694,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.3672419607810648,
+          "tested": true
+        },
+        "Node2": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.5553623824478445,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "Node20": {
+          "LRT": 0.6486063831653155,
+          "omegas": [
+            {
+              "omega": 3.113522590523981,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.3010315726699229,
+          "tested": true
+        },
+        "Node22": {
+          "LRT": 0.002277278606925393,
+          "omegas": [
+            {
+              "omega": 1.058586141412421,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.4920463475704076,
+          "tested": true
+        },
+        "Node23": {
+          "LRT": 8.784200949965452,
+          "omegas": [
+            {
+              "omega": 0.879211440812306,
+              "prop": 0.9723127027447159
+            },
+            {
+              "omega": 131.2888880237153,
+              "prop": 0.02768729725528407
+            }
+          ],
+          "p": 0.1814447882498396,
+          "uncorrected p": 0.004320114005948561,
+          "tested": true
+        },
+        "Node26": {
+          "LRT": 0.4880642451171298,
+          "omegas": [
+            {
+              "omega": 1.516477251413133,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.3319971547845254,
+          "tested": true
+        },
+        "Node27": {
+          "LRT": 4.849186714738607,
+          "omegas": [
+            {
+              "omega": 3.891260115409662,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.03208606573285366,
+          "tested": true
+        },
+        "Node28": {
+          "LRT": 16.19821682246402,
+          "omegas": [
+            {
+              "omega": 1,
+              "prop": 0.9599939398669729
+            },
+            {
+              "omega": 69.70118246218453,
+              "prop": 0.0400060601330271
+            }
+          ],
+          "p": 0.004512311117154555,
+          "uncorrected p": 0.0001025525253898762,
+          "tested": true
+        },
+        "Node3": {
+          "LRT": 0.00787464154927875,
+          "omegas": [
+            {
+              "omega": 1.05923496851632,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.4846789653995199,
+          "tested": true
+        },
+        "Node31": {
+          "LRT": 4.904165218595153,
+          "omegas": [
+            {
+              "omega": 0,
+              "prop": 0.7952710261032282
+            },
+            {
+              "omega": 3.841886059224092,
+              "prop": 0.2047289738967718
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.03119261701277515,
+          "tested": true
+        },
+        "Node36": {
+          "LRT": 4.704199204526958,
+          "omegas": [
+            {
+              "omega": 0,
+              "prop": 0.9618375666799438
+            },
+            {
+              "omega": 38.48305591609068,
+              "prop": 0.0381624333200562
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.03456854378374274,
+          "tested": true
+        },
+        "Node37": {
+          "LRT": 0.6260512790722714,
+          "omegas": [
+            {
+              "omega": 2.284253568976619,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.3051308373658275,
+          "tested": true
+        },
+        "Node38": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.1584337902665804,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "Node43": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.9194306516908426,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "Node46": {
+          "LRT": 0.02306032289561699,
+          "omegas": [
+            {
+              "omega": 1.190918254685965,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.4724208787689929,
+          "tested": true
+        },
+        "Node5": {
+          "LRT": 1.961127393609786,
+          "omegas": [
+            {
+              "omega": 0,
+              "prop": 0.7656004273050886
+            },
+            {
+              "omega": 2.086851294847774,
+              "prop": 0.2343995726949114
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.1448084384574088,
+          "tested": true
+        },
+        "Node6": {
+          "LRT": 0.01405194557446521,
+          "omegas": [
+            {
+              "omega": 1.064435438834061,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.4790274130995553,
+          "tested": true
+        },
+        "Node7": {
+          "LRT": 9.08736976901855,
+          "omegas": [
+            {
+              "omega": 0.9129516838529568,
+              "prop": 0.9675534608279358
+            },
+            {
+              "omega": 3846.116864262084,
+              "prop": 0.03244653917206419
+            }
+          ],
+          "p": 0.1593152631037684,
+          "uncorrected p": 0.003705006118692289,
+          "tested": true
+        },
+        "Node8": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.3314738632091604,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_004389072_2_TRICHECHUS_MANATUS_LATIROSTRIS": {
+          "LRT": 17.08279323325769,
+          "omegas": [
+            {
+              "omega": 0.6611486374552034,
+              "prop": 0.8651265532033572
+            },
+            {
+              "omega": 7.300882431811347,
+              "prop": 0.1348734467966428
+            }
+          ],
+          "p": 0.002957500783653533,
+          "uncorrected p": 0.00006572223963674517,
+          "tested": true
+        },
+        "XM_005612111_3_EQUUS_CABALLUS": {
+          "LRT": 3.444101219454751,
+          "omegas": [
+            {
+              "omega": 0.7060572830702638,
+              "prop": 0.9871742946292578
+            },
+            {
+              "omega": 1557.699535943612,
+              "prop": 0.01282570537074224
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.06630538635953512,
+          "tested": true
+        },
+        "XM_010364545_2_RHINOPITHECUS_ROXELLANA": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.3960080947987065,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_016150064_2_ROUSETTUS_AEGYPTIACUS": {
+          "LRT": 3.307886693339242,
+          "omegas": [
+            {
+              "omega": 0.3359219103576538,
+              "prop": 0.9198212798765288
+            },
+            {
+              "omega": 5.109779798952589,
+              "prop": 0.08017872012347116
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.07117784525260842,
+          "tested": true
+        },
+        "XM_021685294_1_NEOMONACHUS_SCHAUINSLANDI": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.8320084994111909,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_023209627_1_PILIOCOLOBUS_TEPHROSCELES": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.2352712543065085,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_023645865_1_EQUUS_CABALLUS": {
+          "LRT": 36.92847499139316,
+          "omegas": [
+            {
+              "omega": 0.2926309855109959,
+              "prop": 0.7215841319432927
+            },
+            {
+              "omega": 7.127442614340342,
+              "prop": 0.2784158680567073
+            }
+          ],
+          "p": 1.52743822645629e-7,
+          "uncorrected p": 3.11722087031896e-9,
+          "tested": true
+        },
+        "XM_025355628_1_THEROPITHECUS_GELADA": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.4320407351662497,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_027580389_2_ZALOPHUS_CALIFORNIANUS": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.2352661689548519,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_028516503_2_PHYLLOSTOMUS_DISCOLOR": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.7588507168448576,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_032360381_1_MUSTELA_ERMINEA": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.5321142611001591,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_035265602_1_CALLITHRIX_JACCHUS": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.6605253525237907,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_035722823_1_ZALOPHUS_CALIFORNIANUS": {
+          "LRT": 0.1314466881594853,
+          "omegas": [
+            {
+              "omega": 1.502220686974668,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.4243043166347262,
+          "tested": true
+        },
+        "XM_036030174_1_PHYLLOSTOMUS_DISCOLOR": {
+          "LRT": 24.8276335001392,
+          "omegas": [
+            {
+              "omega": 0.8325209988192271,
+              "prop": 0.9783549411992112
+            },
+            {
+              "omega": 116.63137329604,
+              "prop": 0.02164505880078882
+            }
+          ],
+          "p": 0.00006182431586509995,
+          "uncorrected p": 0.000001344006866632608,
+          "tested": true
+        },
+        "XM_036221643_1_ROUSETTUS_AEGYPTIACUS": {
+          "LRT": 25.22984075683053,
+          "omegas": [
+            {
+              "omega": 0.6313783297456851,
+              "prop": 0.9410206372444846
+            },
+            {
+              "omega": 1557.699535943612,
+              "prop": 0.05897936275551541
+            }
+          ],
+          "p": 0.00005162482311382721,
+          "uncorrected p": 0.000001098400491783558,
+          "tested": true
+        },
+        "XM_036325201_1_MYOTIS_MYOTIS": {
+          "LRT": 5.074383277435118,
+          "omegas": [
+            {
+              "omega": 0,
+              "prop": 0.8452233643355759
+            },
+            {
+              "omega": 3.917017010615915,
+              "prop": 0.1547766356644241
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.02858284065036781,
+          "tested": true
+        },
+        "XM_036325211_1_MYOTIS_MYOTIS": {
+          "LRT": 28.8792633548328,
+          "omegas": [
+            {
+              "omega": 0.3172738599438748,
+              "prop": 0.9620707190966367
+            },
+            {
+              "omega": 49.12801858835076,
+              "prop": 0.03792928090336334
+            }
+          ],
+          "p": 0.000008454060654194961,
+          "uncorrected p": 1.761262636290617e-7,
+          "tested": true
+        },
+        "XM_038430319_1_CANIS_LUPUS_FAMILIARIS": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.6949152821418504,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        },
+        "XM_041730637_1_VULPES_LAGOPUS": {
+          "LRT": 3.783344276154821,
+          "omegas": [
+            {
+              "omega": 3.243823301320797,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 0.05559884228030459,
+          "tested": true
+        },
+        "XM_044380476_2_URSUS_ARCTOS_HORRIBILIS": {
+          "LRT": 0,
+          "omegas": [
+            {
+              "omega": 0.4605153301110636,
+              "prop": 1
+            }
+          ],
+          "p": 1,
+          "uncorrected p": 1,
+          "tested": true
+        }
+      },
+      "annotation-tag": "ω"
+    },
+    "Nucleotide GTR": {
+      "AIC-c": 27686.00050180809,
+      "Equilibrium frequencies": [
+        [
+          0.2862332647410004
+        ],
+        [
+          0.2084444783172014
+        ],
+        [
+          0.2578055534385083
+        ],
+        [
+          0.2475167035032899
+        ]
+      ],
+      "Log Likelihood": -13785.93794408158,
+      "display order": 0,
+      "estimated parameters": 57
+    }
+  },
+  "input": {
+    "file name": "/home/datamonkey/datamonkey-js-server/production/app/absrel/output/62c0f176e3fb78072bbc9523",
+    "number of sequences": 26,
+    "number of sites": 681,
+    "partition count": 1,
+    "trees": {
+      "0": "((((XM_035265602_1_CALLITHRIX_JACCHUS:0.04554786958147089,((((XM_038430319_1_CANIS_LUPUS_FAMILIARIS:0.02187568479854454,XM_041730637_1_VULPES_LAGOPUS:0.01348786930584301)Node8:0.03930229451221308,((XM_032360381_1_MUSTELA_ERMINEA:0.04396266448679554,(XM_021685294_1_NEOMONACHUS_SCHAUINSLANDI:0.01583110082930544,(XM_035722823_1_ZALOPHUS_CALIFORNIANUS:0.003456400654427486,XM_027580389_2_ZALOPHUS_CALIFORNIANUS:0.006032310900893217)Node16:0.02123209682883263)Node14:0.01859078378602984)Node12:0.003725252413127794,XM_044380476_2_URSUS_ARCTOS_HORRIBILIS:0.035067635829309)Node11:0.007657342681726964)Node7:0.07320465067176109,(XM_005612111_3_EQUUS_CABALLUS:0.09871717146107775,((XM_023645865_1_EQUUS_CABALLUS:0.1515275670556317,XM_036221643_1_ROUSETTUS_AEGYPTIACUS:0.1393308435470667)Node23:0.03629191999913099,(((XM_036325201_1_MYOTIS_MYOTIS:0.04548274473853008,XM_036325211_1_MYOTIS_MYOTIS:0.05905011620197532)Node28:0.04134455317222008,(XM_036030174_1_PHYLLOSTOMUS_DISCOLOR:0.04771373083505769,XM_028516503_2_PHYLLOSTOMUS_DISCOLOR:0.0635450084493062)Node31:0.04918850917790221)Node27:0.03355197283712797,XM_016150064_2_ROUSETTUS_AEGYPTIACUS:0.1053921246185306)Node26:0.01355997903649438)Node22:0.006457675186949646)Node20:0.005496476958781735)Node6:0.01122478464056829,XM_004389072_2_TRICHECHUS_MANATUS_LATIROSTRIS:0.1406837706689525)Node5:0.07290409442305565)Node3:0.01270847000482519,(((NM_006074_5_HOMO_SAPIENS:0.0005489138899745522,NM_001113396_1_PAN_TROGLODYTES:0.003480596663130909)Node38:0.004129591866103901,NM_001159808_1_PONGO_ABELII:0.00262274713949363)Node37:0.003956057143017671,NM_001280099_1_NOMASCUS_LEUCOGENYS:0.008300989873914094)Node36:0.008424184048401841)Node2:0.02000125576921877,(XM_023209627_1_PILIOCOLOBUS_TEPHROSCELES:0.005339155841858128,XM_010364545_2_RHINOPITHECUS_ROXELLANA:0.002739531730464219)Node43:0.007748322225540397)Node1:0.005678787448902566,(NM_001113359_1_MACACA_MULATTA:0.004754090915320757,NM_001168862_1_PAPIO_ANUBIS:0.003338626427484467)Node46:0.001593736488993581,XM_025355628_1_THEROPITHECUS_GELADA:0.003136028724585089)"
+    }
+  },
+  "runtime": "2.5.38",
+  "test results": {
+    "P-value threshold": 0.05,
+    "positive test results": 6,
+    "tested": 49
+  },
+  "tested": {
+    "0": {
+      "NM_001113359_1_MACACA_MULATTA": "test",
+      "NM_001113396_1_PAN_TROGLODYTES": "test",
+      "NM_001159808_1_PONGO_ABELII": "test",
+      "NM_001168862_1_PAPIO_ANUBIS": "test",
+      "NM_001280099_1_NOMASCUS_LEUCOGENYS": "test",
+      "NM_006074_5_HOMO_SAPIENS": "test",
+      "Node1": "test",
+      "Node11": "test",
+      "Node12": "test",
+      "Node14": "test",
+      "Node16": "test",
+      "Node2": "test",
+      "Node20": "test",
+      "Node22": "test",
+      "Node23": "test",
+      "Node26": "test",
+      "Node27": "test",
+      "Node28": "test",
+      "Node3": "test",
+      "Node31": "test",
+      "Node36": "test",
+      "Node37": "test",
+      "Node38": "test",
+      "Node43": "test",
+      "Node46": "test",
+      "Node5": "test",
+      "Node6": "test",
+      "Node7": "test",
+      "Node8": "test",
+      "XM_004389072_2_TRICHECHUS_MANATUS_LATIROSTRIS": "test",
+      "XM_005612111_3_EQUUS_CABALLUS": "test",
+      "XM_010364545_2_RHINOPITHECUS_ROXELLANA": "test",
+      "XM_016150064_2_ROUSETTUS_AEGYPTIACUS": "test",
+      "XM_021685294_1_NEOMONACHUS_SCHAUINSLANDI": "test",
+      "XM_023209627_1_PILIOCOLOBUS_TEPHROSCELES": "test",
+      "XM_023645865_1_EQUUS_CABALLUS": "test",
+      "XM_025355628_1_THEROPITHECUS_GELADA": "test",
+      "XM_027580389_2_ZALOPHUS_CALIFORNIANUS": "test",
+      "XM_028516503_2_PHYLLOSTOMUS_DISCOLOR": "test",
+      "XM_032360381_1_MUSTELA_ERMINEA": "test",
+      "XM_035265602_1_CALLITHRIX_JACCHUS": "test",
+      "XM_035722823_1_ZALOPHUS_CALIFORNIANUS": "test",
+      "XM_036030174_1_PHYLLOSTOMUS_DISCOLOR": "test",
+      "XM_036221643_1_ROUSETTUS_AEGYPTIACUS": "test",
+      "XM_036325201_1_MYOTIS_MYOTIS": "test",
+      "XM_036325211_1_MYOTIS_MYOTIS": "test",
+      "XM_038430319_1_CANIS_LUPUS_FAMILIARIS": "test",
+      "XM_041730637_1_VULPES_LAGOPUS": "test",
+      "XM_044380476_2_URSUS_ARCTOS_HORRIBILIS": "test"
+    }
+  },
+  "timers": {
+    "Baseline model fitting": {
+      "order": 2,
+      "timer": 3
+    },
+    "Complexity analysis": {
+      "order": 3,
+      "timer": 51
+    },
+    "Full adaptive model fitting": {
+      "order": 4,
+      "timer": 12
+    },
+    "Overall": {
+      "order": 0,
+      "timer": 162
+    },
+    "Preliminary model fitting": {
+      "order": 1,
+      "timer": 1
+    },
+    "Testing for selection": {
+      "order": 5,
+      "timer": 95
+    }
+  },
+  "trees": {
+    "branchLengths": {
+      "Baseline MG94xREV": {
+        "NM_001113359_1_MACACA_MULATTA": 0.005924390758048031,
+        "NM_001113396_1_PAN_TROGLODYTES": 0.003360155948482233,
+        "NM_001159808_1_PONGO_ABELII": 0.002019678803819856,
+        "NM_001168862_1_PAPIO_ANUBIS": 0.002150405416698364,
+        "NM_001280099_1_NOMASCUS_LEUCOGENYS": 0.007624309502594031,
+        "NM_006074_5_HOMO_SAPIENS": 0.0006683911715352841,
+        "Node1": 0.006633850609351893,
+        "Node11": 0.008857132979315558,
+        "Node12": 0.003828238341138151,
+        "Node14": 0.01707543355740521,
+        "Node16": 0.02482795975047514,
+        "Node2": 0.0222417787508686,
+        "Node20": 0.009580887701286482,
+        "Node22": 0.007487559857970867,
+        "Node23": 0.0772263880316195,
+        "Node26": 0.02686739823014796,
+        "Node27": 0.03393961135634703,
+        "Node28": 0.04744446158926696,
+        "Node3": 0.0151490950002116,
+        "Node31": 0.0553287796821005,
+        "Node36": 0.007601416758807032,
+        "Node37": 0.004512501918293615,
+        "Node38": 0.004691935993298898,
+        "Node43": 0.006725596493593867,
+        "Node46": 0.002683668638044141,
+        "Node5": 0.07878877172566316,
+        "Node6": 0.02466749819386452,
+        "Node7": 0.09574292736867039,
+        "Node8": 0.04377654224977886,
+        "XM_004389072_2_TRICHECHUS_MANATUS_LATIROSTRIS": 0.142569835255072,
+        "XM_005612111_3_EQUUS_CABALLUS": 0.1030999707443031,
+        "XM_010364545_2_RHINOPITHECUS_ROXELLANA": 0.00267575364025677,
+        "XM_016150064_2_ROUSETTUS_AEGYPTIACUS": 0.117862201406337,
+        "XM_021685294_1_NEOMONACHUS_SCHAUINSLANDI": 0.01432304917250752,
+        "XM_023209627_1_PILIOCOLOBUS_TEPHROSCELES": 0.005392454235629503,
+        "XM_023645865_1_EQUUS_CABALLUS": 0.1609614612373606,
+        "XM_025355628_1_THEROPITHECUS_GELADA": 0.002830030080002639,
+        "XM_027580389_2_ZALOPHUS_CALIFORNIANUS": 0.00592944265684196,
+        "XM_028516503_2_PHYLLOSTOMUS_DISCOLOR": 0.06344573965669055,
+        "XM_032360381_1_MUSTELA_ERMINEA": 0.04840470553149792,
+        "XM_035265602_1_CALLITHRIX_JACCHUS": 0.04446530787625918,
+        "XM_035722823_1_ZALOPHUS_CALIFORNIANUS": 0.003615186065587354,
+        "XM_036030174_1_PHYLLOSTOMUS_DISCOLOR": 0.05200547304640635,
+        "XM_036221643_1_ROUSETTUS_AEGYPTIACUS": 0.1364840389427064,
+        "XM_036325201_1_MYOTIS_MYOTIS": 0.04789063721180686,
+        "XM_036325211_1_MYOTIS_MYOTIS": 0.06174775761922741,
+        "XM_038430319_1_CANIS_LUPUS_FAMILIARIS": 0.01848725430660479,
+        "XM_041730637_1_VULPES_LAGOPUS": 0.01704196988983821,
+        "XM_044380476_2_URSUS_ARCTOS_HORRIBILIS": 0.03607043667410991
+      },
+      "Full adaptive model": {
+        "NM_001113359_1_MACACA_MULATTA": 0.005922705697043015,
+        "NM_001113396_1_PAN_TROGLODYTES": 0.003360925070407946,
+        "NM_001159808_1_PONGO_ABELII": 0.00201986636956003,
+        "NM_001168862_1_PAPIO_ANUBIS": 0.002151621153657309,
+        "NM_001280099_1_NOMASCUS_LEUCOGENYS": 0.007657972279842907,
+        "NM_006074_5_HOMO_SAPIENS": 0.0006682820689650801,
+        "Node1": 0.006638329988467935,
+        "Node11": 0.008797002481828648,
+        "Node12": 0.003400831616292445,
+        "Node14": 0.01672132691779713,
+        "Node16": 0.02387892120130004,
+        "Node2": 0.02230635777752447,
+        "Node20": 0.008200243592709149,
+        "Node22": 0.007278658817487808,
+        "Node23": 0.2348169728361887,
+        "Node26": 0.02448275196984412,
+        "Node27": 0.03126093938383922,
+        "Node28": 0.0822221535732822,
+        "Node3": 0.01482207699976273,
+        "Node31": 0.0628184363721265,
+        "Node36": 0.00869411535393206,
+        "Node37": 0.004476841905949091,
+        "Node38": 0.004689570902947179,
+        "Node43": 0.006723678995673207,
+        "Node46": 0.002684124986920342,
+        "Node5": 0.08543106765919378,
+        "Node6": 0.02837076858130282,
+        "Node7": 7.166945818892769,
+        "Node8": 0.04353151368389399,
+        "XM_004389072_2_TRICHECHUS_MANATUS_LATIROSTRIS": 0.1699543446459134,
+        "XM_005612111_3_EQUUS_CABALLUS": 1.796034435945497,
+        "XM_010364545_2_RHINOPITHECUS_ROXELLANA": 0.002674690341692244,
+        "XM_016150064_2_ROUSETTUS_AEGYPTIACUS": 0.1325563864287096,
+        "XM_021685294_1_NEOMONACHUS_SCHAUINSLANDI": 0.01423959708824515,
+        "XM_023209627_1_PILIOCOLOBUS_TEPHROSCELES": 0.005391625964046957,
+        "XM_023645865_1_EQUUS_CABALLUS": 0.209822194578006,
+        "XM_025355628_1_THEROPITHECUS_GELADA": 0.00282847781631581,
+        "XM_027580389_2_ZALOPHUS_CALIFORNIANUS": 0.006062213595434958,
+        "XM_028516503_2_PHYLLOSTOMUS_DISCOLOR": 0.06332546573669003,
+        "XM_032360381_1_MUSTELA_ERMINEA": 0.04836334391915414,
+        "XM_035265602_1_CALLITHRIX_JACCHUS": 0.04472585870808074,
+        "XM_035722823_1_ZALOPHUS_CALIFORNIANUS": 0.003474098851545745,
+        "XM_036030174_1_PHYLLOSTOMUS_DISCOLOR": 0.1176911007883052,
+        "XM_036221643_1_ROUSETTUS_AEGYPTIACUS": 8.276752813725816,
+        "XM_036325201_1_MYOTIS_MYOTIS": 0.05464501624547564,
+        "XM_036325211_1_MYOTIS_MYOTIS": 0.1365421226113168,
+        "XM_038430319_1_CANIS_LUPUS_FAMILIARIS": 0.01848964286400218,
+        "XM_041730637_1_VULPES_LAGOPUS": 0.01708021647131673,
+        "XM_044380476_2_URSUS_ARCTOS_HORRIBILIS": 0.03623446620401547
+      }
+    }
+  }
+}

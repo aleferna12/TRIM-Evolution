@@ -1,0 +1,44 @@
+Species;Order;ERVs;TRIM5 count
+Balaenoptera musculus;Artiodactyla;4.84;0.0
+Bos taurus;Artiodactyla;4.41;5.0
+Bubalus bubalis;Artiodactyla;3.23;2.0
+Callithrix jacchus;Primates;7.08;1.0
+Camelus dromedarius;Artiodactyla;4.58;1.0
+Canis lupus familiaris;Carnivora;4.32;0.0
+Cervus elaphus;Artiodactyla;3.34;2.0
+Choloepus didactylus;Pilosa;9.63;2.0
+Condylura cristata;Eulipotyphla;3.38;1.0
+Elephantulus edwardii;Macroscelidea;0.58;0.0
+Equus caballus;Perissodactyla;6.62;3.0
+Felis catus;Carnivora;4.59;1.0
+Homo sapiens;Primates;8.83;1.0
+Jaculus jaculus;Rodentia;5.51;1.0
+Macaca mulatta;Primates;8.73;1.0
+Manis pentadactyla;Pholidota;4.32;1.0
+Marmota marmota marmota;Rodentia;5.23;2.0
+Microcebus murinus;Primates;5.83;1.0
+Microtus ochrogaster;Rodentia;4.63;6.0
+Mus musculus;Rodentia;11.66;7.0
+Mustela erminea;Carnivora;4.18;1.0
+Myotis myotis;Chiroptera;4.83;5.0
+Neomonachus schauinslandi;Carnivora;4.6;1.0
+Nomascus leucogenys;Primates;8.07;1.0
+Ochotona princeps;Lagomorpha;1.99;1.0
+Oryctolagus cuniculus;Lagomorpha;3.84;1.0
+Ovis aries;Artiodactyla;3.22;5.0
+Pan troglodytes;Primates;8.61;1.0
+Papio anubis;Primates;8.22;1.0
+Peromyscus maniculatus bairdii;Rodentia;7.23;4.0
+Phocoena sinus;Artiodactyla;4.53;0.0
+Physeter catodon;Artiodactyla;4.68;0.0
+Pongo abelii;Primates;8.62;1.0
+Puma concolor;Carnivora;4.45;1.0
+Rattus norvegicus;Rodentia;10.27;3.0
+Rhinolophus ferrumequinum;Chiroptera;4.53;0.0
+Rhinopithecus roxellana;Primates;8.53;1.0
+Rousettus aegyptiacus;Chiroptera;4.14;1.0
+Sus scrofa;Artiodactyla;4.26;1.0
+Theropithecus gelada;Primates;8.51;1.0
+Trichechus manatus latirostris;Sirenia;5.06;1.0
+Tursiops truncatus;Artiodactyla;4.71;0.0
+Ursus arctos horribilis;Carnivora;4.79;1.0

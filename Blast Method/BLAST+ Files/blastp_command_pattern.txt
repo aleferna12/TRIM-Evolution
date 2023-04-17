@@ -1,0 +1,1 @@
+blastp -db refseq_protein -query TRIMX.fasta -out TRIMX.out -max_target_seqs 2000 -entrez_query "Eutheria[Organism]" -outfmt "7 delim=; saccver stitle pident length mismatch gapopen qstart qend sstart send evalue bitscore" -remote

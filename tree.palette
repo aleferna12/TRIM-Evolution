@@ -1,0 +1,11 @@
+{
+    "trim6": "#ffffcbcb",
+    "trim34": "#ffe7fbbe",
+    "trim5": "#ffd9d7f1",
+    "trim22": "#fffffdde",
+    "negsel": "#ff000000",
+    "neutsel": "#ffe4e4e4",
+    "possel": "#ffe9453a",
+    "protlabel": "#ff646464",
+    "transp": "#00000000"
+}

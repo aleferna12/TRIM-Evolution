@@ -1,0 +1,782 @@
+id;species;TRIM;title;transcripts;location
+94094;Mus musculus;34;Trim34a tripartite motif-containing 34A;['XR_004934226.1', 'XR_003946603.2', 'XM_006508369.4', 'XM_006508368.3', 'NM_001357679.1', 'NM_030684.3'];NC_000073.7
+434218;Mus musculus;34;Trim34b tripartite motif-containing 34B;['XM_036153217.1', 'NM_001243916.1'];NC_000073.7
+94088;Mus musculus;6;Trim6 tripartite motif-containing 6;['XM_006508364.3', 'XM_017312407.2', 'XM_006508366.4', 'XM_006508365.4', 'NM_001013616.2'];NC_000073.7
+667823;Mus musculus;5;Trim5 tripartite motif-containing 5;['XM_017312234.3', 'XM_017312233.3', 'XM_036153361.1', 'NM_001310602.1'];NC_000073.7
+245575;Mus musculus;5;Gm4992 tripartite motif-containing 5 pseudogene;[];NC_000086.8
+105979888;Echinops telfairi;6;TRIM6 tripartite motif containing 6;['XM_013008432.1'];NW_022103939.1
+101644545;Echinops telfairi;34;LOC101644545 tripartite motif-containing protein 34;['XM_013008433.2', 'XM_013008433.1'];NW_022103939.1
+101662635;Echinops telfairi;5;LOC101662635 tripartite motif-containing protein 5;['XM_004717095.2', 'XM_045290551.1', 'XM_004717095.1'];NW_022103939.1
+10346;Homo sapiens;22;TRIM22 tripartite motif containing 22;['NM_001199573.2', 'NM_006074.5'];NC_000011.10
+53840;Homo sapiens;34;TRIM34 tripartite motif containing 34;['NM_021616.6', 'NM_130390.2', 'NM_001003827.1'];NC_000011.10
+85363;Homo sapiens;5;TRIM5 tripartite motif containing 5;['NM_033093.4', 'NM_033092.4', 'NM_033034.3', 'XR_001748018.2', 'XM_017018463.2', 'XM_006718358.3', 'XM_011520427.2', 'XR_930921.2', 'XR_001748017.2', 'XR_001748016.2', 'XR_930920.3', 'XR_001748015.2', 'XM_017018462.2', 'XR_001748014.2', 'XM_017018461.2', 'XM_011520426.3', 'XM_017018460.2', 'XM_005253184.3', 'XM_005253183.3'];NC_000011.10
+117854;Homo sapiens;6;TRIM6 tripartite motif containing 6;['NM_058166.5', 'NM_001198644.2', 'NM_001198645.2', 'NM_001003818.3'];NC_000011.10
+122449903;Cervus canadensis;6;TRIM6 tripartite motif containing 6;['XM_043481996.1', 'XM_043481995.1', 'XM_043481994.1', 'XM_043481993.1'];NC_057396.1
+122449901;Cervus canadensis;34;LOC122449901 tripartite motif-containing protein 34-like;['XM_043481992.1', 'XM_043481990.1', 'XM_043481989.1', 'XM_043481988.1', 'XM_043481987.1', 'XM_043481986.1', 'XM_043481985.1', 'XM_043481984.1', 'XM_043481983.1', 'XM_043481982.1'];NC_057396.1
+122449879;Cervus canadensis;5;LOC122449879 tripartite motif-containing protein 5-like;['XM_043481936.1', 'XM_043481935.1'];NC_057396.1
+122450353;Cervus canadensis;5;LOC122450353 tripartite motif-containing protein 5-like;['XM_043482636.1'];NC_057396.1
+122434086;Cervus canadensis;6;LOC122434086 tripartite motif-containing protein 6-like;['XM_043457577.1'];NC_057386.1
+122450226;Cervus canadensis;34;LOC122450226 tripartite motif-containing protein 34-like;['XM_043482450.1'];NC_057396.1
+122449272;Cervus canadensis;5;LOC122449272 tripartite motif-containing protein 5-like;[];NC_057396.1
+122449271;Cervus canadensis;5;LOC122449271 tripartite motif-containing protein 5-like;[];NC_057396.1
+122449269;Cervus canadensis;5;LOC122449269 tripartite motif-containing protein 5-like;[];NC_057396.1
+113191339;Urocitellus parryii;6;Trim6 tripartite motif containing 6;['XM_026401050.1'];NW_020540126.1
+113178168;Urocitellus parryii;5;LOC113178168 tripartite motif-containing protein 5-like;['XM_026382607.1'];NW_020541574.1
+113178581;Urocitellus parryii;34;LOC113178581 tripartite motif-containing protein 34-like;['XM_026382833.1'];NW_020546216.1
+113200462;Urocitellus parryii;34;LOC113200462 tripartite motif-containing protein 34 pseudogene;[];NW_020540498.1
+113190809;Urocitellus parryii;6;LOC113190809 tripartite motif-containing protein 6 pseudogene;[];NW_020540116.1
+102975900;Physeter catodon;6;LOC102975900 tripartite motif-containing protein 6;['XM_007102989.2', 'XM_007102988.2'];NC_041229.1
+101241893;Rattus norvegicus;34;Trim34 tripartite motif-containing 34;['XM_039103735.1', 'NM_001276491.1'];NC_051336.1
+293294;Rattus norvegicus;6;Trim6 tripartite motif containing 6;['XM_039106717.1', 'NM_001170461.1'];NC_051336.1
+308906;Rattus norvegicus;5;Trim5 tripartite motif-containing 5;['XR_005486311.1', 'XM_039078166.1', 'XM_006229912.4', 'NM_001014023.1'];NC_051336.1
+102273271;Bos mutus;34;LOC102273271 tripartite motif-containing protein 34;['XM_005906879.2'];NW_005395372.1
+102272794;Bos mutus;6;TRIM6 tripartite motif containing 6;['XM_005906878.2', 'XM_005906877.1'];NW_005395372.1
+102273840;Bos mutus;5;LOC102273840 tripartite motif-containing protein 5;['XM_005906880.1'];NW_005395372.1
+102283392;Bos mutus;5;LOC102283392 tripartite motif-containing protein 5-like;['XM_014478537.1'];NW_005393791.1
+102281509;Bos mutus;5;LOC102281509 tripartite motif-containing protein 5-like;['XM_005910269.2'];NW_005396549.1
+102281146;Bos mutus;5;LOC102281146 tripartite motif-containing protein 5-like;['XM_014478378.1'];NW_005393746.1
+102280864;Bos mutus;5;LOC102280864 tripartite motif-containing protein 5-like;['XM_005896284.1'];NW_005393746.1
+102281708;Bos mutus;6;LOC102281708 tripartite motif-containing protein 6-like;[];NW_005393746.1
+102269557;Bos mutus;5;LOC102269557 tripartite motif-containing protein 5-like;[];NW_005393911.1
+102267852;Bos mutus;5;LOC102267852 tripartite motif-containing protein 5-like;[];NW_005393350.1
+106830225;Equus asinus;6;TRIM6 tripartite motif containing 6;['XM_014839654.2'];NC_052196.1
+106830224;Equus asinus;22;LOC106830224 E3 ubiquitin-protein ligase TRIM22-like;['XM_014839651.2', 'XM_044753279.1', 'XM_044753278.1'];NC_052196.1
+106830222;Equus asinus;22;LOC106830222 E3 ubiquitin-protein ligase TRIM22-like;['XM_014839649.2', 'XM_044753381.1'];NC_052196.1
+106830227;Equus asinus;22;LOC106830227 E3 ubiquitin-protein ligase TRIM22-like;['XM_014839657.2'];NC_052196.1
+106830223;Equus asinus;22;LOC106830223 E3 ubiquitin-protein ligase TRIM22-like;['XM_014839650.2'];NC_052196.1
+123279003;Equus asinus;22;LOC123279003 E3 ubiquitin-protein ligase TRIM22-like;['XM_044753285.1'];NC_052196.1
+106830220;Equus asinus;5;LOC106830220 tripartite motif-containing protein 5-like;['XM_044753380.1', 'XM_014839644.2', 'XM_044753379.1', 'XM_014839642.2', 'XM_014839643.2', 'XM_044753378.1', 'XM_044753377.1', 'XM_044753376.1', 'XM_044753374.1', 'XM_014839634.2', 'XM_044753373.1'];NC_052196.1
+123279002;Equus asinus;22;LOC123279002 E3 ubiquitin-protein ligase TRIM22-like;[];NC_052196.1
+123278958;Equus asinus;22;LOC123278958 E3 ubiquitin-protein ligase TRIM22-like;[];NC_052196.1
+106830231;Equus asinus;22;LOC106830231 E3 ubiquitin-protein ligase TRIM22-like;[];NC_052196.1
+106830184;Equus asinus;22;LOC106830184 E3 ubiquitin-protein ligase TRIM22-like;[];NC_052196.1
+106830229;Equus asinus;5;LOC106830229 tripartite motif-containing protein 5-like;['XM_044753284.1', 'XM_044753283.1', 'XR_006516777.1', 'XR_006516776.1', 'XR_006516775.1', 'XM_044753282.1', 'XM_044753281.1', 'XR_006516774.1'];NC_052196.1
+106830226;Equus asinus;34;LOC106830226 tripartite motif-containing protein 34-like;['XM_044753280.1', 'XM_014839656.2', 'XM_014839655.2'];NC_052196.1
+106830178;Equus asinus;34;LOC106830178 tripartite motif-containing protein 34-like;['XM_044752188.1'];NC_052196.1
+106830232;Equus asinus;5;LOC106830232 tripartite motif-containing protein 5-like;[];NC_052196.1
+118574868;Onychomys torridus;34;LOC118574868 tripartite motif-containing protein 34A-like;['XR_004943779.1', 'XM_036175725.1', 'XM_036175724.1', 'XM_036175723.1'];NC_050443.1
+118576832;Onychomys torridus;34;LOC118576832 tripartite motif-containing protein 34A-like;[];NC_050443.1
+102735662;Leptonychotes weddellii;22;LOC102735662 E3 ubiquitin-protein ligase TRIM22;['XM_031027486.1'];NW_006383425.1
+102735159;Leptonychotes weddellii;6;TRIM6 tripartite motif containing 6;['XM_031027498.1', 'XM_006732717.2'];NW_006383425.1
+102750029;Leptonychotes weddellii;34;LOC102750029 tripartite motif-containing protein 34;['XM_031027499.1'];NW_006383425.1
+100716342;Cavia porcellus;6;Trim6 tripartite motif containing 6;['XM_023563098.1'];NT_176348.1
+100715212;Cavia porcellus;34;LOC100715212 tripartite motif-containing protein 34;['XM_003465340.4'];NT_176348.1
+100715495;Cavia porcellus;5;LOC100715495 tripartite motif-containing protein 5-like;['XM_013147641.1'];NT_176348.1
+118525312;Halichoerus grypus;22;TRIM22 tripartite motif containing 22;['XM_036075992.1', 'XM_036075991.1', 'XM_036075990.1', 'XM_036075989.1'];NW_023402369.1
+118525313;Halichoerus grypus;6;TRIM6 tripartite motif containing 6;['XM_036075996.1', 'XM_036075995.1', 'XM_036075994.1', 'XM_036075993.1'];NW_023402369.1
+118525315;Halichoerus grypus;34;LOC118525315 tripartite motif-containing protein 34-like;['XM_036076012.1', 'XM_036076011.1', 'XM_036076010.1', 'XM_036076009.1', 'XM_036076008.1', 'XM_036076007.1', 'XM_036076006.1'];NW_023402369.1
+118525314;Halichoerus grypus;34;LOC118525314 tripartite motif-containing protein 34-like;['XM_036076004.1', 'XM_036076003.1', 'XM_036076002.1', 'XM_036076001.1', 'XM_036076000.1', 'XM_036075999.1', 'XM_036075998.1', 'XM_036075997.1'];NW_023402369.1
+103891859;Pongo abelii;34;TRIM34 tripartite motif containing 34;['XM_024255659.1', 'XM_009246711.2', 'XM_009246710.2'];NC_036914.1
+100294624;Pongo abelii;22;TRIM22 tripartite motif containing 22;['XM_024254712.1', 'NM_001159808.1'];NC_036914.1
+100137088;Pongo abelii;5;TRIM5 tripartite motif containing 5;['XM_024254357.1', 'XM_024254356.1', 'NM_001131070.1'];NC_036914.1
+100174213;Pongo abelii;6;TRIM6 tripartite motif containing 6;['NM_001133690.3', 'XM_024254633.1', 'XM_009246709.2', 'XM_024254631.1'];NC_036914.1
+101532304;Ochotona princeps;6;LOC101532304 tripartite motif-containing protein 6;['XM_036494363.1', 'XM_004589972.1'];NC_050536.1
+101532545;Ochotona princeps;5;LOC101532545 tripartite motif-containing protein 5;['XM_004589973.3'];NC_050536.1
+118760411;Ochotona princeps;6;LOC118760411 tripartite motif-containing protein 6-like;[];NC_050568.1
+122114953;Dipodomys spectabilis;5;LOC122114953 tripartite motif-containing protein 5-like;['XM_042688243.1', 'XM_042688234.1', 'XM_042688228.1', 'XM_042688224.1'];NW_024870680.1
+122114994;Dipodomys spectabilis;6;LOC122114994 tripartite motif-containing protein 6-like;['XM_042688287.1', 'XM_042688279.1'];NW_024870680.1
+122114988;Dipodomys spectabilis;5;LOC122114988 tripartite motif-containing protein 5-like;['XM_042688265.1'];NW_024870680.1
+122114980;Dipodomys spectabilis;5;LOC122114980 tripartite motif-containing protein 5-like;['XM_042688253.1'];NW_024870680.1
+122114846;Dipodomys spectabilis;5;LOC122114846 tripartite motif-containing protein 5-like;['XM_042688108.1'];NW_024870789.1
+122102281;Dipodomys spectabilis;34;LOC122102281 tripartite motif-containing protein 34-like;[];NW_024871460.1
+123601257;Leopardus geoffroyi;6;TRIM6 tripartite motif containing 6;['XM_045484278.1', 'XM_045484277.1', 'XM_045484276.1', 'XM_045484275.1', 'XM_045484274.1', 'XM_045484273.1'];NC_059329.1
+123601259;Leopardus geoffroyi;22;LOC123601259 E3 ubiquitin-protein ligase TRIM22-like;[];NC_059329.1
+123601256;Leopardus geoffroyi;34;LOC123601256 tripartite motif-containing protein 34-like;['XM_045484272.1', 'XM_045484271.1', 'XM_045484270.1', 'XM_045484269.1', 'XM_045484268.1', 'XM_045484267.1', 'XM_045484265.1'];NC_059329.1
+102813727;Chrysochloris asiatica;34;TRIM34 tripartite motif containing 34;['XM_006878302.1'];NW_006408658.1
+102838123;Chrysochloris asiatica;5;TRIM5 tripartite motif containing 5;['XM_006870328.1'];NW_006408658.1
+102838496;Chrysochloris asiatica;5;LOC102838496 tripartite motif-containing protein 5-like;['XM_006870329.1'];NW_006408658.1
+102838874;Chrysochloris asiatica;6;LOC102838874 tripartite motif-containing protein 6-like;[];NW_006408658.1
+102833351;Chrysochloris asiatica;6;LOC102833351 tripartite motif-containing protein 6-like;[];NW_006408542.1
+102009273;Chinchilla lanigera;34;LOC102009273 tripartite motif-containing protein 34;['XM_013512001.1', 'XM_013512000.1', 'XM_005380098.2', 'XM_005380097.2'];NW_004955414.1
+102008616;Chinchilla lanigera;6;Trim6 tripartite motif containing 6;['XM_013511999.1', 'XM_013511998.1', 'XM_013511997.1', 'XM_013511995.1', 'XM_013511994.1', 'XM_005380095.2'];NW_004955414.1
+102007986;Chinchilla lanigera;5;LOC102007986 tripartite motif-containing protein 5-like;['XM_013512004.1', 'XM_005380093.2', 'XM_013512002.1'];NW_004955414.1
+102008935;Chinchilla lanigera;5;LOC102008935 tripartite motif-containing protein 5-like;['XM_013512006.1', 'XM_013512005.1'];NW_004955414.1
+106147995;Chinchilla lanigera;5;LOC106147995 tripartite motif-containing protein 5-like;['XM_013511731.1'];NW_004955414.1
+102007543;Chinchilla lanigera;5;LOC102007543 tripartite motif-containing protein 5-like;['XM_013511732.1'];NW_004955414.1
+106147996;Chinchilla lanigera;5;LOC106147996 tripartite motif-containing protein 5-like;[];NW_004955414.1
+101327542;Tursiops truncatus;6;LOC101327542 tripartite motif-containing protein 6;['XM_019948125.2', 'XM_019948124.2', 'XR_002179011.2', 'XR_002179010.2', 'XR_002179009.2', 'XR_004527902.1', 'XR_002179008.2', 'XM_004327721.3'];NC_047041.1
+116525025;Sapajus apella;22;TRIM22 tripartite motif containing 22;['XM_032240541.1', 'XM_032240540.1', 'XM_032240539.1'];NW_022436987.1
+116525021;Sapajus apella;34;TRIM34 tripartite motif containing 34;['XM_032240532.1', 'XM_032240531.1', 'XM_032240530.1', 'XM_032240529.1', 'XM_032240528.1'];NW_022436987.1
+116525024;Sapajus apella;5;TRIM5 tripartite motif containing 5;['XM_032240538.1', 'XM_032240537.1', 'XM_032240536.1'];NW_022436987.1
+116525022;Sapajus apella;6;TRIM6 tripartite motif containing 6;['XM_032240534.1', 'XM_032240533.1'];NW_022436987.1
+117030612;Rhinolophus ferrumequinum;6;TRIM6 tripartite motif containing 6;['XM_033120757.1', 'XM_033120756.1'];NC_046294.1
+117029704;Rhinolophus ferrumequinum;22;LOC117029704 E3 ubiquitin-protein ligase TRIM22-like;['XM_033118909.1'];NC_046294.1
+117029703;Rhinolophus ferrumequinum;22;LOC117029703 E3 ubiquitin-protein ligase TRIM22-like;['XM_033118908.1'];NC_046294.1
+117030611;Rhinolophus ferrumequinum;34;LOC117030611 tripartite motif-containing protein 34-like;['XM_033120755.1', 'XM_033120754.1'];NC_046294.1
+108288363;Cebus imitator;22;TRIM22 tripartite motif containing 22;['XM_017507270.2', 'XM_017507269.2', 'XM_017507268.1'];NW_016107685.1
+108288365;Cebus imitator;6;TRIM6 tripartite motif containing 6;['XM_037730956.1', 'XM_017507273.2'];NW_016107685.1
+108288364;Cebus imitator;5;TRIM5 tripartite motif containing 5;['XM_017507272.2', 'XM_017507271.2'];NW_016107685.1
+108288361;Cebus imitator;34;LOC108288361 tripartite motif-containing protein 34;['XM_017507263.2', 'XM_017507262.2', 'XM_017507264.1'];NW_016107685.1
+103268949;Carlito syrichta;22;TRIM22 tripartite motif containing 22;['XM_008066532.2', 'XM_021716828.1'];NW_007253094.1
+103268948;Carlito syrichta;5;TRIM5 tripartite motif containing 5;['XM_008066531.2'];NW_007253094.1
+103268945;Carlito syrichta;6;TRIM6 tripartite motif containing 6;['XM_008066529.2'];NW_007253094.1
+103268946;Carlito syrichta;34;LOC103268946 tripartite motif-containing protein 34-like;['XM_008066530.1'];NW_007253094.1
+103270197;Carlito syrichta;5;LOC103270197 tripartite motif-containing protein 5-like;[];NW_007253846.1
+101031737;Saimiri boliviensis;22;TRIM22 tripartite motif containing 22;['XM_003923356.2', 'XM_010334224.1', 'XM_010334223.1'];NW_024100923.1
+104650647;Saimiri boliviensis;6;LOC104650647 tripartite motif-containing protein 6;['XM_039470989.1', 'XM_039470988.1', 'XM_010334227.2'];NW_024100923.1
+101032043;Saimiri boliviensis;5;TRIM5 tripartite motif containing 5;['XM_010334225.2'];NW_024100923.1
+117081698;Trachypithecus francoisi;34;TRIM34 tripartite motif containing 34;['XM_033207972.1', 'XM_033207971.1'];NW_022681473.1
+117081693;Trachypithecus francoisi;22;TRIM22 tripartite motif containing 22;['XM_033207965.1'];NW_022681473.1
+117081694;Trachypithecus francoisi;5;TRIM5 tripartite motif containing 5;['XM_033207969.1', 'XM_033207968.1', 'XM_033207966.1'];NW_022681473.1
+117081699;Trachypithecus francoisi;6;TRIM6 tripartite motif containing 6;['XM_033207973.1'];NW_022681473.1
+110576228;Neomonachus schauinslandi;22;TRIM22 tripartite motif containing 22;['XM_044919390.1', 'XM_021685294.1'];NC_058413.1
+110576225;Neomonachus schauinslandi;6;TRIM6 tripartite motif containing 6;['XM_021685292.1', 'XM_021685291.1'];NC_058413.1
+110576440;Neomonachus schauinslandi;34;LOC110576440 tripartite motif-containing protein 34-like;['XM_021685638.1'];NC_058413.1
+110576227;Neomonachus schauinslandi;34;LOC110576227 tripartite motif-containing protein 34-like;['XM_021685293.1'];NC_058413.1
+102972786;Panthera tigris;22;LOC102972786 E3 ubiquitin-protein ligase TRIM22;['XM_007092206.3'];NC_056669.1
+102971923;Panthera tigris;34;LOC102971923 tripartite motif-containing protein 34;['XM_007092205.3', 'XM_042959563.1', 'XM_042959562.1', 'XM_015542100.2'];NC_056669.1
+102948474;Panthera tigris;6;TRIM6 tripartite motif containing 6;['XM_042959564.1'];NC_056669.1
+122231465;Panthera tigris;34;LOC122231465 tripartite motif-containing protein 34-like;[];NC_056669.1
+100738479;Sus scrofa;34;LOC100738479 tripartite motif-containing protein 34;['XM_013979111.2', 'XM_021062359.1', 'XM_005667079.3', 'XM_013979110.2'];NC_010451.4
+100622028;Sus scrofa;6;LOC100622028 tripartite motif-containing protein 6;['XM_021062360.1'];NC_010451.4
+116600250;Mustela erminea;22;TRIM22 tripartite motif containing 22;['XM_032360382.1', 'XM_032360381.1'];NC_045622.1
+116600253;Mustela erminea;6;TRIM6 tripartite motif containing 6;['XM_032360389.1'];NC_045622.1
+116600255;Mustela erminea;5;LOC116600255 tripartite motif-containing protein 5-like;['XM_032360396.1', 'XM_032360395.1', 'XM_032360394.1', 'XM_032360393.1', 'XM_032360392.1'];NC_045622.1
+116600251;Mustela erminea;34;LOC116600251 tripartite motif-containing protein 34-like;['XM_032360388.1', 'XM_032360387.1', 'XM_032360386.1', 'XM_032360385.1', 'XM_032360384.1', 'XM_032360383.1'];NC_045622.1
+117974842;Pan paniscus;34;TRIM34 tripartite motif containing 34;['XM_034932031.1', 'XM_034932030.1'];NC_048250.1
+100984796;Pan paniscus;22;TRIM22 tripartite motif containing 22;['XM_003819047.2'];NC_048250.1
+100984455;Pan paniscus;5;TRIM5 tripartite motif containing 5;['XM_034932029.1', 'XM_008972438.3', 'XM_034932028.1', 'XM_008972434.3', 'XM_008972436.3', 'XM_003819046.4', 'XM_008972435.3'];NC_048250.1
+103782663;Pan paniscus;6;TRIM6 tripartite motif containing 6;['XM_034932027.1', 'XM_008972429.3', 'XM_008972427.2', 'XM_008972428.2'];NC_048250.1
+103247880;Chlorocebus sabaeus;22;TRIM22 tripartite motif containing 22;['XM_008019876.2', 'XM_008019875.2'];NW_023666043.1
+103247900;Chlorocebus sabaeus;34;TRIM34 tripartite motif containing 34;['XM_008019891.2'];NW_023666043.1
+103247899;Chlorocebus sabaeus;6;TRIM6 tripartite motif containing 6;['XM_038005537.1', 'XM_038005536.1'];NW_023666043.1
+103247881;Chlorocebus sabaeus;5;TRIM5 tripartite motif containing 5;['XM_008019877.2', 'XM_008019878.2'];NW_023666043.1
+102892772;Pteropus alecto;22;TRIM22 tripartite motif containing 22;['XM_025049459.1', 'XM_025049458.1', 'XM_006915676.3', 'XM_006915675.3'];NW_006438643.1
+102893667;Pteropus alecto;6;TRIM6 tripartite motif containing 6;['XM_006915680.1', 'XM_006915679.1', 'XM_006915678.1'];NW_006438643.1
+102893426;Pteropus alecto;34;LOC102893426 tripartite motif-containing protein 34-like;['XM_015592357.2'];NW_006438643.1
+102888261;Pteropus alecto;34;LOC102888261 tripartite motif-containing protein 34;['XM_015592331.2'];NW_006438643.1
+102893173;Pteropus alecto;34;LOC102893173 tripartite motif-containing protein 34-like;['XM_025049465.1'];NW_006438643.1
+118933075;Manis pentadactyla;6;TRIM6 tripartite motif containing 6;['XM_036927048.1', 'XM_036927046.1', 'XM_036927045.1'];NW_023456606.1
+118933069;Manis pentadactyla;22;LOC118933069 E3 ubiquitin-protein ligase TRIM22-like;[];NW_023456606.1
+118933076;Manis pentadactyla;34;LOC118933076 tripartite motif-containing protein 34-like;['XR_005033002.1', 'XM_036927050.1', 'XM_036927049.1'];NW_023456606.1
+118933068;Manis pentadactyla;5;LOC118933068 tripartite motif-containing protein 5-like;['XM_036927034.1', 'XM_036927033.1'];NW_023456606.1
+109569683;Bos indicus;6;TRIM6 tripartite motif containing 6;['XM_019975310.1', 'XM_019975309.1'];NC_032664.1
+109569682;Bos indicus;34;LOC109569682 tripartite motif-containing protein 34-like;['XM_019975308.1', 'XM_019975307.1', 'XM_019975306.1'];NC_032664.1
+109569680;Bos indicus;5;LOC109569680 tripartite motif-containing protein 5-like;['XM_019975304.1', 'XM_019975303.1'];NC_032664.1
+109569825;Bos indicus;5;LOC109569825 tripartite motif-containing protein 5-like;['XM_019975552.1', 'XM_019975551.1'];NC_032664.1
+109569681;Bos indicus;5;LOC109569681 tripartite motif-containing protein 5-like;['XM_019975305.1'];NC_032664.1
+109563642;Bos indicus;5;LOC109563642 tripartite motif-containing protein 5-like;['XM_019966981.1'];NC_032658.1
+109570039;Bos indicus;5;LOC109570039 tripartite motif-containing protein 5-like;[];NC_032664.1
+109569685;Bos indicus;5;LOC109569685 tripartite motif-containing protein 5-like;[];NC_032664.1
+109568893;Bos indicus;5;LOC109568893 tripartite motif-containing protein 5-like;[];NC_032664.1
+105307581;Pteropus vampyrus;6;TRIM6 tripartite motif containing 6;['XM_011383132.2', 'XM_011383133.1', 'XM_011383131.1'];NW_011889285.1
+105307585;Pteropus vampyrus;22;LOC105307585 E3 ubiquitin-protein ligase TRIM22-like;['XM_023524874.1'];NW_011889285.1
+105307583;Pteropus vampyrus;22;LOC105307583 E3 ubiquitin-protein ligase TRIM22-like;['XM_023524875.1'];NW_011889285.1
+105307582;Pteropus vampyrus;34;LOC105307582 tripartite motif-containing protein 34-like;['XM_011383134.2'];NW_011889285.1
+105307601;Pteropus vampyrus;34;LOC105307601 tripartite motif-containing protein 34-like;['XM_011383152.1'];NW_011889285.1
+118628344;Molossus molossus;22;LOC118628344 E3 ubiquitin-protein ligase TRIM22-like;['XM_036259233.1'];NW_023425348.1
+118628587;Molossus molossus;22;LOC118628587 E3 ubiquitin-protein ligase TRIM22-like;[];NW_023425348.1
+118628584;Molossus molossus;22;LOC118628584 E3 ubiquitin-protein ligase TRIM22-like;[];NW_023425348.1
+118628341;Molossus molossus;5;LOC118628341 tripartite motif-containing protein 5-like;['XM_036259231.1', 'XM_036259230.1', 'XR_004959280.1', 'XM_036259229.1', 'XM_036259228.1', 'XM_036259227.1', 'XM_036259226.1'];NW_023425348.1
+118628345;Molossus molossus;5;LOC118628345 tripartite motif-containing protein 5-like;['XM_036259237.1', 'XM_036259236.1', 'XM_036259234.1'];NW_023425348.1
+118627563;Molossus molossus;5;LOC118627563 tripartite motif-containing protein 5-like;['XM_036257832.1', 'XM_036257831.1', 'XM_036257830.1'];NW_023425348.1
+118628586;Molossus molossus;6;LOC118628586 tripartite motif-containing protein 6-like;['XM_036259561.1'];NW_023425348.1
+118628343;Molossus molossus;5;LOC118628343 tripartite motif-containing protein 5-like;['XM_036259232.1'];NW_023425348.1
+118627833;Molossus molossus;34;LOC118627833 tripartite motif-containing protein 34-like;['XM_036258280.1'];NW_023425348.1
+118625157;Molossus molossus;5;LOC118625157 tripartite motif-containing protein 5-like;['XM_036253644.1'];NW_023425346.1
+118004093;Mirounga leonina;22;TRIM22 tripartite motif containing 22;['XM_034995251.1', 'XM_034995250.1', 'XM_034995249.1'];NW_023270852.1
+118004094;Mirounga leonina;6;TRIM6 tripartite motif containing 6;['XM_034995255.1', 'XM_034995254.1', 'XM_034995253.1', 'XM_034995252.1'];NW_023270852.1
+118004095;Mirounga leonina;34;LOC118004095 tripartite motif-containing protein 34-like;['XM_034995262.1', 'XM_034995261.1', 'XM_034995260.1', 'XM_034995259.1', 'XM_034995258.1', 'XM_034995257.1', 'XM_034995256.1'];NW_023270852.1
+118004097;Mirounga leonina;34;LOC118004097 tripartite motif-containing protein 34-like;['XM_034995267.1', 'XM_034995266.1', 'XM_034995265.1', 'XM_034995263.1'];NW_023270852.1
+114633506;Grammomys surdaster;6;Trim6 tripartite motif containing 6;['XM_028782071.1', 'XM_028782070.1'];NW_021605112.1
+114633507;Grammomys surdaster;34;LOC114633507 tripartite motif-containing protein 34A;['XM_028782074.1', 'XM_028782073.1', 'XM_028782072.1'];NW_021605112.1
+112317591;Desmodus rotundus;6;TRIM6 tripartite motif containing 6;['XM_045183610.1', 'XM_024574677.1'];NW_020093581.1
+112317582;Desmodus rotundus;34;LOC112317582 tripartite motif-containing protein 34;['XM_024574667.2', 'XM_045183604.1', 'XM_024574667.1'];NW_020093581.1
+112317592;Desmodus rotundus;22;LOC112317592 E3 ubiquitin-protein ligase TRIM22-like;['XM_024574678.2', 'XM_024574678.1'];NW_020093581.1
+112317587;Desmodus rotundus;22;LOC112317587 E3 ubiquitin-protein ligase TRIM22-like;['XM_045183611.1', 'XM_024574672.1'];NW_020093581.1
+112317581;Desmodus rotundus;5;LOC112317581 tripartite motif-containing protein 5;['XM_045183609.1', 'XM_045183608.1', 'XM_024574666.2', 'XM_024574666.1', 'XM_024574665.1'];NW_020093581.1
+112317586;Desmodus rotundus;5;LOC112317586 tripartite motif-containing protein 5-like;['XM_024574671.2', 'XM_024574671.1'];NW_020093581.1
+112317583;Desmodus rotundus;5;LOC112317583 tripartite motif-containing protein 5-like;['XM_024574668.2', 'XM_024574668.1'];NW_020093581.1
+123478106;Desmodus rotundus;5;LOC123478106 tripartite motif-containing protein 5-like;['XM_045183607.1', 'XM_045183606.1', 'XM_045183605.1'];NW_020093581.1
+112317577;Desmodus rotundus;5;LOC112317577 tripartite motif-containing protein 5-like;['XM_045183618.1', 'XM_024574661.1', 'XM_024574660.1', 'XM_024574659.1', 'XM_024574658.1'];NW_020093581.1
+112317594;Desmodus rotundus;5;LOC112317594 tripartite motif-containing protein 5-like;[];NW_020093581.1
+112317507;Desmodus rotundus;5;LOC112317507 tripartite motif-containing protein 5-like;[];NW_020093559.1
+112305340;Desmodus rotundus;5;LOC112305340 tripartite motif-containing protein 5-like;[];NW_020091805.1
+113248232;Ursus arctos horribilis;22;TRIM22 tripartite motif containing 22;['XM_044380476.1', 'XM_026489591.2', 'XM_026489590.2'];NW_020656251.1
+113248235;Ursus arctos horribilis;6;TRIM6 tripartite motif containing 6;['XM_026489601.2'];NW_020656251.1
+113248236;Ursus arctos horribilis;5;LOC113248236 tripartite motif-containing protein 5-like;['XM_026489604.2', 'XM_026489603.2', 'XM_044380480.1', 'XM_044380479.1', 'XM_044380478.1', 'XM_026489602.2', 'XM_044380477.1'];NW_020656251.1
+113248233;Ursus arctos horribilis;34;LOC113248233 tripartite motif-containing protein 34-like;['XM_026489600.2', 'XM_044380482.1', 'XM_026489599.2', 'XM_026489594.2', 'XM_044380481.1', 'XM_026489592.2'];NW_020656251.1
+103077826;Lipotes vexillifer;6;TRIM6 tripartite motif containing 6;['XM_007459799.1', 'XM_007459798.1'];NW_006787051.1
+101594518;Jaculus jaculus;34;LOC101594518 tripartite motif-containing protein 34;['XM_045145962.1', 'XM_012950198.2', 'XM_012950198.1'];NC_059104.1
+105944490;Jaculus jaculus;6;Trim6 tripartite motif containing 6;['XM_045145960.1', 'XM_012950142.1'];NC_059104.1
+102514651;Camelus ferus;34;LOC102514651 tripartite motif-containing protein 34;['XR_004323337.1', 'XM_032489199.1', 'XR_004323336.1', 'XM_032489197.1', 'XM_032489196.1', 'XM_032489195.1', 'XM_006185660.3', 'XM_032489194.1', 'XM_032489193.1', 'XM_014560107.2'];NC_045705.1
+102505804;Camelus ferus;6;TRIM6 tripartite motif containing 6;['XM_032489200.1'];NC_045705.1
+102506555;Camelus ferus;5;LOC102506555 tripartite motif-containing protein 5-like;['XM_032489192.1', 'XR_004323335.1', 'XM_032489190.1', 'XM_032489189.1', 'XM_032489188.1', 'XM_032489187.1'];NC_045705.1
+116656649;Camelus ferus;5;LOC116656649 tripartite motif-containing protein 5-like;['XM_032489203.1', 'XR_004323338.1', 'XM_032489202.1', 'XM_032489201.1'];NC_045705.1
+116666461;Camelus ferus;5;LOC116666461 tripartite motif-containing protein 5-like;['XM_032489205.1'];NC_045705.1
+123782664;Ursus americanus;22;TRIM22 tripartite motif containing 22;['XM_045782919.1', 'XM_045782918.1', 'XM_045782917.1', 'XM_045782916.1'];NW_025578498.1
+123782666;Ursus americanus;6;TRIM6 tripartite motif containing 6;['XM_045782931.1'];NW_025578498.1
+123782667;Ursus americanus;5;LOC123782667 tripartite motif-containing protein 5-like;['XM_045782935.1', 'XR_006777019.1', 'XM_045782933.1', 'XR_006777018.1', 'XR_006777017.1', 'XM_045782932.1'];NW_025578498.1
+123782665;Ursus americanus;34;LOC123782665 tripartite motif-containing protein 34-like;['XM_045782930.1', 'XM_045782929.1', 'XM_045782928.1', 'XM_045782927.1', 'XM_045782926.1', 'XM_045782924.1', 'XM_045782923.1', 'XM_045782922.1', 'XM_045782921.1', 'XM_045782920.1'];NW_025578498.1
+114499369;Phyllostomus discolor;6;TRIM6 tripartite motif containing 6;['XM_028515499.2', 'XM_028515503.2'];NC_040908.2
+114499954;Phyllostomus discolor;22;LOC114499954 E3 ubiquitin-protein ligase TRIM22-like;['XM_036030180.1', 'XM_036030179.1', 'XM_036030178.1', 'XM_036030177.1', 'XM_036030175.1', 'XM_036030174.1', 'XM_036030173.1', 'XM_028516499.2', 'XM_036030172.1'];NC_040908.2
+114499955;Phyllostomus discolor;22;LOC114499955 E3 ubiquitin-protein ligase TRIM22-like;['XM_036030186.1', 'XM_036030185.1', 'XM_036030184.1', 'XM_036030183.1', 'XM_036030182.1', 'XM_028516503.2', 'XM_036030181.1'];NC_040908.2
+114499956;Phyllostomus discolor;5;LOC114499956 tripartite motif-containing protein 5-like;['XR_004904116.1', 'XM_036030162.1', 'XM_036030161.1', 'XM_036030160.1', 'XM_036030159.1', 'XM_036030158.1', 'XM_036030157.1', 'XM_036030156.1', 'XM_036030155.1', 'XM_036030154.1', 'XM_036030153.1', 'XM_036030152.1'];NC_040908.2
+114500409;Phyllostomus discolor;5;LOC114500409 tripartite motif-containing protein 5-like;['XM_036030190.1', 'XM_036030189.1', 'XM_028517106.2', 'XM_036030188.1', 'XM_036030187.1'];NC_040908.2
+114500007;Phyllostomus discolor;5;LOC114500007 tripartite motif-containing protein 5-like;[];NC_040908.2
+114498918;Phyllostomus discolor;5;LOC114498918 tripartite motif-containing protein 5-like;[];NC_040908.2
+114498058;Phyllostomus discolor;5;LOC114498058 tripartite motif-containing protein 5-like;[];NC_040907.2
+107501067;Rousettus aegyptiacus;34;TRIM34 tripartite motif containing 34;['XM_016126824.2', 'XM_036221642.1'];NW_023416308.1
+107501073;Rousettus aegyptiacus;6;TRIM6 tripartite motif containing 6;['XM_016126863.2', 'XR_001594689.2', 'XM_016126843.2', 'XM_016126836.2'];NW_023416308.1
+107513409;Rousettus aegyptiacus;22;LOC107513409 E3 ubiquitin-protein ligase TRIM22-like;['XM_016150064.2'];NW_023416308.1
+107505610;Rousettus aegyptiacus;5;LOC107505610 tripartite motif-containing protein 5-like;['XM_036221646.1', 'XM_036221645.1', 'XM_036221644.1', 'XM_036221643.1'];NW_023416308.1
+107513410;Rousettus aegyptiacus;5;LOC107513410 tripartite motif-containing protein 5;['XM_036221651.1', 'XM_036221650.1', 'XM_036221649.1', 'XM_036221648.1'];NW_023416308.1
+118602970;Rousettus aegyptiacus;34;LOC118602970 tripartite motif-containing protein 34-like;[];NW_023416308.1
+113455647;Microtus ochrogaster;6;Trim6 tripartite motif containing 6;['XM_026777564.1'];NW_004949171.1
+101999235;Microtus ochrogaster;34;LOC101999235 tripartite motif-containing protein 34A;['XM_026777562.1'];NW_004949171.1
+103553586;Equus przewalskii;6;TRIM6 tripartite motif containing 6;['XM_008524220.1', 'XM_008524215.1', 'XM_008524208.1', 'XM_008524200.1'];NW_007673055.1
+103565912;Equus przewalskii;22;LOC103565912 E3 ubiquitin-protein ligase TRIM22-like;['XM_008542112.1'];NW_007676650.1
+103553684;Equus przewalskii;22;LOC103553684 E3 ubiquitin-protein ligase TRIM22-like;['XM_008524395.1', 'XM_008524387.1', 'XM_008524378.1', 'XM_008524369.1'];NW_007673055.1
+103565916;Equus przewalskii;22;LOC103565916 E3 ubiquitin-protein ligase TRIM22-like;[];NW_007676650.1
+103554390;Equus przewalskii;22;LOC103554390 E3 ubiquitin-protein ligase TRIM22-like;[];NW_007673055.1
+103565910;Equus przewalskii;5;LOC103565910 tripartite motif-containing protein 5-like;['XM_008542110.1', 'XM_008542109.1', 'XM_008542108.1', 'XM_008542107.1', 'XM_008542106.1', 'XM_008542105.1', 'XM_008542104.1', 'XM_008542103.1'];NW_007676650.1
+103553637;Equus przewalskii;34;LOC103553637 tripartite motif-containing protein 34-like;['XM_008524298.1', 'XM_008524290.1', 'XM_008524282.1', 'XM_008524273.1', 'XM_008524265.1'];NW_007673055.1
+103553663;Equus przewalskii;5;LOC103553663 tripartite motif-containing protein 5-like;['XM_008524357.1', 'XM_008524347.1', 'XM_008524338.1', 'XM_008524327.1', 'XM_008524320.1', 'XM_008524310.1'];NW_007673055.1
+103554374;Equus przewalskii;5;LOC103554374 tripartite motif-containing protein 5-like;['XM_008525410.1'];NW_007673055.1
+103553629;Equus przewalskii;34;LOC103553629 tripartite motif-containing protein 34-like;['XR_545502.1'];NW_007673055.1
+103553619;Equus przewalskii;5;LOC103553619 tripartite motif-containing protein 5-like;[];NW_007673055.1
+119050142;Artibeus jamaicensis;6;TRIM6 tripartite motif containing 6;['XM_037146300.1'];NW_023551551.1
+119050144;Artibeus jamaicensis;22;LOC119050144 E3 ubiquitin-protein ligase TRIM22-like;['XM_037146308.1', 'XM_037146307.1', 'XM_037146306.1', 'XM_037146305.1', 'XM_037146303.1', 'XM_037146302.1'];NW_023551551.1
+119044649;Artibeus jamaicensis;22;LOC119044649 E3 ubiquitin-protein ligase TRIM22-like;['XM_037139108.1', 'XM_037139107.1', 'XM_037139106.1'];NW_023541366.1
+119050145;Artibeus jamaicensis;22;LOC119050145 E3 ubiquitin-protein ligase TRIM22-like;['XM_037146309.1'];NW_023551551.1
+119050147;Artibeus jamaicensis;22;LOC119050147 E3 ubiquitin-protein ligase TRIM22-like;[];NW_023551551.1
+119055626;Artibeus jamaicensis;5;LOC119055626 tripartite motif-containing protein 5-like;['XM_037153873.1', 'XM_037153872.1', 'XM_037153871.1', 'XM_037153870.1'];NW_023559851.1
+119050143;Artibeus jamaicensis;34;LOC119050143 tripartite motif-containing protein 34-like;['XM_037146301.1'];NW_023551551.1
+119050146;Artibeus jamaicensis;5;LOC119050146 tripartite motif-containing protein 5-like;['XM_037146310.1'];NW_023551551.1
+119050139;Artibeus jamaicensis;5;LOC119050139 tripartite motif-containing protein 5-like;[];NW_023551551.1
+119048710;Artibeus jamaicensis;5;LOC119048710 tripartite motif-containing protein 5-like;[];NW_023548645.1
+119046922;Artibeus jamaicensis;5;LOC119046922 tripartite motif-containing protein 5-like;[];NW_023545640.1
+119044648;Artibeus jamaicensis;34;LOC119044648 tripartite motif-containing protein 34-like;[];NW_023541366.1
+120590257;Pteropus giganteus;6;TRIM6 tripartite motif containing 6;['XM_039847890.1', 'XM_039847889.1'];NW_024352784.1
+120590255;Pteropus giganteus;22;LOC120590255 E3 ubiquitin-protein ligase TRIM22-like;['XM_039847887.1', 'XM_039847886.1', 'XM_039847885.1', 'XM_039847884.1', 'XM_039847883.1'];NW_024352784.1
+120590254;Pteropus giganteus;34;LOC120590254 tripartite motif-containing protein 34-like;['XM_039847882.1'];NW_024352784.1
+120590256;Pteropus giganteus;34;LOC120590256 tripartite motif-containing protein 34-like;['XM_039847888.1'];NW_024352784.1
+120590269;Pteropus giganteus;34;LOC120590269 tripartite motif-containing protein 34-like;[];NW_024352784.1
+103796196;Callithrix jacchus;34;TRIM34 tripartite motif containing 34;['XM_035265600.1', 'XM_035265599.1', 'XM_035265598.1', 'XM_035265597.1', 'XM_035265596.1'];NC_048393.1
+100386213;Callithrix jacchus;22;TRIM22 tripartite motif containing 22;['XM_035265602.1'];NC_048393.1
+100392347;Callithrix jacchus;6;TRIM6 tripartite motif containing 6;['XM_035265595.1', 'XM_035265594.1'];NC_048393.1
+100385852;Callithrix jacchus;5;LOC100385852 tripartite motif-containing protein 5;['XM_009007572.3'];NC_048393.1
+100401007;Callithrix jacchus;6;LOC100401007 tripartite motif-containing protein 6-like;[];NC_048399.1
+116757855;Phocoena sinus;6;TRIM6 tripartite motif containing 6;['XR_004351103.1', 'XR_004351102.1', 'XM_032640229.1'];NC_045770.1
+100137325;Papio anubis;22;TRIM22 tripartite motif containing 22;['XM_031652735.1', 'NM_001168862.1'];NC_044987.1
+100137559;Papio anubis;34;TRIM34 tripartite motif containing 34;['XM_009186764.3', 'NM_001169054.1'];NC_044987.1
+100126714;Papio anubis;5;TRIM5 tripartite motif containing 5;['XM_021925298.2', 'XM_017948079.3', 'XM_009186758.4', 'NM_001112632.1'];NC_044987.1
+100137558;Papio anubis;6;TRIM6 tripartite motif containing 6;['XM_021925328.2', 'XM_009186760.4', 'NM_001169053.1'];NC_044987.1
+105097936;Camelus dromedarius;6;TRIM6 tripartite motif containing 6;['XM_031460190.1'];NC_044520.1
+105097933;Camelus dromedarius;34;LOC105097933 tripartite motif-containing protein 34;['XR_004139294.1', 'XM_031460189.1', 'XR_004139293.1', 'XM_031460187.1', 'XM_031460186.1', 'XM_031460185.1', 'XM_010990565.2', 'XM_031460184.1', 'XM_010990566.2', 'XM_031460183.1'];NC_044520.1
+116155384;Camelus dromedarius;5;LOC116155384 tripartite motif-containing protein 5-like;['XM_031460181.1'];NC_044520.1
+116151278;Camelus dromedarius;5;LOC116151278 tripartite motif-containing protein 5-like;['XM_031446716.1'];NW_022174144.1
+116155385;Camelus dromedarius;5;LOC116155385 tripartite motif-containing protein 5-like;[];NC_044520.1
+105097932;Camelus dromedarius;5;LOC105097932 tripartite motif-containing protein 5-like;[];NC_044520.1
+112605772;Theropithecus gelada;34;TRIM34 tripartite motif containing 34;['XM_025355632.1'];NC_037682.1
+112605770;Theropithecus gelada;22;TRIM22 tripartite motif containing 22;['XM_025355629.1', 'XM_025355628.1'];NC_037682.1
+112605768;Theropithecus gelada;6;TRIM6 tripartite motif containing 6;['XM_025355627.1', 'XM_025355626.1', 'XM_025355625.1'];NC_037682.1
+112605771;Theropithecus gelada;5;TRIM5 tripartite motif containing 5;['XM_025355631.1', 'XM_025355630.1'];NC_037682.1
+122201388;Panthera leo;6;TRIM6 tripartite motif containing 6;['XM_042907247.1'];NC_056688.1
+122201387;Panthera leo;22;LOC122201387 E3 ubiquitin-protein ligase TRIM22-like;[];NC_056688.1
+122201386;Panthera leo;34;LOC122201386 tripartite motif-containing protein 34-like;['XM_042907246.1', 'XM_042907245.1', 'XM_042907244.1', 'XM_042907243.1'];NC_056688.1
+122695612;Cervus elaphus;6;TRIM6 tripartite motif containing 6;['XM_043905741.1', 'XM_043905731.1', 'XM_043905723.1', 'XM_043905712.1'];NC_057815.1
+122695576;Cervus elaphus;34;LOC122695576 tripartite motif-containing protein 34-like;['XM_043905700.1', 'XM_043905691.1', 'XM_043905684.1', 'XM_043905681.1', 'XM_043905676.1', 'XM_043905674.1', 'XM_043905668.1', 'XM_043905658.1', 'XM_043905650.1', 'XM_043905641.1'];NC_057815.1
+122695556;Cervus elaphus;5;LOC122695556 tripartite motif-containing protein 5-like;['XM_043905621.1', 'XM_043905613.1'];NC_057815.1
+122695568;Cervus elaphus;34;LOC122695568 tripartite motif-containing protein 34-like;['XM_043905631.1'];NC_057815.1
+122702067;Cervus elaphus;5;LOC122702067 tripartite motif-containing protein 5-like;[];NC_057815.1
+122702058;Cervus elaphus;5;LOC122702058 tripartite motif-containing protein 5-like;[];NC_057815.1
+122702027;Cervus elaphus;5;LOC122702027 tripartite motif-containing protein 5-like;[];NC_057815.1
+122695546;Cervus elaphus;5;LOC122695546 tripartite motif-containing protein 5-like;[];NC_057815.1
+110138040;Odocoileus virginianus texanus;34;TRIM34 tripartite motif containing 34;['XM_020894774.1'];NW_018334763.1
+110138033;Odocoileus virginianus texanus;6;TRIM6 tripartite motif containing 6;['XM_020894766.1', 'XM_020894765.1', 'XM_020894764.1'];NW_018334763.1
+110149234;Odocoileus virginianus texanus;5;LOC110149234 tripartite motif-containing protein 5-like;['XM_020911624.1', 'XM_020911623.1', 'XM_020911621.1', 'XM_020911620.1', 'XR_002317395.1', 'XM_020911619.1'];NW_018336530.1
+110149235;Odocoileus virginianus texanus;5;LOC110149235 tripartite motif-containing protein 5-like;['XM_020911625.1'];NW_018336530.1
+110123030;Odocoileus virginianus texanus;5;LOC110123030 tripartite motif-containing protein 5-like;['XM_020870714.1', 'XM_020870713.1', 'XM_020870712.1'];NW_018338003.1
+110124450;Odocoileus virginianus texanus;34;LOC110124450 tripartite motif-containing protein 34-like;['XM_020872988.1', 'XM_020872987.1'];NW_018338494.1
+110149226;Odocoileus virginianus texanus;5;LOC110149226 tripartite motif-containing protein 5-like;[];NW_018336530.1
+110124451;Odocoileus virginianus texanus;34;LOC110124451 tripartite motif-containing protein 34-like;[];NW_018338494.1
+103303441;Eptesicus fuscus;6;TRIM6 tripartite motif containing 6;['XM_008160441.2'];NW_007370947.1
+103303469;Eptesicus fuscus;22;LOC103303469 E3 ubiquitin-protein ligase TRIM22-like;['XM_028137641.1'];NW_007370947.1
+103303442;Eptesicus fuscus;22;LOC103303442 E3 ubiquitin-protein ligase TRIM22-like;['XM_028137625.1', 'XM_008160442.2', 'XM_008160443.2'];NW_007370947.1
+103303439;Eptesicus fuscus;22;LOC103303439 E3 ubiquitin-protein ligase TRIM22-like;['XM_028137640.1', 'XM_028137639.1'];NW_007370947.1
+103303437;Eptesicus fuscus;5;LOC103303437 tripartite motif-containing protein 5-like;['XM_028137638.1', 'XM_028137637.1', 'XM_028137636.1', 'XM_028137635.1', 'XM_028137634.1', 'XM_028137633.1', 'XM_008160437.2', 'XM_028137632.1', 'XM_028137631.1', 'XM_028137629.1', 'XM_028137628.1', 'XM_028137627.1', 'XR_003615347.1', 'XM_028137626.1'];NW_007370947.1
+103303440;Eptesicus fuscus;34;LOC103303440 tripartite motif-containing protein 34-like;['XR_003615346.1', 'XM_008160439.2'];NW_007370947.1
+103303470;Eptesicus fuscus;5;LOC103303470 tripartite motif-containing protein 5-like;['XM_008160472.2'];NW_007370947.1
+102244187;Myotis brandtii;34;LOC102244187 tripartite motif-containing protein 34;['XM_005860818.2'];NW_005355020.1
+102244693;Myotis brandtii;6;TRIM6 tripartite motif containing 6;['XM_005860820.1'];NW_005355020.1
+102244991;Myotis brandtii;22;LOC102244991 E3 ubiquitin-protein ligase TRIM22-like;['XM_014535246.1'];NW_005355020.1
+102262635;Myotis brandtii;5;LOC102262635 tripartite motif-containing protein 5;['XM_014533938.1', 'XM_014533937.1'];NW_005354302.1
+102251491;Myotis brandtii;5;LOC102251491 tripartite motif-containing protein 5-like;['XM_005884853.2'];NW_005371535.1
+102263815;Myotis brandtii;5;LOC102263815 tripartite motif-containing protein 5;['XM_005867291.2'];NW_005359376.1
+102259214;Myotis brandtii;5;LOC102259214 tripartite motif-containing protein 5;['XM_014542001.1'];NW_005360994.1
+102256215;Myotis brandtii;5;LOC102256215 tripartite motif-containing protein 5-like;['XM_014544142.1'];NW_005363586.1
+102263914;Myotis brandtii;22;LOC102263914 E3 ubiquitin-protein ligase TRIM22;['XM_014540011.1'];NW_005358812.1
+106724879;Myotis brandtii;34;LOC106724879 tripartite motif-containing protein 34-like;[];NW_005343758.1
+102258913;Myotis brandtii;34;LOC102258913 tripartite motif-containing protein 34-like;[];NW_005360994.1
+102244625;Myotis brandtii;5;LOC102244625 tripartite motif-containing protein 5-like;[];NW_005358943.1
+101082007;Felis catus;22;LOC101082007 E3 ubiquitin-protein ligase TRIM22;['XM_019811931.2', 'XM_019811931.1'];NC_058377.1
+100302544;Felis catus;5;TRIM5 tripartite motif containing 5;['XM_019811165.3', 'XM_023238907.2', 'XM_045038025.1', 'XM_045038024.1', 'XM_006937032.4', 'XM_045038022.1', 'XM_045038021.1', 'XM_019811165.2', 'XM_023238908.1', 'XM_023238907.1', 'XM_006937032.3', 'NM_001163659.1'];NC_058377.1
+101094788;Felis catus;6;TRIM6 tripartite motif containing 6;['XM_045038831.1', 'XM_045038829.1', 'XM_003992869.5', 'XM_003992869.4'];NC_058377.1
+109396560;Hipposideros armiger;6;TRIM6 tripartite motif containing 6;['XM_019668448.1', 'XM_019668447.1', 'XM_019668446.1'];NW_017731875.1
+109396553;Hipposideros armiger;22;LOC109396553 E3 ubiquitin-protein ligase TRIM22-like;['XM_019668425.1', 'XM_019668424.1', 'XM_019668423.1', 'XM_019668422.1', 'XM_019668421.1', 'XM_019668420.1', 'XM_019668419.1', 'XM_019668417.1', 'XM_019668416.1'];NW_017731875.1
+109396554;Hipposideros armiger;22;LOC109396554 E3 ubiquitin-protein ligase TRIM22-like;['XM_019668426.1'];NW_017731875.1
+109396555;Hipposideros armiger;5;LOC109396555 tripartite motif-containing protein 5-like;['XM_019668437.1', 'XM_019668436.1', 'XM_019668435.1', 'XM_019668434.1', 'XM_019668433.1', 'XM_019668432.1', 'XR_002126857.1', 'XM_019668431.1', 'XM_019668430.1', 'XM_019668429.1', 'XM_019668427.1'];NW_017731875.1
+109396559;Hipposideros armiger;34;LOC109396559 tripartite motif-containing protein 34-like;['XM_019668445.1'];NW_017731875.1
+105578888;Cercocebus atys;34;TRIM34 tripartite motif containing 34;['XM_012045170.1'];NW_012005601.1
+105578890;Cercocebus atys;22;TRIM22 tripartite motif containing 22;['NM_001305965.1', 'XM_012045175.1'];NW_012005601.1
+105578889;Cercocebus atys;5;TRIM5 tripartite motif containing 5;['NM_001305964.1', 'XM_012045174.1', 'XM_012045172.1', 'XM_012045171.1'];NW_012005601.1
+105578878;Cercocebus atys;6;TRIM6 tripartite motif containing 6;['XM_012045162.1', 'XM_012045161.1'];NW_012005601.1
+116476599;Hylobates moloch;34;TRIM34 tripartite motif containing 34;['XM_032166789.1', 'XM_032166788.1'];NW_022611653.1
+116476598;Hylobates moloch;22;TRIM22 tripartite motif containing 22;['XM_032166787.1', 'XM_032166786.1'];NW_022611653.1
+116476602;Hylobates moloch;5;TRIM5 tripartite motif containing 5;['XM_032166803.2', 'XM_032166802.2', 'XM_032166804.1', 'XM_032166801.1', 'XM_032166800.1', 'XM_032166799.1', 'XM_032166798.1', 'XM_032166797.1', 'XM_032166796.1', 'XM_032166795.1'];NW_022611653.1
+116476600;Hylobates moloch;6;TRIM6 tripartite motif containing 6;['XM_032166794.1', 'XM_032166793.1', 'XM_032166792.1', 'XM_032166791.1', 'XM_032166790.1'];NW_022611653.1
+100568304;Equus caballus;34;TRIM34 tripartite motif containing 34;['XM_005611917.3', 'XM_005611916.3', 'NM_001205193.1'];NC_009150.3
+100069506;Equus caballus;22;TRIM22 tripartite motif containing 22;['XM_005612111.3'];NC_009150.3
+100568303;Equus caballus;6;TRIM6 tripartite motif containing 6;['XM_023644175.1', 'XR_002808938.1', 'XR_002808937.1', 'XM_023644173.1', 'NM_001205192.1'];NC_009150.3
+106783406;Equus caballus;22;LOC106783406 E3 ubiquitin-protein ligase TRIM22-like;[];NC_009150.3
+100069516;Equus caballus;22;LOC100069516 E3 ubiquitin-protein ligase TRIM22-like;[];NC_009150.3
+102149883;Equus caballus;5;LOC102149883 tripartite motif-containing protein 5;['XM_014741762.2', 'XM_023645888.1', 'XM_023645887.1', 'XM_023645886.1', 'XM_023645885.1', 'XM_023645883.1', 'XM_023645882.1', 'XM_005612109.3', 'XM_023645881.1', 'XM_023645880.1', 'XM_023645879.1', 'XM_023645878.1', 'XM_023645877.1', 'XM_014741755.2', 'XM_023645876.1', 'XM_014741760.2', 'XM_014741757.2', 'XM_014741761.2', 'XM_014741754.2', 'XM_023645874.1', 'XM_023645873.1', 'XM_023645872.1', 'XM_014741751.2', 'XM_005612110.2'];NC_009150.3
+100054490;Equus caballus;22;LOC100054490 E3 ubiquitin-protein ligase TRIM22;['XR_002809312.1', 'XR_002809311.1', 'XM_023645870.1', 'XM_023645869.1', 'XM_023645868.1', 'XM_023645867.1', 'XM_023645866.1', 'XM_023645865.1'];NC_009150.3
+100054534;Equus caballus;5;LOC100054534 tripartite motif-containing protein 5;['XM_023645863.1', 'XM_023645862.1', 'XM_001504451.5', 'XM_023645861.1', 'XM_005612092.3', 'XM_023645860.1'];NC_009150.3
+106780875;Equus caballus;34;LOC106780875 tripartite motif-containing protein 34-like;['XM_014741678.2'];NC_009150.3
+100069440;Equus caballus;5;LOC100069440 tripartite motif-containing protein 5-like;['XM_014741677.2'];NC_009150.3
+111774418;Equus caballus;22;LOC111774418 E3 ubiquitin-protein ligase TRIM22 pseudogene;[];NC_009150.3
+105468601;Macaca nemestrina;22;TRIM22 tripartite motif containing 22;['XM_011718798.1', 'XM_011718797.1'];NW_012013799.1
+105468602;Macaca nemestrina;5;TRIM5 tripartite motif containing 5;['XM_024788744.1', 'XM_024788743.1', 'XM_024788742.1'];NW_012013799.1
+105468609;Macaca nemestrina;34;LOC105468609 tripartite motif-containing protein 34;['XM_011718808.2', 'XM_011718807.2'];NW_012013799.1
+105468607;Macaca nemestrina;6;TRIM6 tripartite motif containing 6;['XM_011718805.2', 'XM_011718804.2'];NW_012013799.1
+106000352;Dipodomys ordii;6;Trim6 tripartite motif containing 6;['XM_013035606.1', 'XM_013035605.1'];NW_012267432.1
+106000347;Dipodomys ordii;5;LOC106000347 tripartite motif-containing protein 5-like;['XM_013035601.1', 'XM_013035600.1'];NW_012267432.1
+106002440;Dipodomys ordii;5;LOC106002440 tripartite motif-containing protein 5-like;['XM_013037317.1'];NW_012277800.1
+106000349;Dipodomys ordii;5;LOC106000349 tripartite motif-containing protein 5-like;['XM_013035603.1'];NW_012267432.1
+106000348;Dipodomys ordii;5;LOC106000348 tripartite motif-containing protein 5-like;['XM_013035602.1'];NW_012267432.1
+105982699;Dipodomys ordii;5;LOC105982699 tripartite motif-containing protein 5-like;[];NW_012267233.1
+108538967;Rhinopithecus bieti;34;TRIM34 tripartite motif containing 34;['XM_017887312.1', 'XM_017887311.1'];NW_016808817.1
+108538963;Rhinopithecus bieti;22;TRIM22 tripartite motif containing 22;['XM_017887308.1'];NW_016808817.1
+108538968;Rhinopithecus bieti;6;TRIM6 tripartite motif containing 6;['XM_017887314.1', 'XM_017887313.1'];NW_016808817.1
+108538965;Rhinopithecus bieti;5;TRIM5 tripartite motif containing 5;['XM_017887309.1'];NW_016808817.1
+101971202;Ictidomys tridecemlineatus;6;Trim6 tripartite motif containing 6;['XM_021721476.2', 'XM_040284863.1'];NW_024404947.1
+101955567;Ictidomys tridecemlineatus;5;LOC101955567 tripartite motif-containing protein 5-like;['XM_040283751.1'];NW_024404947.1
+101965602;Ictidomys tridecemlineatus;34;LOC101965602 tripartite motif-containing protein 34-like;['XM_013356027.2'];NC_053502.1
+101967876;Ictidomys tridecemlineatus;6;LOC101967876 tripartite motif-containing protein 6-like;[];NC_053502.1
+102170446;Capra hircus;34;LOC102170446 tripartite motif-containing protein 34;['XM_005689802.3'];NC_030822.1
+102170894;Capra hircus;6;TRIM6 tripartite motif containing 6;['XM_005689803.3'];NC_030822.1
+102170165;Capra hircus;5;LOC102170165 tripartite motif-containing protein 5;['XM_005689800.3'];NC_030822.1
+102169889;Capra hircus;5;LOC102169889 tripartite motif-containing protein 5;['XM_018059444.1'];NC_030822.1
+102173185;Capra hircus;5;LOC102173185 tripartite motif-containing protein 5;['XR_001917668.1', 'XM_018044701.1', 'XM_018044700.1', 'XM_018044699.1', 'XM_018044698.1'];NW_017189722.1
+102179935;Capra hircus;5;LOC102179935 tripartite motif-containing protein 5;['XM_018059446.1', 'XM_013976927.2'];NC_030822.1
+108637671;Capra hircus;5;LOC108637671 tripartite motif-containing protein 5-like;['XM_018059445.1'];NC_030822.1
+108637672;Capra hircus;5;LOC108637672 tripartite motif-containing protein 5-like;['XR_001919228.1'];NC_030822.1
+106502899;Capra hircus;5;LOC106502899 tripartite motif-containing protein 5-like;[];NC_030822.1
+102181589;Capra hircus;5;LOC102181589 tripartite motif-containing protein 5-like;[];NC_030822.1
+102180213;Capra hircus;5;LOC102180213 tripartite motif-containing protein 5-like;[];NC_030822.1
+102176543;Capra hircus;5;LOC102176543 tripartite motif-containing protein 5-like;[];NC_030822.1
+100669430;Loxodonta africana;34;TRIM34 tripartite motif containing 34;['XM_023540601.1', 'XM_003421418.3'];NW_003573536.1
+100665837;Loxodonta africana;6;TRIM6 tripartite motif containing 6;['XM_023540600.1', 'XM_023540599.1', 'XM_023540598.1', 'XM_023540597.1', 'XM_023540596.1', 'XM_010600940.2', 'XM_010600939.2'];NW_003573536.1
+100674302;Loxodonta africana;22;LOC100674302 E3 ubiquitin-protein ligase TRIM22-like;['XM_010602444.2'];NW_003573675.1
+100666123;Loxodonta africana;5;LOC100666123 tripartite motif-containing protein 5-like;['XM_023540609.1', 'XM_023540608.1', 'XM_023540607.1', 'XM_023540606.1', 'XM_023540605.1', 'XM_023540604.1', 'XM_023540603.1', 'XM_023540602.1'];NW_003573536.1
+100674587;Loxodonta africana;5;LOC100674587 tripartite motif-containing protein 5-like;['XM_023542439.1', 'XM_023542438.1', 'XM_023542437.1', 'XM_023542436.1'];NW_003573675.1
+100666406;Loxodonta africana;5;LOC100666406 tripartite motif-containing protein 5-like;['XM_023540612.1', 'XM_023540611.1', 'XM_023540610.1'];NW_003573536.1
+100674877;Loxodonta africana;5;LOC100674877 tripartite motif-containing protein 5-like;['XM_023542447.1'];NW_003573675.1
+101273301;Orcinus orca;6;LOC101273301 tripartite motif-containing protein 6;['XM_033404648.1', 'XR_004476544.1', 'XR_004476543.1', 'XR_004476542.1', 'XR_004476541.1', 'XM_033404646.1', 'XM_004279261.3'];NW_004438522.1
+117710884;Arvicanthis niloticus;5;Trim5 tripartite motif containing 5;['XM_034506177.1', 'XM_034506169.1'];NC_047658.1
+117710896;Arvicanthis niloticus;6;Trim6 tripartite motif containing 6;['XM_034506191.1'];NC_047658.1
+117710905;Arvicanthis niloticus;34;LOC117710905 tripartite motif-containing protein 34A;['XM_034506227.1', 'XM_034506218.1', 'XM_034506210.1', 'XM_034506202.1'];NC_047658.1
+118713478;Pipistrellus kuhlii;34;LOC118713478 tripartite motif-containing protein 34;['XR_006740919.1', 'XR_006740918.1', 'XM_045578058.1', 'XM_036428088.2', 'XM_036428087.2', 'XM_036428086.2', 'XM_036428084.2', 'XM_036428083.2', 'XM_036428092.1', 'XM_036428091.1', 'XM_036428090.1', 'XM_036428089.1', 'XM_036428088.1', 'XM_036428087.1', 'XM_036428086.1', 'XM_036428084.1', 'XM_036428083.1'];NW_023425595.1
+118713485;Pipistrellus kuhlii;6;TRIM6 tripartite motif containing 6;['XM_036428111.2', 'XM_036428113.1', 'XM_036428112.1', 'XM_036428111.1'];NW_023425595.1
+118713483;Pipistrellus kuhlii;22;LOC118713483 E3 ubiquitin-protein ligase TRIM22;['XM_045577693.1', 'XM_036428108.2', 'XM_036428109.1', 'XM_036428108.1'];NW_023425595.1
+118713480;Pipistrellus kuhlii;5;LOC118713480 tripartite motif-containing protein 5-like;['XM_045578065.1', 'XM_045578064.1', 'XM_045578063.1', 'XM_036428102.2', 'XM_036428104.2', 'XM_045578062.1', 'XM_045578061.1', 'XM_045578060.1', 'XM_036428099.2', 'XM_045578059.1', 'XM_036428096.2', 'XM_036428107.1', 'XM_036428106.1', 'XM_036428105.1', 'XM_036428104.1', 'XM_036428103.1', 'XM_036428102.1', 'XM_036428101.1', 'XM_036428100.1', 'XM_036428099.1', 'XM_036428098.1', 'XM_036428097.1', 'XM_036428096.1', 'XM_036428095.1', 'XM_036428094.1', 'XM_036428093.1'];NW_023425595.1
+118713518;Pipistrellus kuhlii;22;LOC118713518 E3 ubiquitin-protein ligase TRIM22;['XM_036428149.2', 'XM_036428149.1'];NW_023425595.1
+118728646;Pipistrellus kuhlii;5;LOC118728646 tripartite motif-containing protein 5-like;[];NW_023425529.1
+112865567;Puma concolor;6;TRIM6 tripartite motif containing 6;['XM_025928679.1', 'XM_025928678.1'];NW_020339798.1
+112864902;Puma concolor;22;LOC112864902 E3 ubiquitin-protein ligase TRIM22-like;['XM_025927910.1'];NW_020339798.1
+112864903;Puma concolor;5;LOC112864903 tripartite motif-containing protein 5-like;['XM_025927911.1'];NW_020339798.1
+112865565;Puma concolor;34;LOC112865565 tripartite motif-containing protein 34-like;['XM_025928677.1', 'XM_025928676.1'];NW_020339798.1
+485284;Canis lupus familiaris;22;TRIM22 tripartite motif containing 22;['XM_038430319.1', 'XM_038633021.1', 'XM_038568855.1', 'XM_038506119.1', 'XM_542402.8'];NC_051825.1
+112667518;Canis lupus dingo;22;TRIM22 tripartite motif containing 22;['XM_025459250.2'];NW_023365195.1
+100568302;Canis lupus familiaris;34;TRIM34 tripartite motif containing 34;['NM_001205191.1'];NC_051825.1
+100568301;Canis lupus familiaris;6;TRIM6 tripartite motif containing 6;['NM_001205190.3', 'XM_038429413.1', 'XM_038429412.1', 'XM_038429411.1'];NC_051825.1
+112667516;Canis lupus dingo;6;TRIM6 tripartite motif containing 6;['XM_025459243.2', 'XM_025459242.2', 'XM_025459244.2'];NW_023365195.1
+112667517;Canis lupus dingo;34;LOC112667517 tripartite motif-containing protein 34-like;['XM_025459249.2', 'XM_025459248.2', 'XM_025459247.2'];NW_023365195.1
+115306139;Suricata suricatta;6;TRIM6 tripartite motif containing 6;['XM_029956376.1', 'XM_029956375.1', 'XM_029956374.1'];NC_043710.1
+115306140;Suricata suricatta;34;LOC115306140 tripartite motif-containing protein 34-like;['XM_029956378.1', 'XM_029956377.1'];NC_043710.1
+115306141;Suricata suricatta;34;LOC115306141 tripartite motif-containing protein 34-like;['XM_029956379.1'];NC_043710.1
+101569936;Octodon degus;34;LOC101569936 tripartite motif-containing protein 34;['XM_023702136.1', 'XM_012517106.2'];NW_004524722.1
+105743655;Octodon degus;6;LOC105743655 tripartite motif-containing protein 6;['XM_023702137.1'];NW_004524722.1
+101570337;Octodon degus;5;LOC101570337 tripartite motif-containing protein 5-like;['XM_023702120.1'];NW_004524722.1
+105743656;Octodon degus;5;LOC105743656 tripartite motif-containing protein 5-like;['XM_023702119.1', 'XM_023702118.1'];NW_004524722.1
+101570739;Octodon degus;5;LOC101570739 tripartite motif-containing protein 5-like;['XR_002818233.1', 'XR_002818232.1', 'XR_002818231.1', 'XM_023702125.1', 'XM_023702124.1', 'XM_023702123.1', 'XM_023702122.1', 'XM_023702121.1', 'XM_012517109.2'];NW_004524722.1
+105743859;Octodon degus;5;LOC105743859 tripartite motif-containing protein 5-like;['XM_012517430.1'];NW_004524754.1
+101571138;Octodon degus;5;LOC101571138 tripartite motif-containing protein 5-like;['XM_023702063.1'];NW_004524722.1
+116102718;Mastomys coucha;6;Trim6 tripartite motif containing 6;['XM_031387708.1', 'XM_031387707.1'];NW_022196904.1
+116102719;Mastomys coucha;34;LOC116102719 tripartite motif-containing protein 34A;['XM_031387711.1', 'XM_031387710.1', 'XM_031387709.1'];NW_022196904.1
+102397097;Bubalus bubalis;6;TRIM6 tripartite motif containing 6;['XM_044929441.1', 'XM_025266525.2', 'XM_025266523.2', 'XM_025266521.2', 'XM_025266520.2', 'XM_025266519.2', 'XM_025266525.1', 'XM_025266524.1', 'XM_025266523.1', 'XM_025266522.1', 'XM_025266521.1', 'XM_025266520.1', 'XM_025266519.1'];NC_059172.1
+102394761;Bubalus bubalis;34;LOC102394761 tripartite motif-containing protein 34;['XM_044929440.1', 'XM_025266518.2', 'XM_025266517.2', 'XM_025266516.2', 'XM_025266518.1', 'XM_025266517.1', 'XM_025266516.1'];NC_059172.1
+102393048;Bubalus bubalis;5;LOC102393048 tripartite motif-containing protein 5;['XM_025266513.2', 'XM_025266512.2', 'XM_025266511.2', 'XM_006053578.3', 'XM_025266513.1', 'XM_025266512.1', 'XM_025266511.1', 'XM_006053578.2'];NC_059172.1
+102393893;Bubalus bubalis;34;LOC102393893 tripartite motif-containing protein 34;['XM_044929442.2', 'XM_006053580.4', 'XM_044929442.1', 'XM_006053580.3', 'XM_006053581.2', 'XM_006053580.2'];NC_059172.1
+102403412;Bubalus bubalis;5;LOC102403412 tripartite motif-containing protein 5-like;[];NC_059166.1
+102398669;Bubalus bubalis;5;LOC102398669 tripartite motif-containing protein 5-like;[];NC_059172.1
+102393569;Bubalus bubalis;5;LOC102393569 tripartite motif-containing protein 5-like;['XM_025266514.1'];NC_059172.1
+105744216;Dasypus novemcinctus;6;TRIM6 tripartite motif containing 6;['XM_012530180.2', 'XM_012530179.2', 'XM_012530178.2'];NW_004483504.1
+101412266;Dasypus novemcinctus;22;LOC101412266 E3 ubiquitin-protein ligase TRIM22-like;['XM_004467802.3'];NW_004482731.1
+101416095;Dasypus novemcinctus;6;LOC101416095 tripartite motif-containing protein 6;['XM_023587812.1', 'XM_004455009.3'];NW_004473425.1
+101441405;Dasypus novemcinctus;6;LOC101441405 tripartite motif-containing protein 6-like;['XM_023592578.1'];NW_004483504.1
+101418410;Dasypus novemcinctus;6;LOC101418410 tripartite motif-containing protein 6-like;['XM_023582612.1'];NW_004483576.1
+105533501;Mandrillus leucophaeus;34;TRIM34 tripartite motif containing 34;['XM_011971975.1'];NW_012100921.1
+105533503;Mandrillus leucophaeus;22;TRIM22 tripartite motif containing 22;['XM_011971980.1', 'XM_011971979.1'];NW_012100921.1
+105533502;Mandrillus leucophaeus;6;TRIM6 tripartite motif containing 6;['XM_011971977.1', 'XM_011971976.1'];NW_012100921.1
+105533500;Mandrillus leucophaeus;5;TRIM5 tripartite motif containing 5;['XM_011971974.1'];NW_012100921.1
+114887680;Monodon monoceros;6;TRIM6 tripartite motif containing 6;['XM_029209484.1'];NW_021703784.1
+121458036;Microtus oregoni;34;LOC121458036 tripartite motif-containing protein 34A-like;['XM_041667154.1'];NW_024543075.1
+109260049;Panthera pardus;6;TRIM6 tripartite motif containing 6;['XM_019438043.1', 'XM_019438042.1', 'XM_019438041.1', 'XM_019438040.1', 'XM_019438039.1'];NW_017620062.1
+109259983;Panthera pardus;22;LOC109259983 E3 ubiquitin-protein ligase TRIM22-like;[];NW_017620062.1
+109260048;Panthera pardus;34;LOC109260048 tripartite motif-containing protein 34-like;['XM_019438037.1', 'XM_019438036.1', 'XM_019438035.1', 'XM_019438034.1', 'XM_019438033.1'];NW_017620062.1
+106007612;Heterocephalus glaber;34;Trim34 tripartite motif containing 34;['XM_013065033.2', 'XM_021243267.1', 'XM_013065032.2', 'XM_021243265.1'];NW_004624817.1
+101721918;Heterocephalus glaber;6;Trim6 tripartite motif containing 6;['XR_002388973.1', 'XM_021243264.1', 'XM_021243263.1', 'XM_021243262.1', 'XM_004863365.3'];NW_004624817.1
+101716219;Heterocephalus glaber;5;LOC101716219 tripartite motif-containing protein 5;['XM_013064937.2'];NW_004624817.1
+101721041;Heterocephalus glaber;5;LOC101721041 tripartite motif-containing protein 5-like;['XM_013069561.2'];NW_004625084.1
+111540940;Piliocolobus tephrosceles;34;TRIM34 tripartite motif containing 34;['XM_023209621.3'];NC_045446.1
+111540946;Piliocolobus tephrosceles;22;TRIM22 tripartite motif containing 22;['XM_023209627.1'];NC_045446.1
+111540938;Piliocolobus tephrosceles;6;TRIM6 tripartite motif containing 6;['XM_023209619.2'];NC_045446.1
+111540945;Piliocolobus tephrosceles;5;TRIM5 tripartite motif containing 5;['XM_023209625.2', 'XM_023209626.1'];NC_045446.1
+101621182;Condylura cristata;34;LOC101621182 tripartite motif-containing protein 34;['XM_012725239.1'];NW_004567116.1
+101628468;Condylura cristata;6;LOC101628468 tripartite motif-containing protein 6;['XM_012725241.1', 'XM_004683127.2', 'XM_004683126.1'];NW_004567116.1
+101620936;Condylura cristata;34;LOC101620936 tripartite motif-containing protein 34-like;['XM_012725051.1', 'XM_012725050.1'];NW_004567116.1
+105853657;Condylura cristata;5;LOC105853657 tripartite motif-containing protein 5-like;[];NW_004567116.1
+106003314;Mustela putorius furo;34;TRIM34 tripartite motif containing 34;['XM_045071525.1', 'XM_004778998.3', 'XM_013049242.2', 'XM_004778996.3', 'XM_004778997.3', 'XM_004778995.3', 'XM_013049243.1', 'XM_004778998.2', 'XM_013049242.1', 'XM_004778996.2', 'XM_004778997.2', 'XM_004778995.2'];NW_025422126.1
+101674714;Mustela putorius furo;22;TRIM22 tripartite motif containing 22;['XM_045071327.1', 'XM_004778994.3', 'XM_004778994.2'];NW_025422126.1
+101675015;Mustela putorius furo;6;TRIM6 tripartite motif containing 6;['XM_013049245.2', 'XM_004779006.3', 'XM_004779003.3', 'XM_004779000.3', 'XM_013049245.1', 'XM_004779006.2', 'XM_004779003.2', 'XM_013049244.1', 'XM_004779002.2', 'XM_004779001.2', 'XM_004779000.2'];NW_025422126.1
+101675922;Mustela putorius furo;5;LOC101675922 tripartite motif-containing protein 5;['XR_006604225.1', 'XM_045071526.1', 'XM_004778999.3', 'XM_013049246.1', 'XM_004778999.2'];NW_025422126.1
+112840820;Callorhinus ursinus;6;TRIM6 tripartite motif containing 6;['XM_025894367.1', 'XM_025894366.1', 'XM_025894365.1'];NW_020313006.1
+112819118;Callorhinus ursinus;22;LOC112819118 E3 ubiquitin-protein ligase TRIM22-like;['XM_025866149.1'];NW_020326205.1
+112819116;Callorhinus ursinus;22;LOC112819116 E3 ubiquitin-protein ligase TRIM22-like;['XM_025866148.1'];NW_020326199.1
+112806213;Callorhinus ursinus;5;LOC112806213 tripartite motif-containing protein 5-like;['XM_025848536.1'];NW_020313006.1
+112806212;Callorhinus ursinus;34;LOC112806212 tripartite motif-containing protein 34-like;['XM_025848535.1'];NW_020313006.1
+123642337;Lemur catta;5;TRIM5 tripartite motif containing 5;['XM_045557336.1'];NC_059134.1
+123642339;Lemur catta;6;TRIM6 tripartite motif containing 6;['XM_045557338.1'];NC_059134.1
+123642340;Lemur catta;34;LOC123642340 tripartite motif-containing protein 34-like;['XM_045557339.1'];NC_059134.1
+114218793;Eumetopias jubatus;22;TRIM22 tripartite motif containing 22;['XM_028116066.1'];NW_020998682.1
+114218724;Eumetopias jubatus;6;TRIM6 tripartite motif containing 6;['XM_028115963.1', 'XM_028115962.1', 'XM_028115961.1'];NW_020998682.1
+114218794;Eumetopias jubatus;34;LOC114218794 tripartite motif-containing protein 34-like;['XM_028116067.1'];NW_020998682.1
+122483477;Prionailurus bengalensis;6;TRIM6 tripartite motif containing 6;['XM_043580483.1'];NC_057346.1
+122484275;Prionailurus bengalensis;22;LOC122484275 E3 ubiquitin-protein ligase TRIM22-like;[];NC_057346.1
+122483478;Prionailurus bengalensis;5;LOC122483478 tripartite motif-containing protein 5-like;['XM_043580484.1'];NC_057346.1
+122483476;Prionailurus bengalensis;34;LOC122483476 tripartite motif-containing protein 34-like;['XM_043580482.1'];NC_057346.1
+108385354;Manis javanica;6;TRIM6 tripartite motif containing 6;['XM_037000982.1', 'XM_037000981.1', 'XM_037000979.1'];NW_023436208.1
+108408932;Manis javanica;22;LOC108408932 E3 ubiquitin-protein ligase TRIM22-like;['XM_037001008.1'];NW_023436208.1
+108385132;Manis javanica;34;LOC108385132 tripartite motif-containing protein 34-like;['XR_001850214.2', 'XM_037000983.1', 'XM_017642436.2', 'XM_017642435.2'];NW_023436208.1
+108385131;Manis javanica;5;LOC108385131 tripartite motif-containing protein 5-like;['XM_037000978.1', 'XR_005056680.1', 'XM_037000977.1', 'XR_001850209.2', 'XR_005056679.1', 'XM_037000976.1', 'XM_037000975.1', 'XM_037000974.1', 'XM_017642434.2'];NW_023436208.1
+105527295;Colobus angolensis palliatus;22;TRIM22 tripartite motif containing 22;['XM_011963588.1', 'XM_011963587.1'];NW_012119777.1
+105527298;Colobus angolensis palliatus;34;TRIM34 tripartite motif containing 34;['XM_011963592.1'];NW_012119777.1
+105527301;Colobus angolensis palliatus;5;TRIM5 tripartite motif containing 5;['XM_011963594.1', 'XM_011963593.1'];NW_012119777.1
+105527297;Colobus angolensis palliatus;6;TRIM6 tripartite motif containing 6;['XM_011963591.1', 'XM_011963589.1'];NW_012119777.1
+116865133;Lontra canadensis;22;TRIM22 tripartite motif containing 22;['XM_032853290.1', 'XM_032853289.1'];NW_022631001.1
+116865132;Lontra canadensis;6;TRIM6 tripartite motif containing 6;['XM_032853288.1', 'XM_032853287.1', 'XM_032853286.1', 'XM_032853285.1', 'XM_032853284.1', 'XM_032853283.1', 'XM_032853282.1', 'XM_032853280.1'];NW_022631001.1
+116865134;Lontra canadensis;34;LOC116865134 tripartite motif-containing protein 34-like;['XM_032853294.1', 'XM_032853293.1', 'XM_032853292.1'];NW_022631001.1
+116865131;Lontra canadensis;34;LOC116865131 tripartite motif-containing protein 34-like;['XM_032853279.1', 'XM_032853278.1', 'XM_032853277.1', 'XM_032853276.1'];NW_022631001.1
+115839495;Globicephala melas;6;TRIM6 tripartite motif containing 6;['XM_030831201.1', 'XR_004034078.1', 'XR_004034077.1', 'XR_004034076.1', 'XR_004034075.1', 'XM_030831200.1', 'XM_030831199.1'];NW_022134933.1
+103680045;Ursus maritimus;22;TRIM22 tripartite motif containing 22;['XM_008709572.2'];NW_024424008.1
+103680048;Ursus maritimus;34;LOC103680048 tripartite motif-containing protein 34;['XM_008709583.2', 'XM_008709582.2', 'XM_008709581.2', 'XR_005834963.1', 'XR_005834962.1', 'XR_005834961.1', 'XR_005834960.1', 'XR_005834959.1', 'XR_005834958.1'];NW_024424008.1
+107523085;Erinaceus europaeus;6;TRIM6 tripartite motif containing 6;['XM_016192709.1'];NW_006804577.1
+103122889;Erinaceus europaeus;5;LOC103122889 tripartite motif-containing protein 5;['XM_016192710.1'];NW_006804577.1
+107522781;Erinaceus europaeus;6;LOC107522781 tripartite motif-containing protein 6-like;['XM_016190209.1'];NW_006804266.1
+103122823;Erinaceus europaeus;5;LOC103122823 tripartite motif-containing protein 5-like;['XM_007533443.2'];NW_006804577.1
+103121481;Erinaceus europaeus;5;LOC103121481 tripartite motif-containing protein 5 pseudogene;[];NW_006803943.1
+103121471;Erinaceus europaeus;6;LOC103121471 tripartite motif-containing protein 6 pseudogene;[];NW_006803943.1
+102870108;Elephantulus edwardii;6;TRIM6 tripartite motif containing 6;['XM_006885650.1'];NW_006399794.1
+123819201;Phyllostomus hastatus;22;LOC123819201 E3 ubiquitin-protein ligase TRIM22-like;['XM_045839497.1'];NW_025333845.1
+123819198;Phyllostomus hastatus;5;LOC123819198 tripartite motif-containing protein 5-like;['XM_045839494.1', 'XM_045839493.1', 'XM_045839492.1'];NW_025333845.1
+123819210;Phyllostomus hastatus;5;LOC123819210 tripartite motif-containing protein 5-like;['XR_006785800.1', 'XM_045839510.1', 'XM_045839509.1'];NW_025333845.1
+123819206;Phyllostomus hastatus;5;LOC123819206 tripartite motif-containing protein 5-like;['XM_045839506.1', 'XM_045839505.1'];NW_025333845.1
+123819204;Phyllostomus hastatus;34;LOC123819204 tripartite motif-containing protein 34-like;['XM_045839503.1', 'XM_045839502.1'];NW_025333845.1
+123819203;Phyllostomus hastatus;6;LOC123819203 tripartite motif-containing protein 6-like;['XM_045839501.1', 'XM_045839500.1'];NW_025333845.1
+123819202;Phyllostomus hastatus;5;LOC123819202 tripartite motif-containing protein 5-like;['XM_045839499.1', 'XM_045839498.1'];NW_025333845.1
+123819199;Phyllostomus hastatus;5;LOC123819199 tripartite motif-containing protein 5-like;['XM_045839496.1', 'XM_045839495.1'];NW_025333845.1
+123819250;Phyllostomus hastatus;34;LOC123819250 tripartite motif-containing protein 34-like;['XM_045839560.1'];NW_025333845.1
+123821086;Phyllostomus hastatus;5;LOC123821086 tripartite motif-containing protein 5-like;[];NW_025333869.1
+123819248;Phyllostomus hastatus;34;LOC123819248 tripartite motif-containing protein 34-like;[];NW_025333845.1
+123819245;Phyllostomus hastatus;5;LOC123819245 tripartite motif-containing protein 5-like;[];NW_025333845.1
+123805568;Phyllostomus hastatus;5;LOC123805568 tripartite motif-containing protein 5-like;[];NW_025334023.1
+113625082;Lagenorhynchus obliquidens;6;TRIM6 tripartite motif containing 6;['XM_027115557.1', 'XR_003434557.1', 'XR_003434556.1', 'XR_003434555.1', 'XM_027115556.1', 'XM_027115555.1'];NW_020837958.1
+101540441;Sorex araneus;6;TRIM6 tripartite motif containing 6;['XM_012935626.1'];NW_004546040.1
+105943441;Sorex araneus;5;LOC105943441 tripartite motif-containing protein 5-like;['XM_012935625.1'];NW_004546040.1
+101540178;Sorex araneus;5;LOC101540178 tripartite motif-containing protein 5-like;['XM_004621210.2'];NW_004546040.1
+100568283;Pan troglodytes;34;TRIM34 tripartite motif containing 34;['XM_016919739.2', 'NM_001205177.1'];NC_036890.1
+450985;Pan troglodytes;22;TRIM22 tripartite motif containing 22;['XM_009459772.3', 'NM_001113396.1'];NC_036890.1
+503563;Pan troglodytes;5;TRIM5 tripartite motif containing 5;['XM_024346833.1', 'XM_016919895.2', 'XM_016919891.2', 'XM_016919890.2', 'XM_016919889.2', 'XM_016919888.2', 'XM_016919894.1', 'XM_016919893.1', 'NM_001012650.1'];NC_036890.1
+100568282;Pan troglodytes;6;TRIM6 tripartite motif containing 6;['NM_001205176.2', 'XM_009459768.3', 'XM_009459767.3', 'XM_009459766.3', 'XM_009459764.3', 'XM_016919738.2'];NC_036890.1
+107135587;Marmota marmota marmota;6;Trim6 tripartite motif containing 6;['XM_015477548.1', 'XM_015477547.1', 'XM_015477546.1', 'XR_001502587.1', 'XM_015477545.1', 'XM_015477544.1', 'XM_015477543.1'];NW_015351213.1
+107135589;Marmota marmota marmota;5;LOC107135589 tripartite motif-containing protein 5-like;['XR_001502588.1', 'XM_015477552.1', 'XM_015477551.1', 'XM_015477550.1', 'XM_015477549.1'];NW_015351213.1
+107134762;Marmota marmota marmota;6;LOC107134762 tripartite motif-containing protein 6 pseudogene;[];NW_015356075.1
+103208437;Orycteropus afer afer;22;LOC103208437 E3 ubiquitin-protein ligase TRIM22-like;['XM_007954148.2'];NW_006921601.1
+115031524;Mus caroli;6;Trim6 tripartite motif containing 6;['XM_029479647.1'];NC_034576.1
+110298224;Mus caroli;34;LOC110298224 tripartite motif-containing protein 34A;['XM_029479648.1'];NC_034576.1
+110295852;Mus caroli;6;LOC110295852 tripartite motif-containing protein 6;['XM_029475503.1'];NC_034570.1
+106977777;Acinonyx jubatus;22;LOC106977777 E3 ubiquitin-protein ligase TRIM22;['XM_027052643.1'];NW_020834837.1
+106977776;Acinonyx jubatus;6;TRIM6 tripartite motif containing 6;['XM_027052642.1'];NW_020834837.1
+106977774;Acinonyx jubatus;34;LOC106977774 tripartite motif-containing protein 34-like;['XM_015075330.2', 'XM_027052641.1', 'XM_015075329.2', 'XM_027052640.1', 'XM_027052639.1'];NW_020834837.1
+101827300;Mesocricetus auratus;6;Trim6 tripartite motif containing 6;['XM_040757307.1', 'XM_040757300.1', 'XM_040757292.1', 'XM_040757281.1', 'XM_021223711.2'];NW_024429182.1
+101823628;Mesocricetus auratus;34;LOC101823628 tripartite motif-containing protein 34A-like;['XM_040757321.1'];NW_024429182.1
+102909699;Peromyscus maniculatus bairdii;34;Trim34 tripartite motif containing 34;['XM_042281137.1', 'XM_015997717.2', 'XM_015997716.2', 'XM_006979024.3'];NC_056008.1
+102909388;Peromyscus maniculatus bairdii;6;Trim6 tripartite motif containing 6;['XM_006979023.3'];NC_056008.1
+116646385;Phoca vitulina;22;TRIM22 tripartite motif containing 22;['XM_032427057.1', 'XM_032427056.1', 'XM_032427055.1', 'XM_032427054.1'];NW_022589739.1
+116646386;Phoca vitulina;6;TRIM6 tripartite motif containing 6;['XM_032427059.1', 'XM_032427058.1'];NW_022589739.1
+116646387;Phoca vitulina;34;LOC116646387 tripartite motif-containing protein 34-like;['XM_032427067.1', 'XM_032427065.1', 'XM_032427064.1', 'XM_032427063.1', 'XM_032427062.1', 'XM_032427061.1', 'XM_032427060.1'];NW_022589739.1
+116646389;Phoca vitulina;34;LOC116646389 tripartite motif-containing protein 34-like;['XM_032427069.1', 'XM_032427068.1'];NW_022589739.1
+119811588;Arvicola amphibius;6;LOC119811588 tripartite motif-containing protein 6;['XM_038325506.1', 'XM_038325502.1', 'XM_038325497.1'];NC_052047.1
+119811611;Arvicola amphibius;34;LOC119811611 tripartite motif-containing protein 34A-like;['XM_038325512.2'];NC_052047.1
+111169218;Delphinapterus leucas;6;LOC111169218 tripartite motif-containing protein 6-like;['XM_022563247.2'];NW_022098024.1
+539820;Bos taurus;34;TRIM34 tripartite motif containing 34;['XM_024975455.1', 'XM_010812612.3', 'XM_024975454.1', 'XM_005216140.4', 'NM_001046461.2'];NC_037342.1
+514492;Bos taurus;6;TRIM6 tripartite motif containing 6;['XM_005216136.4', 'NM_001205189.1'];NC_037342.1
+505265;Bos taurus;5;TRIM5 tripartite motif containing 5;['NM_001205305.1'];NC_037342.1
+616948;Bos taurus;5;LOC616948 tripartite motif-containing protein 5-like;['XM_024975543.1', 'NM_001034798.1'];NC_037342.1
+786870;Bos taurus;5;LOC786870 tripartite motif-containing protein 5-like;['XM_015474726.2'];NC_037342.1
+516599;Bos taurus;5;LOC516599 tripartite motif-containing protein 5;['XM_002693205.5'];NC_037342.1
+782527;Bos taurus;5;LOC782527 tripartite motif-containing protein 5-like;['XM_024996973.1'];NC_037336.1
+107133470;Bos taurus;6;LOC107133470 tripartite motif-containing protein 6-like;[];NC_037342.1
+788136;Bos taurus;5;LOC788136 tripartite motif-containing protein 5-like;[];NC_037342.1
+788107;Bos taurus;5;LOC788107 tripartite motif-containing protein 5-like;[];NC_037342.1
+104663389;Rhinopithecus roxellana;34;TRIM34 tripartite motif containing 34;['XM_030918049.1', 'XM_010364544.1'];NC_044563.1
+104663391;Rhinopithecus roxellana;22;TRIM22 tripartite motif containing 22;['XM_010364545.2'];NC_044563.1
+104663393;Rhinopithecus roxellana;5;TRIM5 tripartite motif containing 5;['XM_010364549.2', 'XM_010364548.2'];NC_044563.1
+104663388;Rhinopithecus roxellana;6;TRIM6 tripartite motif containing 6;['XM_030918050.1', 'XM_010364543.2'];NC_044563.1
+105720334;Aotus nancymaae;22;TRIM22 tripartite motif containing 22;['XM_012456798.2', 'XM_012456796.2', 'XM_012456795.2', 'XM_012456794.2', 'XM_012456797.1'];NW_018503629.1
+105720338;Aotus nancymaae;6;TRIM6 tripartite motif containing 6;['XM_012456806.2'];NW_018503629.1
+105720337;Aotus nancymaae;34;LOC105720337 tripartite motif-containing protein 34;['XM_012456805.2', 'XM_012456804.2', 'XM_012456803.2'];NW_018503629.1
+105720336;Aotus nancymaae;5;LOC105720336 tripartite motif-containing protein 5-like;['XM_012456802.2', 'XM_012456799.2', 'XM_012456800.1'];NW_018503629.1
+105711142;Aotus nancymaae;6;LOC105711142 tripartite motif-containing protein 6-like;['XM_012443768.1'];NW_018509543.1
+114686900;Peromyscus leucopus;6;Trim6 tripartite motif containing 6;['XM_037196686.1', 'XM_028861569.2'];NC_051063.1
+114686901;Peromyscus leucopus;34;LOC114686901 tripartite motif-containing protein 34A-like;['XM_028861570.2'];NC_051063.1
+102142530;Macaca fascicularis;34;TRIM34 tripartite motif containing 34;['XM_005578910.3', 'XM_005578911.2', 'XM_005578910.2'];NC_052268.1
+102135464;Macaca fascicularis;22;TRIM22 tripartite motif containing 22;['XM_005578898.3', 'XM_015435373.1', 'XM_005578898.2'];NC_052268.1
+102135840;Macaca fascicularis;5;TRIM5 tripartite motif containing 5;['XM_045371405.1', 'XM_045371404.1', 'XM_045371403.1', 'XM_045371401.1', 'XM_045371400.1', 'XM_015435360.1', 'XM_015435359.1', 'NM_001283295.1'];NC_052268.1
+102141206;Macaca fascicularis;6;TRIM6 tripartite motif containing 6;['XM_045371396.1', 'XM_005578908.3', 'XM_005578907.3', 'XM_005578907.2', 'XM_015435375.1', 'XM_015435374.1', 'XM_005578908.2'];NC_052268.1
+100589657;Nomascus leucogenys;22;TRIM22 tripartite motif containing 22;['XM_012502104.2', 'NM_001280099.1'];NC_044395.1
+100589315;Nomascus leucogenys;34;TRIM34 tripartite motif containing 34;['XM_003254844.4'];NC_044395.1
+100587885;Nomascus leucogenys;6;TRIM6 tripartite motif containing 6;['XM_003254840.3', 'XM_003254841.3', 'XM_012505159.2', 'XM_003254838.3', 'XM_003254839.3'];NC_044395.1
+100589999;Nomascus leucogenys;5;TRIM5 tripartite motif containing 5;['XM_030828611.1', 'XM_030828610.1', 'XM_030828609.1', 'XM_030828607.1', 'NM_001280113.1'];NC_044395.1
+103605870;Galeopterus variegatus;6;TRIM6 tripartite motif containing 6;['XM_008590474.1'];NW_007732241.1
+103582038;Galeopterus variegatus;22;LOC103582038 E3 ubiquitin-protein ligase TRIM22-like;['XM_008563728.1'];NW_007740817.1
+103581137;Galeopterus variegatus;22;LOC103581137 E3 ubiquitin-protein ligase TRIM22-like;['XM_008563040.1'];NW_007738536.1
+103609157;Galeopterus variegatus;5;LOC103609157 tripartite motif-containing protein 5-like;['XM_008593509.1'];NW_007735384.1
+103605871;Galeopterus variegatus;5;LOC103605871 tripartite motif-containing protein 5-like;['XM_008590475.1'];NW_007732241.1
+103605869;Galeopterus variegatus;5;LOC103605869 tripartite motif-containing protein 5-like;['XM_008590473.1'];NW_007732241.1
+103583415;Galeopterus variegatus;5;LOC103583415 tripartite motif-containing protein 5-like;['XM_008564732.1'];NW_007748877.1
+103583193;Galeopterus variegatus;5;LOC103583193 tripartite motif-containing protein 5-like;['XM_008564579.1'];NW_007746553.1
+103581138;Galeopterus variegatus;5;LOC103581138 tripartite motif-containing protein 5-like;['XM_008563041.1'];NW_007738536.1
+103732075;Nannospalax galili;6;Trim6 tripartite motif containing 6;['XM_029562286.1', 'XM_029562285.1', 'XM_029562284.1', 'XM_029562283.1'];NW_008335836.1
+103732076;Nannospalax galili;34;LOC103732076 tripartite motif-containing protein 34-like;['XM_029562291.1', 'XM_029562290.1', 'XM_008830599.3'];NW_008335836.1
+105003330;Bison bison bison;5;LOC105003330 tripartite motif-containing protein 5-like;['XM_010860452.1', 'XM_010860442.1'];NW_011487786.1
+105003391;Bison bison bison;5;LOC105003391 tripartite motif-containing protein 5-like;['XM_010860531.1'];NW_011487786.1
+105003320;Bison bison bison;34;LOC105003320 tripartite motif-containing protein 34-like;['XM_010860418.1'];NW_011487786.1
+104991954;Bison bison bison;5;LOC104991954 tripartite motif-containing protein 5-like;['XM_010844648.1'];NW_011478750.1
+104991286;Bison bison bison;5;LOC104991286 tripartite motif-containing protein 5-like;['XM_010843707.1'];NW_011478255.1
+104989127;Bison bison bison;5;LOC104989127 tripartite motif-containing protein 5-like;['XM_010840697.1'];NW_011477337.1
+104984830;Bison bison bison;5;LOC104984830 tripartite motif-containing protein 5-like;['XM_010834758.1'];NW_011494607.1
+105003325;Bison bison bison;5;LOC105003325 tripartite motif-containing protein 5-like;[];NW_011487786.1
+102533175;Vicugna pacos;34;LOC102533175 tripartite motif-containing protein 34;['XR_004191546.1', 'XM_031681304.1', 'XR_004191545.1', 'XM_031681302.1', 'XM_031681301.1', 'XM_006203600.3', 'XM_031681300.1', 'XM_031681299.1', 'XM_015238513.2'];NW_021964172.1
+102530438;Vicugna pacos;6;TRIM6 tripartite motif containing 6;['XM_031681305.1'];NW_021964172.1
+102533408;Vicugna pacos;22;LOC102533408 E3 ubiquitin-protein ligase TRIM22-like;['XM_031681307.1'];NW_021964172.1
+102533904;Vicugna pacos;5;LOC102533904 tripartite motif-containing protein 5-like;['XM_015238519.2', 'XM_031681306.1', 'XM_015238518.2'];NW_021964172.1
+115524493;Lynx canadensis;6;TRIM6 tripartite motif containing 6;['XM_030330820.1'];NC_044312.2
+115524491;Lynx canadensis;22;LOC115524491 E3 ubiquitin-protein ligase TRIM22-like;[];NC_044312.2
+115524494;Lynx canadensis;5;LOC115524494 tripartite motif-containing protein 5-like;['XM_030330821.2'];NC_044312.2
+115524492;Lynx canadensis;34;LOC115524492 tripartite motif-containing protein 34-like;['XM_030330818.1'];NC_044312.2
+111159592;Enhydra lutris kenyoni;22;LOC111159592 tripartite motif containing 22;['XM_022522130.1', 'XM_022522129.1', 'XM_022522128.1'];NW_019154152.1
+111159594;Enhydra lutris kenyoni;6;LOC111159594 tripartite motif containing 6;['XM_022522133.1'];NW_019154152.1
+111159593;Enhydra lutris kenyoni;34;LOC111159593 tripartite motif-containing protein 34-like;['XM_022522132.1', 'XM_022522131.1'];NW_019154152.1
+713814;Macaca mulatta;22;TRIM22 tripartite motif containing 22;['XM_015115035.2', 'NM_001113359.1'];NC_041767.1
+100568287;Macaca mulatta;34;TRIM34 tripartite motif containing 34;['NM_001205182.3', 'XM_028832487.1', 'XM_028832486.1', 'XM_015115025.2'];NC_041767.1
+574288;Macaca mulatta;5;TRIM5 tripartite motif containing 5;['NM_001032910.1'];NC_041767.1
+100428125;Macaca mulatta;6;TRIM6 tripartite motif containing 6;['NM_001205183.2', 'XM_028832481.1', 'XM_028832480.1'];NC_041767.1
+116893158;Rattus rattus;6;Trim6 tripartite motif containing 6;['XM_032895075.1'];NC_046155.1
+101102669;Ovis aries;34;TRIM34 tripartite motif containing 34;['XM_042233136.1', 'XM_012095908.3', 'XM_042233135.1', 'XM_012095907.3'];NC_056068.1
+101103179;Ovis aries;6;TRIM6 tripartite motif containing 6;['XM_004016233.5'];NC_056068.1
+105614607;Ovis aries;5;LOC105614607 tripartite motif-containing protein 5-like;['NM_001318072.1'];NC_056068.1
+101119159;Ovis aries;5;LOC101119159 tripartite motif-containing protein 5-like;['XM_042233133.1', 'XM_042233132.1', 'XM_042233131.1', 'XM_042233130.1', 'XM_042233129.1', 'XM_042233128.1', 'XM_012095905.4'];NC_056068.1
+101118897;Ovis aries;5;LOC101118897 tripartite motif-containing protein 5-like;['XR_006056363.1', 'XR_006056362.1', 'XM_042233125.1', 'XR_006056361.1', 'XM_042233124.1', 'XM_042233123.1', 'XM_042233122.1'];NC_056068.1
+114118416;Ovis aries;5;LOC114118416 tripartite motif-containing protein 5-like;['XR_003591784.2', 'XM_042233126.1', 'XM_027979443.2'];NC_056068.1
+114118420;Ovis aries;5;LOC114118420 tripartite motif-containing protein 5-like;['XM_042233127.1'];NC_056068.1
+105614127;Ovis aries;5;LOC105614127 tripartite motif-containing protein 5-like;[];NC_056068.1
+114098385;Marmota flaviventris;6;Trim6 tripartite motif containing 6;['XM_027942600.1', 'XM_027942598.1', 'XM_027942597.1', 'XM_027942596.1'];NW_023144713.1
+114098349;Marmota flaviventris;5;Trim5 tripartite motif containing 5;['XM_027942536.2', 'XM_027942535.1'];NW_023144713.1
+114098491;Marmota flaviventris;5;LOC114098491 tripartite motif-containing protein 5-like;['XM_027942740.1', 'XM_027942739.1', 'XM_027942737.1'];NW_023144713.1
+114091398;Marmota flaviventris;6;LOC114091398 tripartite motif-containing protein 6-like;[];NW_023144847.1
+100963455;Otolemur garnettii;34;LOC100963455 tripartite motif-containing protein 34;['XM_023512841.1', 'XM_023512819.1', 'XM_023512799.1'];NW_003852396.1
+111725078;Otolemur garnettii;6;TRIM6 tripartite motif containing 6;['XM_023512903.1', 'XM_023512881.1'];NW_003852396.1
+100963773;Otolemur garnettii;5;LOC100963773 tripartite motif-containing protein 5;['XM_023509746.1'];NW_003852396.1
+105887415;Otolemur garnettii;5;LOC105887415 tripartite motif-containing protein 5-like;['XM_023512941.1'];NW_003852396.1
+119537743;Choloepus didactylus;6;TRIM6 tripartite motif containing 6;['XM_037840289.1', 'XM_037840288.1', 'XM_037840287.1', 'XM_037840286.1'];NC_051312.1
+119537742;Choloepus didactylus;5;LOC119537742 tripartite motif-containing protein 5-like;['XM_037840285.1', 'XM_037840283.1'];NC_051312.1
+119537737;Choloepus didactylus;5;LOC119537737 tripartite motif-containing protein 5-like;['XR_005217457.1', 'XR_005217456.1', 'XM_037840276.1'];NC_051312.1
+119531704;Choloepus didactylus;6;LOC119531704 tripartite motif-containing protein 6-like;[];NC_051310.1
+119530551;Choloepus didactylus;6;LOC119530551 tripartite motif-containing protein 6-like;[];NC_051309.1
+119505000;Choloepus didactylus;6;LOC119505000 tripartite motif-containing protein 6-like;[];NC_051316.1
+119255566;Talpa occidentalis;5;LOC119255566 tripartite motif-containing protein 5-like;['XM_037522819.1', 'XM_037522818.1', 'XM_037522817.1', 'XM_037522816.1', 'XM_037522815.1', 'XM_037522813.1'];NW_023603184.1
+119255565;Talpa occidentalis;34;LOC119255565 tripartite motif-containing protein 34-like;['XM_037522812.1', 'XM_037522811.1', 'XM_037522810.1', 'XM_037522809.1', 'XM_037522808.1', 'XM_037522807.1'];NW_023603184.1
+119255574;Talpa occidentalis;5;LOC119255574 tripartite motif-containing protein 5-like;['XM_037522831.1', 'XM_037522830.1', 'XM_037522829.1'];NW_023603184.1
+119255567;Talpa occidentalis;5;LOC119255567 tripartite motif-containing protein 5-like;['XM_037522822.1', 'XM_037522821.1', 'XM_037522820.1'];NW_023603184.1
+119255573;Talpa occidentalis;34;LOC119255573 tripartite motif-containing protein 34-like;['XM_037522828.1'];NW_023603184.1
+119255572;Talpa occidentalis;6;LOC119255572 tripartite motif-containing protein 6-like;['XM_037522826.1'];NW_023603184.1
+119255571;Talpa occidentalis;34;LOC119255571 tripartite motif-containing protein 34-like;['XM_037522825.1'];NW_023603184.1
+119255570;Talpa occidentalis;5;LOC119255570 tripartite motif-containing protein 5-like;['XM_037522824.1'];NW_023603184.1
+119255568;Talpa occidentalis;6;LOC119255568 tripartite motif-containing protein 6-like;['XM_037522823.1'];NW_023603184.1
+119255563;Talpa occidentalis;5;LOC119255563 tripartite motif-containing protein 5-like;['XM_037522806.1'];NW_023603184.1
+119254980;Talpa occidentalis;5;LOC119254980 tripartite motif-containing protein 5-like;['XM_037522005.1'];NW_023603184.1
+119254979;Talpa occidentalis;5;LOC119254979 tripartite motif-containing protein 5-like;['XM_037522004.1'];NW_023603184.1
+119254978;Talpa occidentalis;5;LOC119254978 tripartite motif-containing protein 5-like;['XM_037522003.1'];NW_023603184.1
+119255575;Talpa occidentalis;34;LOC119255575 tripartite motif-containing protein 34-like;[];NW_023603184.1
+119255564;Talpa occidentalis;5;LOC119255564 tripartite motif-containing protein 5-like;[];NW_023603184.1
+101353709;Trichechus manatus latirostris;6;LOC101353709 tripartite motif containing 6;['XM_004389079.2', 'XM_004389076.2', 'XM_012559317.1'];NW_004444168.1
+101353205;Trichechus manatus latirostris;22;LOC101353205 E3 ubiquitin-protein ligase TRIM22;['XM_023743012.1', 'XM_023743011.1', 'XM_004389072.2', 'XM_023743010.1'];NW_004444168.1
+101353454;Trichechus manatus latirostris;5;LOC101353454 tripartite motif-containing protein 5-like;['XM_023743016.1', 'XM_023743015.1', 'XM_023743014.1', 'XM_023743013.1', 'XM_004389073.2'];NW_004444168.1
+105755963;Trichechus manatus latirostris;34;LOC105755963 tripartite motif-containing protein 34-like;['XM_023743019.1', 'XM_012559289.2'];NW_004444168.1
+101347050;Trichechus manatus latirostris;5;LOC101347050 tripartite motif-containing protein 5-like;[];NW_004444168.1
+121145225;Ochotona curzoniae;5;LOC121145225 tripartite motif-containing protein 5-like;['XM_040963935.1', 'XM_040963934.1', 'XM_040963933.1', 'XM_040963932.1'];NW_024467108.1
+121145226;Ochotona curzoniae;6;LOC121145226 tripartite motif-containing protein 6-like;['XM_040963938.1', 'XM_040963937.1'];NW_024467108.1
+112911751;Vulpes vulpes;22;TRIM22 tripartite motif containing 22;['XM_025988426.1'];NW_020356712.1
+112911744;Vulpes vulpes;6;TRIM6 tripartite motif containing 6;['XM_025988421.1', 'XM_025988420.1', 'XM_025988419.1'];NW_020356712.1
+112911742;Vulpes vulpes;34;LOC112911742 tripartite motif-containing protein 34-like;['XM_025988418.1'];NW_020356712.1
+105818435;Propithecus coquereli;5;TRIM5 tripartite motif containing 5;['XM_012654429.1'];NW_012150174.1
+105818436;Propithecus coquereli;34;LOC105818436 tripartite motif-containing protein 34-like;['XM_012654430.1'];NW_012150174.1
+101363551;Odobenus rosmarus divergens;22;TRIM22 tripartite motif containing 22;['XM_012564923.1'];NW_004450605.1
+101363249;Odobenus rosmarus divergens;34;LOC101363249 tripartite motif-containing protein 34;['XM_004407582.1'];NW_004450605.1
+101372504;Odobenus rosmarus divergens;6;TRIM6 tripartite motif containing 6;['XM_004407567.2'];NW_004450605.1
+105757834;Odobenus rosmarus divergens;5;LOC105757834 tripartite motif-containing protein 5-like;['XM_012564921.1'];NW_004450605.1
+118664740;Myotis myotis;6;TRIM6 tripartite motif containing 6;['XM_036325208.1'];NW_023416314.1
+118664737;Myotis myotis;22;LOC118664737 E3 ubiquitin-protein ligase TRIM22-like;['XM_036325204.1', 'XM_036325203.1', 'XM_036325201.1'];NW_023416314.1
+118664741;Myotis myotis;22;LOC118664741 E3 ubiquitin-protein ligase TRIM22-like;['XM_036325211.1', 'XM_036325210.1', 'XM_036325209.1'];NW_023416314.1
+118664744;Myotis myotis;5;LOC118664744 tripartite motif-containing protein 5-like;['XM_036325215.1', 'XM_036325214.1', 'XM_036325213.1'];NW_023416314.1
+118664748;Myotis myotis;5;LOC118664748 tripartite motif-containing protein 5-like;['XM_036325218.1'];NW_023416314.1
+118664747;Myotis myotis;5;LOC118664747 tripartite motif-containing protein 5-like;['XM_036325217.1'];NW_023416314.1
+118664739;Myotis myotis;5;LOC118664739 tripartite motif-containing protein 5-like;['XM_036325207.1'];NW_023416314.1
+118664400;Myotis myotis;5;LOC118664400 tripartite motif-containing protein 5-like;['XM_036324460.1'];NW_023416314.1
+118664738;Myotis myotis;34;LOC118664738 tripartite motif-containing protein 34-like;['XR_004970395.1', 'XM_036325206.1', 'XM_036325205.1'];NW_023416314.1
+118650724;Myotis myotis;5;LOC118650724 tripartite motif-containing protein 5-like;[];NW_023416335.1
+118650515;Myotis myotis;5;LOC118650515 tripartite motif-containing protein 5-like;[];NW_023416335.1
+113914829;Zalophus californianus;22;LOC113914829 E3 ubiquitin-protein ligase TRIM22;['XM_027580389.2'];NC_045605.1
+113914831;Zalophus californianus;6;TRIM6 tripartite motif containing 6;['XM_027580394.2', 'XM_027580393.2', 'XM_027580392.2', 'XM_027580391.2', 'XM_027580390.2'];NC_045605.1
+118356077;Zalophus californianus;22;LOC118356077 E3 ubiquitin-protein ligase TRIM22-like;['XM_035722823.1'];NC_045605.1
+113914832;Zalophus californianus;34;LOC113914832 tripartite motif-containing protein 34-like;['XM_035722655.1', 'XM_027580395.2'];NC_045605.1
+100469189;Ailuropoda melanoleuca;22;LOC100469189 E3 ubiquitin-protein ligase TRIM22;['XM_034667615.1'];NC_048225.1
+100476251;Ailuropoda melanoleuca;6;TRIM6 tripartite motif containing 6;['XR_004627174.1', 'XM_034666465.1', 'XM_034666464.1', 'XM_034666463.1', 'XM_034666462.1', 'XM_011233425.3'];NC_048225.1
+100475749;Ailuropoda melanoleuca;34;LOC100475749 tripartite motif-containing protein 34;['XM_034650113.1'];NW_023179692.1
+118981022;Sturnira hondurensis;6;TRIM6 tripartite motif containing 6;['XM_037037749.1'];NW_023530805.1
+118990795;Sturnira hondurensis;22;LOC118990795 E3 ubiquitin-protein ligase TRIM22-like;['XM_037051564.1', 'XM_037051563.1', 'XM_037051562.1'];NW_023513791.1
+118990794;Sturnira hondurensis;22;LOC118990794 E3 ubiquitin-protein ligase TRIM22-like;['XM_037051561.1', 'XM_037051560.1', 'XM_037051559.1'];NW_023513791.1
+118979467;Sturnira hondurensis;5;LOC118979467 tripartite motif-containing protein 5-like;['XM_037035521.1', 'XM_037035520.1', 'XM_037035519.1', 'XM_037035518.1', 'XM_037035517.1', 'XM_037035516.1'];NW_023529723.1
+118990796;Sturnira hondurensis;5;LOC118990796 tripartite motif-containing protein 5-like;['XM_037051569.1', 'XM_037051568.1', 'XM_037051567.1', 'XM_037051566.1', 'XM_037051565.1'];NW_023513791.1
+118981020;Sturnira hondurensis;34;LOC118981020 tripartite motif-containing protein 34-like;['XM_037037748.1', 'XM_037037747.1'];NW_023530805.1
+118981016;Sturnira hondurensis;5;LOC118981016 tripartite motif-containing protein 5-like;['XM_037037745.1'];NW_023530805.1
+118975708;Sturnira hondurensis;5;LOC118975708 tripartite motif-containing protein 5-like;['XM_037029792.1'];NW_023527695.1
+118990836;Sturnira hondurensis;5;LOC118990836 tripartite motif-containing protein 5-like;[];NW_023513791.1
+118975331;Sturnira hondurensis;5;LOC118975331 tripartite motif-containing protein 5-like;[];NW_023527424.1
+120225583;Hyaena hyaena;6;TRIM6 tripartite motif containing 6;['XM_039223771.1', 'XM_039223770.1', 'XM_039223769.1', 'XM_039223768.1', 'XM_039223767.1', 'XM_039223766.1'];NW_024082073.1
+120225582;Hyaena hyaena;22;LOC120225582 E3 ubiquitin-protein ligase TRIM22-like;[];NW_024082073.1
+120225598;Hyaena hyaena;5;LOC120225598 tripartite motif-containing protein 5-like;['XR_005526836.1', 'XM_039223788.1'];NW_024082073.1
+120225584;Hyaena hyaena;34;LOC120225584 tripartite motif-containing protein 34-like;['XM_039223772.1'];NW_024082073.1
+102490990;Tupaia chinensis;22;TRIM22 tripartite motif containing 22;['XM_006161950.3', 'XM_027765714.1', 'XM_006161949.3'];NW_006199376.1
+102472225;Tupaia chinensis;6;TRIM6 tripartite motif containing 6;['XM_014593298.2', 'XM_014593297.2', 'XM_006162531.3', 'XM_006162530.3'];NW_006200055.1
+102478391;Tupaia chinensis;5;LOC102478391 tripartite motif-containing protein 5;['XM_027765991.1'];NW_006200055.1
+102489998;Tupaia chinensis;5;LOC102489998 tripartite motif-containing protein 5;['XM_027765715.1'];NW_006199376.1
+102488769;Tupaia chinensis;5;LOC102488769 tripartite motif-containing protein 5-like;['XM_027765716.1'];NW_006199376.1
+114004464;Tupaia chinensis;5;LOC114004464 tripartite motif-containing protein 5-like;[];NW_006200055.1
+102496332;Tupaia chinensis;5;LOC102496332 tripartite motif-containing protein 5-like;[];NW_006159555.1
+102489183;Tupaia chinensis;5;LOC102489183 tripartite motif-containing protein 5-like;[];NW_006199376.1
+102485842;Tupaia chinensis;5;LOC102485842 tripartite motif-containing protein 5-like;[];NW_006199369.1
+102473181;Tupaia chinensis;5;LOC102473181 tripartite motif-containing protein 5-like;[];NW_006209503.1
+101405283;Ceratotherium simum simum;22;LOC101405283 E3 ubiquitin-protein ligase TRIM22;['XM_004418317.2'];NW_004454156.1
+101404056;Ceratotherium simum simum;34;LOC101404056 tripartite motif-containing protein 34;['XM_004418313.2'];NW_004454156.1
+101389586;Ceratotherium simum simum;6;LOC101389586 tripartite motif-containing protein 6;['XM_014779710.1'];NW_004454341.1
+106800778;Ceratotherium simum simum;22;LOC106800778 E3 ubiquitin-protein ligase TRIM22-like;['XM_014782355.1', 'XM_014782348.1'];NW_004454156.1
+101404755;Ceratotherium simum simum;22;LOC101404755 E3 ubiquitin-protein ligase TRIM22-like;['XM_014782379.1'];NW_004454156.1
+101402130;Ceratotherium simum simum;22;LOC101402130 E3 ubiquitin-protein ligase TRIM22-like;['XM_014782367.1'];NW_004454156.1
+106800781;Ceratotherium simum simum;22;LOC106800781 E3 ubiquitin-protein ligase TRIM22-like;[];NW_004454156.1
+101402390;Ceratotherium simum simum;22;LOC101402390 E3 ubiquitin-protein ligase TRIM22-like;[];NW_004454156.1
+101401874;Ceratotherium simum simum;22;LOC101401874 E3 ubiquitin-protein ligase TRIM22-like;[];NW_004454156.1
+101404325;Ceratotherium simum simum;5;LOC101404325 tripartite motif-containing protein 5-like;['XM_004418314.2'];NW_004454156.1
+101403177;Ceratotherium simum simum;5;LOC101403177 tripartite motif-containing protein 5-like;['XM_014782392.1'];NW_004454156.1
+106800790;Ceratotherium simum simum;5;LOC106800790 tripartite motif-containing protein 5-like;[];NW_004454156.1
+106800083;Ceratotherium simum simum;5;LOC106800083 tripartite motif-containing protein 5-like;[];NW_004454156.1
+101405806;Ceratotherium simum simum;5;LOC101405806 tripartite motif-containing protein 5-like;[];NW_004454156.1
+106800002;Ceratotherium simum simum;22;LOC106800002 E3 ubiquitin-protein ligase TRIM22 pseudogene;[];NW_004454156.1
+120876604;Oryx dammah;6;TRIM6 tripartite motif containing 6;['XM_040258579.1'];NW_024070201.1
+120876597;Oryx dammah;5;LOC120876597 tripartite motif-containing protein 5-like;['XR_005724191.1', 'XM_040258575.1', 'XM_040258573.1', 'XM_040258572.1'];NW_024070201.1
+120860663;Oryx dammah;5;LOC120860663 tripartite motif-containing protein 5-like;['XM_040236419.1', 'XR_005720402.1', 'XM_040236418.1'];NW_024080550.1
+120876603;Oryx dammah;34;LOC120876603 tripartite motif-containing protein 34-like;['XM_040258577.1'];NW_024070201.1
+120876602;Oryx dammah;5;LOC120876602 tripartite motif-containing protein 5-like;['XM_040258576.1'];NW_024070201.1
+120859842;Oryx dammah;5;LOC120859842 tripartite motif-containing protein 5-like;['XM_040235781.1'];NW_024073521.1
+120876600;Oryx dammah;5;LOC120876600 tripartite motif-containing protein 5-like;[];NW_024070201.1
+120876599;Oryx dammah;5;LOC120876599 tripartite motif-containing protein 5-like;[];NW_024070201.1
+120875895;Oryx dammah;34;LOC120875895 tripartite motif-containing protein 34-like;[];NW_024070201.1
+120875894;Oryx dammah;5;LOC120875894 tripartite motif-containing protein 5-like;[];NW_024070201.1
+109687290;Castor canadensis;34;Trim34 tripartite motif containing 34;['XM_020165121.1', 'XM_020165120.1'];NW_017870579.1
+109687291;Castor canadensis;6;Trim6 tripartite motif containing 6;['XM_020165122.1'];NW_017870579.1
+110320438;Mus pahari;5;Trim5 tripartite motif containing 5;['XM_021196485.2', 'XM_021196478.2', 'XM_021196470.2', 'XM_029540879.1'];NC_034590.1
+110320460;Mus pahari;6;Trim6 tripartite motif containing 6;['XM_029540886.1'];NC_034590.1
+110320469;Mus pahari;34;LOC110320469 tripartite motif-containing protein 34A;['XM_021196514.2', 'XM_021196522.1'];NC_034590.1
+105061840;Camelus bactrianus;6;TRIM6 tripartite motif containing 6;['XM_045509872.1', 'XM_045509871.1', 'XM_010945976.1'];NW_011511198.1
+105076717;Camelus bactrianus;5;LOC105076717 tripartite motif-containing protein 5-like;['XM_045523899.1', 'XM_010964982.2', 'XM_045523898.1', 'XM_010964980.2', 'XM_010964983.1', 'XM_010964982.1', 'XM_010964981.1', 'XM_010964980.1'];NW_011516265.1
+105061839;Camelus bactrianus;34;LOC105061839 tripartite motif-containing protein 34-like;['XR_006721674.1', 'XR_006721673.1', 'XM_045509870.1', 'XM_045509869.1', 'XM_045509868.1', 'XM_045509867.1', 'XM_045509866.1', 'XM_045509865.1', 'XM_045509864.1', 'XM_010945975.2', 'XM_045509863.1', 'XM_010945975.1'];NW_011511198.1
+123614324;Camelus bactrianus;5;LOC123614324 tripartite motif-containing protein 5-like;['XM_045509877.1'];NW_011511198.1
+105082467;Camelus bactrianus;5;LOC105082467 tripartite motif-containing protein 5-like;['XM_010972031.2', 'XM_010972031.1'];NW_011543864.1
+105064149;Camelus bactrianus;5;LOC105064149 tripartite motif-containing protein 5-like;['XM_010948973.2', 'XM_010948973.1'];NW_011511760.1
+105063554;Camelus bactrianus;5;LOC105063554 tripartite motif-containing protein 5;['XM_010948132.2', 'XM_010948132.1'];NW_011509979.1
+121021159;Puma yagouaroundi;6;TRIM6 tripartite motif containing 6;['XM_040461387.1', 'XM_040461386.1'];NW_024412472.1
+121021160;Puma yagouaroundi;22;LOC121021160 E3 ubiquitin-protein ligase TRIM22-like;['XM_040461388.1'];NW_024412472.1
+121021158;Puma yagouaroundi;34;LOC121021158 tripartite motif-containing protein 34-like;['XM_040461385.1', 'XM_040461384.1', 'XM_040461383.1', 'XM_040461381.1', 'XM_040461380.1'];NW_024412472.1
+121016665;Puma yagouaroundi;6;LOC121016665 tripartite motif-containing protein 6-like;['XM_040454385.1'];NW_024412443.1
+112407662;Neophocaena asiaeorientalis asiaeorientalis;6;TRIM6 tripartite motif containing 6;['XM_024757038.1'];NW_020174438.1
+118899726;Balaenoptera musculus;6;TRIM6 tripartite motif containing 6;['XM_036861628.1', 'XM_036861627.1'];NC_045792.1
+102764759;Myotis davidii;6;LOC102764759 tripartite motif-containing protein 6;['XM_015560147.1', 'XM_015560110.1', 'XM_015560087.1', 'XM_006752599.2'];NW_006281839.1
+102752970;Myotis davidii;5;LOC102752970 tripartite motif-containing protein 5;['XM_006767923.2'];NW_006293959.1
+107182031;Myotis davidii;22;LOC107182031 E3 ubiquitin-protein ligase TRIM22-like;['XM_015559613.1'];NW_006281839.1
+102772702;Myotis davidii;5;LOC102772702 tripartite motif-containing protein 5;['XM_015568032.1', 'XM_006770067.2'];NW_006295459.1
+102766461;Myotis davidii;5;LOC102766461 tripartite motif-containing protein 5;['XM_006752605.2'];NW_006281839.1
+102753792;Myotis davidii;5;LOC102753792 tripartite motif-containing protein 5;['XM_015566677.1'];NW_006293959.1
+102753236;Myotis davidii;5;LOC102753236 tripartite motif-containing protein 5;['XM_006767924.2'];NW_006293959.1
+102773168;Myotis davidii;22;LOC102773168 E3 ubiquitin-protein ligase TRIM22;['XM_006770069.2'];NW_006295459.1
+102767617;Myotis davidii;22;LOC102767617 E3 ubiquitin-protein ligase TRIM22;['XM_015560198.1'];NW_006281839.1
+105883480;Microcebus murinus;6;TRIM6 tripartite motif containing 6;['XM_012786601.1', 'XM_012786600.1', 'XM_012786599.1'];NC_033664.1
+105883476;Microcebus murinus;5;LOC105883476 tripartite motif-containing protein 5-like;['XM_012786593.2', 'XM_012786592.2', 'NM_001309943.1'];NC_033664.1
+105883479;Microcebus murinus;34;LOC105883479 tripartite motif-containing protein 34-like;['XM_020286593.1'];NC_033664.1
+105883338;Microcebus murinus;5;LOC105883338 tripartite motif-containing protein 5-like;[];NC_033664.1
+100126072;Oryctolagus cuniculus;5;TRIM5 tripartite motif containing 5;['XM_008258591.2', 'XM_017341501.1', 'XM_008258588.2', 'XM_017341452.1', 'NM_001105673.1'];NC_013669.1
+100328879;Oryctolagus cuniculus;6;TRIM6 tripartite motif containing 6;['NM_001171472.1'];NC_013669.1
+103345896;Oryctolagus cuniculus;5;LOC103345896 tripartite motif-containing protein 5-like;[];NC_013670.1
+102437606;Myotis lucifugus;5;LOC102437606 tripartite motif-containing protein 5;['XM_023758768.1', 'XM_023758767.1', 'XM_023758765.1'];NW_005871186.1
+102436786;Myotis lucifugus;34;LOC102436786 tripartite motif-containing protein 34;['XM_023758764.1', 'XM_006094557.3'];NW_005871186.1
+102436277;Myotis lucifugus;6;TRIM6 tripartite motif containing 6;['XM_006094555.2'];NW_005871186.1
+102435966;Myotis lucifugus;22;LOC102435966 E3 ubiquitin-protein ligase TRIM22-like;['XM_023758783.1', 'XM_014460753.2'];NW_005871186.1
+106698119;Myotis lucifugus;22;LOC106698119 E3 ubiquitin-protein ligase TRIM22-like;['XM_014460759.2'];NW_005871186.1
+102431987;Myotis lucifugus;5;LOC102431987 tripartite motif-containing protein 5-like;['XM_023748413.1', 'XM_014449718.2', 'XM_014449717.2'];NW_005872421.1
+111827152;Myotis lucifugus;5;LOC111827152 tripartite motif-containing protein 5-like;['XM_023758769.1'];NW_005871186.1
+111822979;Myotis lucifugus;5;LOC111822979 tripartite motif-containing protein 5-like;['XM_006094560.3'];NW_005871186.1
+106694372;Myotis lucifugus;5;LOC106694372 tripartite motif-containing protein 5-like;['XM_014449721.2'];NW_005872421.1
+111823000;Myotis lucifugus;5;LOC111823000 tripartite motif-containing protein 5-like;[];NW_005871186.1
+102437756;Myotis lucifugus;5;LOC102437756 tripartite motif-containing protein 5-like;[];NW_005871058.1
+107538708;Miniopterus natalensis;6;TRIM6 tripartite motif containing 6;['XM_016215033.1', 'XM_016215032.1', 'XM_016215031.1'];NW_015504598.1
+107538666;Miniopterus natalensis;22;LOC107538666 E3 ubiquitin-protein ligase TRIM22-like;['XM_016214982.1', 'XM_016214980.1'];NW_015504598.1
+107538709;Miniopterus natalensis;34;LOC107538709 tripartite motif-containing protein 34-like;['XM_016215034.1'];NW_015504598.1
+107540508;Miniopterus natalensis;5;LOC107540508 tripartite motif-containing protein 5-like;['XM_016217283.1', 'XM_016217282.1'];NW_015504667.1
+107538665;Miniopterus natalensis;5;LOC107538665 tripartite motif-containing protein 5-like;['XM_016214979.1'];NW_015504598.1
+107538608;Miniopterus natalensis;5;LOC107538608 tripartite motif-containing protein 5-like;['XM_016214926.1'];NW_015504598.1
+103001450;Balaenoptera acutorostrata scammoni;6;TRIM6 tripartite motif containing 6;['XM_007172865.2', 'XM_007172866.1'];NW_006725854.1
+104869977;Fukomys damarensis;34;LOC104869977 tripartite motif-containing protein 34;['XM_033764185.1', 'XM_010635407.2', 'XM_010635400.3', 'XM_010635389.3', 'XM_010635394.3', 'XM_010635383.3', 'XM_010635382.3'];NW_022900928.1
+104870033;Fukomys damarensis;5;LOC104870033 tripartite motif-containing protein 5;['XM_010635428.2'];NW_022900928.1
+104847912;Fukomys damarensis;5;LOC104847912 tripartite motif-containing protein 5;['XM_010603876.1'];NW_022944695.1
+100763830;Cricetulus griseus;6;LOC100763830 tripartite motif-containing protein 6;['XM_035442316.1', 'XM_027407920.2', 'XM_027407918.2', 'XM_027407917.2', 'XM_027407914.2', 'XM_027407916.2', 'XM_035442315.1', 'XM_035442314.1', 'XM_027407915.2', 'XM_027407913.2', 'XM_027407912.2', 'XM_007653554.4'];NW_003615815.1
+100762063;Cricetulus griseus;6;LOC100762063 tripartite motif-containing protein 6-like;['XM_035453913.1', 'XM_035459958.1'];NW_003614566.1
+113832530;Cricetulus griseus;6;LOC113832530 tripartite motif-containing protein 6-like;[];NW_023276806.1
+107977724;Cricetulus griseus;6;LOC107977724 tripartite motif-containing protein 6-like;[];NW_003661988.1
+100773054;Cricetulus griseus;6;LOC100773054 tripartite motif-containing protein 6-like;[];NW_003614620.1
+100772197;Cricetulus griseus;6;LOC100772197 tripartite motif-containing protein 6-like;[];NW_003615572.1
+100769658;Cricetulus griseus;6;LOC100769658 tripartite motif-containing protein 6-like;[];NW_003619058.1
+100760265;Cricetulus griseus;6;LOC100760265 tripartite motif-containing protein 6-like;[];NW_003618528.1
+100759791;Cricetulus griseus;6;LOC100759791 tripartite motif-containing protein 6-like;[];NW_003618740.1
+100752697;Cricetulus griseus;6;LOC100752697 tripartite motif-containing protein 6-like;[];NW_003619125.1
+121476546;Vulpes lagopus;22;TRIM22 tripartite motif containing 22;['XM_041730642.1', 'XM_041730641.1', 'XM_041730639.1', 'XM_041730638.1', 'XM_041730637.1'];NC_054838.1
+121476456;Vulpes lagopus;6;TRIM6 tripartite motif containing 6;['XM_041730497.1', 'XM_041730495.1', 'XM_041730494.1'];NC_054838.1
+121476454;Vulpes lagopus;34;LOC121476454 tripartite motif-containing protein 34-like;['XM_041730493.1', 'XM_041730492.1', 'XM_041730491.1', 'XM_041730490.1'];NC_054838.1
+101133927;Gorilla gorilla;22;TRIM22 tripartite motif containing 22;['XM_031007637.1', 'XM_019037085.2', 'XM_004050562.3'];NW_022154674.1
+101133340;Gorilla gorilla;5;TRIM5 tripartite motif containing 5;['XM_019035664.2', 'XM_019035663.2', 'XM_019035662.2', 'XM_019035661.2', 'NM_001279549.1'];NW_022154674.1
+101132248;Gorilla gorilla;6;LOC101132248 tripartite motif-containing protein 6;['XM_004050556.2', 'XM_019037090.1', 'XM_019037089.1'];NW_022154674.1
+122912659;Neogale vison;6;TRIM6 tripartite motif containing 6;['XM_044258699.1', 'XM_044258698.1', 'XM_044258697.1', 'XM_044258696.1', 'XM_044258695.1', 'XM_044258694.1'];NC_058097.1
+122913544;Neogale vison;22;LOC122913544 E3 ubiquitin-protein ligase TRIM22-like;['XM_044260234.1'];NC_058097.1
+122912658;Neogale vison;34;LOC122912658 tripartite motif-containing protein 34-like;['XM_044258693.1', 'XM_044258692.1', 'XM_044258691.1', 'XM_044258690.1', 'XM_044258688.1'];NC_058097.1
